@@ -56,6 +56,8 @@ class ArticleIndexReader {
 		importance = [],
 		link = [],
 		hasPage = [],
+		minTime = 0,
+		maxTime = 100000000000000,
 		sorting = [],
 	) {}
 
