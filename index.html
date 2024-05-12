@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+	<var></var>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- <meta
+			name="Identifier-URL"
+			content="https://englishexamforever.pages.dev"
+		/> -->
+		<meta name="title" content="ChangwaangReviews" />
+		<!-- <meta
+			name="description"
+			lang="en"
+			content="Web application that allows you to take AI generated English exams forever."
+		/>
+		<meta
+			name="description"
+			lang="ja"
+			content="AI生成の英語読解問題を永遠に解くことができるWebサイト。"
+		/> -->
+
+		<title>ChangwaangReviews</title>
+
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script src="https://unpkg.com/vue-i18n@9"></script>
+		<script src="https://unpkg.com/vue-router@4.0.15/dist/vue-router.global.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue3-sfc-loader/dist/vue3-sfc-loader.js"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+	</head>
+
+	<body>
+		<div id="app"></div>
+
+		<script>
+			//initialize i18n
+			const locale_supported = ["en", "ja"]
+
+			//avoid unknown language
+			let locale = navigator.language
+			if (!locale_supported.includes(locale)) locale = "en"
+
+			const i18n = VueI18n.createI18n({
+				legacy: false,
+				locale: navigator.language,
+				fallbackLocale: "en",
+			})
+
+			//initialize vue3-sfc-loader
+			const options = {
+				moduleCache: {
+					vue: Vue,
+				},
+
+				//read subdirectory vue component file.
+				async getFile(url) {
+					const res = await fetch(url)
+					if (!res.ok)
+						throw Object.assign(new Error(res.statusText + " " + url), {res})
+					return {
+						getContentData: (asBinary) =>
+							asBinary ? res.arrayBuffer() : res.text(),
+					}
+				},
+
+				addStyle(textContent) {
+					const style = Object.assign(document.createElement("style"), {
+						textContent,
+					})
+					const ref = document.head.getElementsByTagName("style")[0] || null
+					document.head.insertBefore(style, ref)
+				},
+
+				//read <i18n> tag
+				customBlockHandler(block, filename, options) {
+					if (block.type !== "i18n") return
+					const messages = JSON.parse(block.content)
+					for (let locale in messages)
+						i18n.global.mergeLocaleMessage(locale, messages[locale])
+				},
+			}
+			const {loadModule} = window["vue3-sfc-loader"]
+
+			//Mount App.vue
+			const app = Vue.createApp(
+				Vue.defineAsyncComponent(() =>
+					loadModule("./src/components/App.vue", options),
+				),
+			)
+			app.use(i18n)
+		</script>
+		<script src="./src/scripts/router.js"></script>
+		<script>
+			app.use(router)
+			app.mount("#app")
+		</script>
+	</body>
+</html>
