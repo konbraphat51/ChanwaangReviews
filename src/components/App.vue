@@ -1,7 +1,5 @@
 <template>
 	<div id="app">
-		{{ t("example.explain") }}
-
 		<!-- view page shown here -->
 		<router-view />
 	</div>
