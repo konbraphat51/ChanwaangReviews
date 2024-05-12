@@ -17,12 +17,18 @@ class ArticleIndexReader {
 		this.articles = []
 	}
 
-	readIndex() {
-		const index = require("../data/index.json")
-		this.articles = index.articles
+	/**
+	 * Update index data
+	 */
+	ReadIndex() {
+		fetch(INDEX_FILE).then((response) => {
+			this.raw_json = response.json()
+			this.#ProcessData()
+		})
 	}
 
-	getArticles() {
-		return this.articles
-	}
+	/**
+	 * Process raw data received
+	 */
+	#ProcessData() {}
 }
