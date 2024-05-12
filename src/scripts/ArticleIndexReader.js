@@ -35,5 +35,21 @@ class ArticleIndexReader {
 	/**
 	 * Process raw data received
 	 */
-	#ProcessData() {}
+	#ProcessData() {
+		this.articles = []
+		this.raw_json.forEach((element) => {
+			this.articles.push(
+				new Article(
+					element.filename,
+					element.title,
+					element.media,
+					element.tags,
+					element.short,
+					element.importance,
+					element.link,
+					element.hasPage,
+				),
+			)
+		})
+	}
 }
