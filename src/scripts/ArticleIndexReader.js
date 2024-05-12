@@ -1,7 +1,8 @@
 const INDEX_FILE = "src/data/articles.json"
 
 class Article {
-	constructor(title, media, tags, short, importance, link, hasPage) {
+	constructor(filename, title, media, tags, short, importance, link, hasPage) {
+		this.filename = filename
 		this.title = title
 		this.media = media
 		this.tags = tags
