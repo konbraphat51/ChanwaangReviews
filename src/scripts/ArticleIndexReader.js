@@ -33,6 +33,22 @@ class ArticleIndexReader {
 	}
 
 	/**
+	 * Select articles based on criteria
+	 * @param {boolean} and - true for AND, false for OR
+	 */
+	SelectArticles(
+		and = true,
+		title = [],
+		media = [],
+		tags = [],
+		short = [],
+		importance = [],
+		link = [],
+		hasPage = [],
+		sorting = [],
+	) {}
+
+	/**
 	 * Process raw data received
 	 */
 	#ProcessData() {
