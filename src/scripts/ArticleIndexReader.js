@@ -21,10 +21,12 @@ class ArticleIndexReader {
 	 * Update index data
 	 */
 	ReadIndex() {
-		fetch(INDEX_FILE).then((response) => {
-			this.raw_json = response.json()
-			this.#ProcessData()
-		})
+		fetch(INDEX_FILE).then((response) =>
+			response.json().then((data) => {
+				this.raw_json = data
+				this.#ProcessData()
+			}),
+		)
 	}
 
 	/**
