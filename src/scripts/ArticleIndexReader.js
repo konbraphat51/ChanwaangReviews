@@ -1,7 +1,17 @@
 const INDEX_FILE = "src/data/articles.json"
 
 class Article {
-	constructor(filename, title, media, tags, short, importance, link, hasPage) {
+	constructor(
+		filename,
+		title,
+		media,
+		tags,
+		short,
+		importance,
+		link,
+		hasPage,
+		time,
+	) {
 		this.filename = filename
 		this.title = title
 		this.media = media
@@ -10,6 +20,7 @@ class Article {
 		this.importance = importance
 		this.link = link
 		this.hasPage = hasPage
+		this.time = time
 	}
 }
 
@@ -64,6 +75,7 @@ class ArticleIndexReader {
 					element.importance,
 					element.link,
 					element.hasPage,
+					element.time,
 				),
 			)
 		})
