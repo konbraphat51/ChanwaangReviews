@@ -68,6 +68,18 @@ class ArticleIndexReader {
 
 		//media
 		filtered = this.#FilterInclusive("media", media, and)
+
+		//tags
+		filtered = this.#FilterMatching("tags", tags, and)
+
+		//short
+		filtered = this.#FilterInclusive("short", short, and)
+
+		//importance
+		filtered = this.#FilterMatching("importance", importance, and)
+
+		//link
+		filtered = this.#FilterInclusive("link", link, and)
 	}
 
 	/**
