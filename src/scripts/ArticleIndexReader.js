@@ -65,22 +65,22 @@ class ArticleIndexReader {
 		let filtered = this.articles.concat()
 
 		//title
-		filtered = this.#FilterInclusive("title", title, and)
+		filtered = this.#FilterInclusive(filtered, "title", title, and)
 
 		//media
-		filtered = this.#FilterInclusive("media", media, and)
+		filtered = this.#FilterInclusive(filtered, "media", media, and)
 
 		//tags
-		filtered = this.#FilterMatching("tags", tags, and)
+		filtered = this.#FilterMatching(filtered, "tags", tags, and)
 
 		//short
-		filtered = this.#FilterInclusive("short", short, and)
+		filtered = this.#FilterInclusive(filtered, "short", short, and)
 
 		//importance
 		filtered = this.#FilterValue(filtered, "importance", importance)
 
 		//link
-		filtered = this.#FilterInclusive("link", link, and)
+		filtered = this.#FilterInclusive(filtered, "link", link, and)
 
 		//hasPage
 		filtered = this.#FilterValue(filtered, "hasPage", hasPage)
