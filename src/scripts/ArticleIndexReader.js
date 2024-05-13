@@ -83,7 +83,42 @@ class ArticleIndexReader {
 		})
 	}
 
+	/**
+	 * Check string including keywords
+	 */
 	#FilterInclusive(key, keywords, and) {
+		let result = []
+		this.articles.forEach((article) => {
+			if (and) {
+				//AND
+				let ok = true
+				keywords.forEach((keyword) => {
+					if (!article[key].includes(keyword)) {
+						ok = false
+						return // break from forEach
+					}
+				})
+				if (ok) {
+					result.push(article)
+				}
+			} else {
+				//OR
+				keywords.forEach((keyword) => {
+					if (article[key].includes(keyword)) {
+						result.push(article)
+						return // break from forEach
+					}
+				})
+			}
+		})
+
+		return result
+	}
+
+	/**
+	 * Check list matching keywords
+	 */
+	#FilterMatching(key, keywords, and) {
 		let result = []
 		this.articles.forEach((article) => {
 			if (and) {
