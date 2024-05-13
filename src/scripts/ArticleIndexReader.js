@@ -59,7 +59,16 @@ class ArticleIndexReader {
 		minTime = 0,
 		maxTime = 100000000000000,
 		sorting = [],
-	) {}
+	) {
+		//copy
+		let filtered = this.articles.concat()
+
+		//title
+		filtered = this.#FilterInclusive("title", title, and)
+
+		//media
+		filtered = this.#FilterInclusive("media", media, and)
+	}
 
 	/**
 	 * Process raw data received
@@ -86,9 +95,9 @@ class ArticleIndexReader {
 	/**
 	 * Check string including keywords
 	 */
-	#FilterInclusive(key, keywords, and) {
+	#FilterInclusive(target, key, keywords, and) {
 		let result = []
-		this.articles.forEach((article) => {
+		target.forEach((article) => {
 			if (and) {
 				//AND
 				let ok = true
@@ -118,9 +127,9 @@ class ArticleIndexReader {
 	/**
 	 * Check list matching keywords
 	 */
-	#FilterMatching(key, keywords, and) {
+	#FilterMatching(target, key, keywords, and) {
 		let result = []
-		this.articles.forEach((article) => {
+		target.forEach((article) => {
 			if (and) {
 				//AND
 				let ok = true
