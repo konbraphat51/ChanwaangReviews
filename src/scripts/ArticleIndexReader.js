@@ -56,7 +56,7 @@ class ArticleIndexReader {
 		short = [],
 		importance = [],
 		link = [],
-		hasPage = [],
+		hasPage = null,
 		minTime = 0,
 		maxTime = 100000000000000,
 		sorting = [],
@@ -77,10 +77,13 @@ class ArticleIndexReader {
 		filtered = this.#FilterInclusive("short", short, and)
 
 		//importance
-		filtered = this.#FilterMatching("importance", importance, and)
+		filtered = this.#FilterValue(filtered, "importance", importance)
 
 		//link
 		filtered = this.#FilterInclusive("link", link, and)
+
+		//hasPage
+		filtered = this.#FilterValue(filtered, "hasPage", hasPage)
 	}
 
 	/**
@@ -186,6 +189,16 @@ class ArticleIndexReader {
 			}
 		})
 
+		return result
+	}
+
+	#FilterValue(target, key, values) {
+		let result = []
+		target.forEach((article) => {
+			if (values.includes(article[key])) {
+				result.push(article)
+			}
+		})
 		return result
 	}
 }
