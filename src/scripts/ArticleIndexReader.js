@@ -84,6 +84,9 @@ class ArticleIndexReader {
 
 		//hasPage
 		filtered = this.#FilterValue(filtered, "hasPage", hasPage)
+
+		//time
+		filtered = this.#FilterTime(filtered, minTime, maxTime)
 	}
 
 	/**
@@ -196,6 +199,16 @@ class ArticleIndexReader {
 		let result = []
 		target.forEach((article) => {
 			if (values.includes(article[key])) {
+				result.push(article)
+			}
+		})
+		return result
+	}
+
+	#FilterTime(target, minTime, maxTime) {
+		let result = []
+		target.forEach((article) => {
+			if (article.time >= minTime && article.time <= maxTime) {
 				result.push(article)
 			}
 		})
