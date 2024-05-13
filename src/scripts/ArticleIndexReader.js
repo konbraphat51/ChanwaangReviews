@@ -59,7 +59,10 @@ class ArticleIndexReader {
 		hasPage = null,
 		minTime = 0,
 		maxTime = 100000000000000,
-		sorting = [],
+		sorting = [
+			["importance", "desc"],
+			["time", "desc"],
+		],
 	) {
 		//copy
 		let filtered = this.articles.concat()
@@ -87,6 +90,9 @@ class ArticleIndexReader {
 
 		//time
 		filtered = this.#FilterTime(filtered, minTime, maxTime)
+
+		//sort
+		return this.#Sort(filtered, sorting)
 	}
 
 	/**
@@ -212,6 +218,28 @@ class ArticleIndexReader {
 				result.push(article)
 			}
 		})
+		return result
+	}
+
+	#Sort(target, sorting) {
+		//copy
+		let result = target.concat()
+
+		result.sort((a, b) => {
+			//comparison
+			for (let i = 0; i < sorting.length; i++) {
+				let key = sorting[i][0]
+				let order = sorting[i][1]
+				if (a[key] < b[key]) {
+					return order === "asc" ? -1 : 1
+				}
+				if (a[key] > b[key]) {
+					return order === "asc" ? 1 : -1
+				}
+			}
+			return 0
+		})
+
 		return result
 	}
 }
