@@ -1,4 +1,5 @@
 const INDEX_FILE = "src/data/articles.json"
+const LOCALES = ["en", "ja"]
 
 class Article {
 	constructor(
@@ -110,27 +111,47 @@ class ArticleIndexReader {
 	#FilterInclusive(target, key, keywords, and) {
 		let result = []
 		target.forEach((article) => {
-			if (and) {
-				//AND
-				let ok = true
-				keywords.forEach((keyword) => {
-					if (!article[key].includes(keyword)) {
-						ok = false
-						return // break from forEach
-					}
-				})
-				if (ok) {
-					result.push(article)
-				}
+			let targetStrings = []
+			if (typeof article[key] === "string") {
+				targetStrings.push(article[key])
 			} else {
-				//OR
-				keywords.forEach((keyword) => {
-					if (article[key].includes(keyword)) {
+				//object
+				//has several locale
+				article[key].forEach((element) => {
+					targetStrings.push(element)
+				})
+			}
+
+			targetStrings.forEach((targetString) => {
+				if (and) {
+					//AND
+					let ok = true
+					keywords.forEach((keyword) => {
+						if (!targetString.includes(keyword)) {
+							ok = false
+							return // break from forEach
+						}
+					})
+					if (ok) {
 						result.push(article)
 						return // break from forEach
 					}
-				})
-			}
+				} else {
+					//OR
+					let ok = false
+					keywords.forEach((keyword) => {
+						if (targetString.includes(keyword)) {
+							result.push(article)
+							ok = true
+							return // break from forEach
+						}
+					})
+
+					if (ok) {
+						return // break from forEach
+					}
+				}
+			})
 		})
 
 		return result
