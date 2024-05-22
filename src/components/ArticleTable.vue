@@ -1,6 +1,6 @@
 <template>
-	<div class="ArticleTable">
-		<table>
+	<div class="ArticleTableRoot">
+		<table class="ArticleTable">
 			<thead>
 				<tr>
 					<th scope="col">{{ t("ArticleTable.Title") }}</th>
