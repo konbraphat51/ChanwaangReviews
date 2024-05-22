@@ -35,6 +35,6 @@ articles = {"articles": metadata}
 
 json.dump(
     articles,
-    open("src/data/articles/articles.json", "w", encoding="utf-8"),
+    open("src/data/articles/articles.json", "w", encoding="utf-8", ensure_ascii=False),
     indent=4,
 )
