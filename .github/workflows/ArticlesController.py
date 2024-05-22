@@ -1,5 +1,6 @@
 import glob
 import json
+import pathlib
 
 # get all articles
 files = glob.glob("src/data/articles/each/*.md")
@@ -22,7 +23,9 @@ for file in files:
         metadatum = json.loads(metadatumString)
         
         #get filename
-        metadatum["filename"] = file.split("\\")[-1]
+        path = pathlib.Path(file)
+        filename = path.stem
+        metadatum["filename"] = filename
         
         # into list
         metadata.append(metadatum)
