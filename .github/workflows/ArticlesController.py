@@ -21,6 +21,9 @@ for file in files:
         # JSON to dictionary
         metadatum = json.loads(metadatumString)
         
+        #get filename
+        metadatum["filename"] = file.split("/")[-1].split(".")[0]
+        
         # into list
         metadata.append(metadatum)
 
