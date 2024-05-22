@@ -33,12 +33,26 @@ export default Vue.defineComponent({
     {
         "en": {
             "ArticleTable": {
-                "Title": "Title"
+                "Title": "Title",
+                "Short": "Short",
+                "Tags": "Tags",
+                "Importance": "Importance",
+                "HasPage": "Markdown",
+                "UpdatedAt": "Updated At",
+                "CreatedAt": "Created At",
+                "Filename": "Filename"
             }
         },
         "ja": {
             "ArticleTable": {
-                "Title": "タイトル"
+                "Title": "タイトル",
+                "Short": "概略",
+                "Tags": "タグ",
+                "Importance": "重要度",
+                "HasPage": "マークダウン",
+                "UpdatedAt": "更新日時",
+                "CreatedAt": "作成日時",
+                "Filename": "ファイル名"
             }
         }
     }
