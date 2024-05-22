@@ -7,7 +7,7 @@ files = glob.glob("src/data/articles/each/*.md")
 #get all metadata
 metadata = []
 for file in files:
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding="utf-8") as f:
         content = f.read()
         
         # get metadata
@@ -22,7 +22,7 @@ for file in files:
         metadatum = json.loads(metadatumString)
         
         #get filename
-        metadatum["filename"] = file.split("/")[-1].split(".")[0]
+        metadatum["filename"] = file.split("\\")[-1]
         
         # into list
         metadata.append(metadatum)
@@ -32,4 +32,4 @@ articles = {
     "articles": metadata
 }
 
-json.dump(articles, open("src/data/articles/articles.json", "w"), indent=4)
+json.dump(articles, open("src/data/articles/articles.json", "w", encoding="utf-8"), indent=4)
