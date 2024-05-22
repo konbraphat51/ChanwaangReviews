@@ -3,14 +3,24 @@
 		<table class="ArticleTable">
 			<thead>
 				<tr>
-					<th scope="col">{{ t("ArticleTable.Title") }}</th>
-					<th scope="col">{{ t("ArticleTable.Short") }}</th>
-					<th scope="col">{{ t("ArticleTable.Tags") }}</th>
-					<th scope="col">{{ t("ArticleTable.Importance") }}</th>
-					<th scope="col">{{ t("ArticleTable.HasPage") }}</th>
-					<th scope="col">{{ t("ArticleTable.UpdatedAt") }}</th>
-					<th scope="col">{{ t("ArticleTable.CreatedAt") }}</th>
-					<th scope="col">{{ t("ArticleTable.Filename") }}</th>
+					<th scope="col" v-if="showTitle">{{ t("ArticleTable.Title") }}</th>
+					<th scope="col" v-if="showShort">{{ t("ArticleTable.Short") }}</th>
+					<th scope="col" v-if="showTags">{{ t("ArticleTable.Tags") }}</th>
+					<th scope="col" v-if="showImportance">
+						{{ t("ArticleTable.Importance") }}
+					</th>
+					<th scope="col" v-if="showHasPage">
+						{{ t("ArticleTable.HasPage") }}
+					</th>
+					<th scope="col" v-if="showUpdatedAt">
+						{{ t("ArticleTable.UpdatedAt") }}
+					</th>
+					<th scope="col" v-if="showCreatedAt">
+						{{ t("ArticleTable.CreatedAt") }}
+					</th>
+					<th scope="col" v-if="showFilename">
+						{{ t("ArticleTable.Filename") }}
+					</th>
 				</tr>
 			</thead>
 			<tbody></tbody>
@@ -21,6 +31,18 @@
 <script>
 export default Vue.defineComponent({
 	name: "ArticleTable",
+	data() {
+		return {
+			showTitle: true,
+			showShort: true,
+			showTags: true,
+			showImportance: true,
+			showHasPage: true,
+			showUpdatedAt: false,
+			showCreatedAt: false,
+			showFilename: false,
+		}
+	},
 	setup() {
 		//set up i18n
 		const {t} = VueI18n.useI18n()
