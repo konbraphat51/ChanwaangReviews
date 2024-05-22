@@ -1,10 +1,17 @@
 <template>
-	<div id="Home"></div>
+	<div id="Home">
+		<ArticleTable />
+	</div>
 </template>
 
 <script>
 export default Vue.defineComponent({
 	name: "Home",
+	components: {
+		ArticleTable: Vue.defineAsyncComponent(() =>
+			loadModule("src/components/ArticleTable.vue", options),
+		),
+	},
 	setup() {
 		//set up i18n
 		const {t} = VueI18n.useI18n()

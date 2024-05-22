@@ -8,10 +8,6 @@
 <script>
 export default Vue.defineComponent({
 	name: "App",
-	components: {
-		// LanguageSelection: Vue.defineAsyncComponent(() =>
-		// 	loadModule("src/components/LanguageSelection.vue", options),
-		// ),
-	},
+	components: {},
 })
 </script>
