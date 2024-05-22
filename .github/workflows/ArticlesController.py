@@ -23,4 +23,10 @@ for file in files:
         
         # into list
         metadata.append(metadatum)
-        
+
+#save to articles.json
+articles = {
+    "articles": metadata
+}
+
+json.dump(articles, open("src/data/articles/articles.json", "w"), indent=4)
