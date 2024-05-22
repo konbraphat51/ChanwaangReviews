@@ -25,6 +25,40 @@
 			</thead>
 			<tbody></tbody>
 		</table>
+		<div class="ArticleTableOptions">
+			<label>
+				<input type="checkbox" v-model="showTitle" />
+				{{ t("ArticleTable.Title") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showShort" />
+				{{ t("ArticleTable.Short") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showTags" />
+				{{ t("ArticleTable.Tags") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showImportance" />
+				{{ t("ArticleTable.Importance") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showHasPage" />
+				{{ t("ArticleTable.HasPage") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showUpdatedAt" />
+				{{ t("ArticleTable.UpdatedAt") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showCreatedAt" />
+				{{ t("ArticleTable.CreatedAt") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showFilename" />
+				{{ t("ArticleTable.Filename") }}
+			</label>
+		</div>
 	</div>
 </template>
 
