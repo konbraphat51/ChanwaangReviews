@@ -33,15 +33,10 @@ class ArticleIndexReader {
 	/**
 	 * Update index data
 	 */
-	ReadIndex() {
-		return fetch(INDEX_FILE)
-			.then((response) => {
-				return response.json()
-			})
-			.then((data) => {
-				this.raw_json = data
-				this.#ProcessData()
-			})
+	async ReadIndex() {
+		fileContent = await fetch(INDEX_FILE)
+		this.raw_json = await fileContent.json()
+		this.#ProcessData()
 	}
 
 	/**
