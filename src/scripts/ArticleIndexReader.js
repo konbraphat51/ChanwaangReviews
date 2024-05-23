@@ -55,7 +55,7 @@ class ArticleIndexReader {
 		short = [],
 		importance = [],
 		link = [],
-		hasPage = null,
+		hasPage = [],
 		minTime = 0,
 		maxTime = 100000000000000,
 		sorting = [
@@ -120,6 +120,10 @@ class ArticleIndexReader {
 	 * Check string including keywords
 	 */
 	#FilterInclusive(target, key, keywords, and) {
+		if (keywords.length === 0) {
+			return target
+		}
+
 		let result = []
 		target.forEach((article) => {
 			let targetStrings = []
@@ -172,6 +176,10 @@ class ArticleIndexReader {
 	 * Check list matching keywords
 	 */
 	#FilterMatching(target, key, keywords, and) {
+		if (keywords.length === 0) {
+			return target
+		}
+
 		let result = []
 		target.forEach((article) => {
 			if (and) {
@@ -201,6 +209,10 @@ class ArticleIndexReader {
 	}
 
 	#FilterValue(target, key, values) {
+		if (values.length === 0) {
+			return target
+		}
+
 		let result = []
 		target.forEach((article) => {
 			if (values.includes(article[key])) {
