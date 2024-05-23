@@ -58,11 +58,13 @@ class ArticleIndexReader {
 		importance = [],
 		link = [],
 		hasPage = [],
-		minTime = 0,
-		maxTime = 100000000000000,
+		minCreatedTime = 0,
+		maxCreatedTime = 100000000000000,
+		minUpdatedTime = 0,
+		maxUpdatedTime = 100000000000000,
 		sorting = [
 			["importance", "desc"],
-			["time", "desc"],
+			["updatedTime", "desc"],
 		],
 	) {
 		//copy
@@ -89,8 +91,11 @@ class ArticleIndexReader {
 		//hasPage
 		filtered = this.#FilterValue(filtered, "hasPage", hasPage)
 
-		//time
-		filtered = this.#FilterTime(filtered, minTime, maxTime)
+		//createdAt
+		filtered = this.#FilterTime(filtered, minCreatedTime, maxCreatedTime)
+
+		//updatedAt
+		filtered = this.#FilterTime(filtered, minUpdatedTime, maxUpdatedTime)
 
 		//sort
 		return this.#Sort(filtered, sorting)
@@ -225,10 +230,10 @@ class ArticleIndexReader {
 		return result
 	}
 
-	#FilterTime(target, minTime, maxTime) {
+	#FilterTime(target, key, minTime, maxTime) {
 		let result = []
 		target.forEach((article) => {
-			if (article.time >= minTime && article.time <= maxTime) {
+			if (article[key] >= minTime && article[key] <= maxTime) {
 				result.push(article)
 			}
 		})
