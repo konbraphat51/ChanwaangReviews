@@ -21,3 +21,11 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           python3 .github/workflows/ArticlesController.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Update Articles.json"
+          git push
