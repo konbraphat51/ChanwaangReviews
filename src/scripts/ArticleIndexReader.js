@@ -30,6 +30,7 @@ class ArticleIndexReader {
 		this.articles = []
 
 		this.ReadIndex = this.ReadIndex.bind(this)
+		this.SelectArticles = this.SelectArticles.bind(this)
 	}
 
 	/**
