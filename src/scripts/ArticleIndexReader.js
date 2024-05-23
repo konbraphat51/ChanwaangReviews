@@ -34,7 +34,7 @@ class ArticleIndexReader {
 	 * Update index data
 	 */
 	async ReadIndex() {
-		fileContent = await fetch(INDEX_FILE)
+		let fileContent = await fetch(INDEX_FILE)
 		this.raw_json = await fileContent.json()
 		this.#ProcessData()
 	}
