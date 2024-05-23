@@ -1,5 +1,9 @@
 <template>
 	<div class="ArticleTableRoot">
+		<div v-if="loading" class="ArticleTableLoading">
+			{{ t("ArticleTable.Loading") }}
+		</div>
+
 		<table class="ArticleTable">
 			<thead>
 				<tr>
@@ -103,6 +107,8 @@ export default Vue.defineComponent({
     {
         "en": {
             "ArticleTable": {
+				"Loading": "Loading...",
+
                 "Title": "Title",
                 "Short": "Short",
                 "Tags": "Tags",
@@ -115,6 +121,8 @@ export default Vue.defineComponent({
         },
         "ja": {
             "ArticleTable": {
+				"Loading": "読み込み中...",
+
                 "Title": "タイトル",
                 "Short": "概略",
                 "Tags": "タグ",
