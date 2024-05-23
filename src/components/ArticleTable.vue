@@ -27,7 +27,18 @@
 					</th>
 				</tr>
 			</thead>
-			<tbody></tbody>
+			<tbody>
+				<tr v-for="article in articles" :key="article.id">
+					<td v-if="showTitle">{{ article.title }}</td>
+					<td v-if="showShort">{{ article.short }}</td>
+					<td v-if="showTags">{{ article.tags.join(", ") }}</td>
+					<td v-if="showImportance">{{ article.importance }}</td>
+					<td v-if="showHasPage">{{ article.hasPage }}</td>
+					<td v-if="showUpdatedAt">{{ article.updatedAt }}</td>
+					<td v-if="showCreatedAt">{{ article.createdAt }}</td>
+					<td v-if="showFilename">{{ article.filename }}</td>
+				</tr>
+			</tbody>
 		</table>
 		<div class="ArticleTableOptions">
 			<label>
