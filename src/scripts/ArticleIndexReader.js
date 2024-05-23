@@ -11,7 +11,8 @@ class Article {
 		importance,
 		link,
 		hasPage,
-		time,
+		createdAt,
+		updatedAt,
 	) {
 		this.filename = filename
 		this.title = title
@@ -21,7 +22,8 @@ class Article {
 		this.importance = importance
 		this.link = link
 		this.hasPage = hasPage
-		this.time = time
+		this.createdAt = createdAt
+		this.updatedAt = updatedAt
 	}
 }
 
@@ -110,7 +112,8 @@ class ArticleIndexReader {
 					element.importance,
 					element.link,
 					element.hasPage,
-					element.time,
+					element.createdAt,
+					element.updatedAt,
 				),
 			)
 		})
