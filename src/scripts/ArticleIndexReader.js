@@ -1,4 +1,4 @@
-const INDEX_FILE = "src/data/articles.json"
+const INDEX_FILE = "src/data/articles/articles.json"
 const LOCALES = ["en", "ja"]
 
 class Article {
