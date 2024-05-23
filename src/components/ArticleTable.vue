@@ -93,7 +93,7 @@ export default Vue.defineComponent({
 		return {t}
 	},
 	mounted() {
-		loading = true
+		this.loading = true
 		this.reader.ReadIndex().then(() => {
 			this.loading = false
 
