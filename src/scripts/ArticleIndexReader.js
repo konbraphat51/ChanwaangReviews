@@ -34,7 +34,7 @@ class ArticleIndexReader {
 	 * Update index data
 	 */
 	ReadIndex() {
-		fetch(INDEX_FILE)
+		return fetch(INDEX_FILE)
 			.then((response) => {
 				return response.json()
 			})

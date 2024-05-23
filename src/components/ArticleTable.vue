@@ -75,12 +75,26 @@ export default Vue.defineComponent({
 			showUpdatedAt: false,
 			showCreatedAt: false,
 			showFilename: false,
+
+			reader: new ArticleIndexReader(),
+
+			loading: true,
+
+			articles: [],
 		}
 	},
 	setup() {
 		//set up i18n
 		const {t} = VueI18n.useI18n()
 		return {t}
+	},
+	mounted() {
+		loading = true
+		this.reader.ReadIndex().then(() => {
+			this.loading = false
+
+			this.articles = this.reader.SelectArticles()
+		})
 	},
 })
 </script>
