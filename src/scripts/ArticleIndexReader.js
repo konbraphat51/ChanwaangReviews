@@ -128,8 +128,8 @@ class ArticleIndexReader {
 			} else {
 				//object
 				//has several locale
-				article[key].forEach((element) => {
-					targetStrings.push(element)
+				Object.keys(article[key]).forEach((locale) => {
+					targetStrings.push(article[key][locale])
 				})
 			}
 
