@@ -28,6 +28,8 @@ class Article {
 class ArticleIndexReader {
 	constructor() {
 		this.articles = []
+
+		this.ReadIndex = this.ReadIndex.bind(this)
 	}
 
 	/**
