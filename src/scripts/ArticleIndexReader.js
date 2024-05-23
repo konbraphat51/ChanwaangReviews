@@ -92,10 +92,20 @@ class ArticleIndexReader {
 		filtered = this.#FilterValue(filtered, "hasPage", hasPage)
 
 		//createdAt
-		filtered = this.#FilterTime(filtered, minCreatedTime, maxCreatedTime)
+		filtered = this.#FilterTime(
+			filtered,
+			"createdAt",
+			minCreatedTime,
+			maxCreatedTime,
+		)
 
 		//updatedAt
-		filtered = this.#FilterTime(filtered, minUpdatedTime, maxUpdatedTime)
+		filtered = this.#FilterTime(
+			filtered,
+			"updatedAt",
+			minUpdatedTime,
+			maxUpdatedTime,
+		)
 
 		//sort
 		return this.#Sort(filtered, sorting)
