@@ -98,7 +98,7 @@ class ArticleIndexReader {
 	 */
 	#ProcessData() {
 		this.articles = []
-		this.raw_json.forEach((element) => {
+		this.raw_json["articles"].forEach((element) => {
 			this.articles.push(
 				new Article(
 					element.filename,
