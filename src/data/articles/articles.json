@@ -1,38 +1,34 @@
 {
-    "articles": [
-        {
-            "title": "fewagbr",
-            "link": "fweagr",
-            "media": "book",
-            "tags": [
-                "fewagr"
-            ],
-            "short": {
-                "en": "wfeagr",
-                "ja": "feawgr"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "CreatedAt": 1716365855.63,
-            "UpdatedAt": 1716365855.63,
-            "filename": "1716365855"
-        },
-        {
-            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
-            "link": "https://zenn.dev/yurukei20/articles/",
-            "media": "book",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "showing markdown in html",
-                "ja": "markdownをhtmlで表示"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "CreatedAt": 1716365855.63,
-            "UpdatedAt": 1716365855.63,
-            "filename": "markdownwriting"
-        }
-    ]
+	"articles": [
+		{
+			"title": "fewagbr",
+			"link": "fweagr",
+			"media": "book",
+			"tags": ["fewagr"],
+			"short": {
+				"en": "wfeagr",
+				"ja": "feawgr"
+			},
+			"importance": 3,
+			"hasPage": true,
+			"createdAt": 1716365855.63,
+			"updatedAt": 1716365855.63,
+			"filename": "1716365855"
+		},
+		{
+			"title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
+			"link": "https://zenn.dev/yurukei20/articles/",
+			"media": "book",
+			"tags": ["html"],
+			"short": {
+				"en": "showing markdown in html",
+				"ja": "markdownをhtmlで表示"
+			},
+			"importance": 3,
+			"hasPage": false,
+			"createdAt": 1716365855.63,
+			"updatedAt": 1716365855.63,
+			"filename": "markdownwriting"
+		}
+	]
 }
