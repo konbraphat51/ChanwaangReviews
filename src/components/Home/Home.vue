@@ -1,15 +1,24 @@
 <template>
 	<div id="Home">
 		<ArticleTable />
+		<Viewer :markdown="markdown" />
 	</div>
 </template>
 
 <script>
 export default Vue.defineComponent({
 	name: "Home",
+	data() {
+		return {
+			markdown: "",
+		}
+	},
 	components: {
 		ArticleTable: Vue.defineAsyncComponent(() =>
 			loadModule("src/components/ArticleTable.vue", options),
+		),
+		Viewer: Vue.defineAsyncComponent(() =>
+			loadModule("src/components/Viewer/Viewer.vue", options),
 		),
 	},
 	setup() {
