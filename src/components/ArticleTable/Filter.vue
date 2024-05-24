@@ -15,7 +15,7 @@
 				<input
 					type="checkbox"
 					:value="medium"
-					@input="filter.media.push(medium)"
+					@change="UpdateMediaList(medium, $event.target.checked)"
 				/>
 			</div>
 		</div>
@@ -131,6 +131,16 @@ export default {
 		UpdateFilter(key, input) {
 			input = this.Fractionize(input)
 			this.filter[key] = input
+			this.$emit("UpdateFilter", this.filter)
+		},
+		UpdateMediaList(medium, toggle) {
+			if (toggle) {
+				//add
+				this.filter.media.push(medium)
+			} else {
+				//remove
+				this.filter.media = this.filter.media.filter((m) => m !== medium)
+			}
 			this.$emit("UpdateFilter", this.filter)
 		},
 		Fractionize(input) {
