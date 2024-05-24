@@ -60,7 +60,16 @@
 			</label>
 			<input
 				type="checkbox"
-				@input="UpdateFilter('hasPage', $event.target.checked)"
+				@input="UpdateFilter('hasPage', [$event.target.checked])"
+				:disabled="pageAny"
+			/>
+
+			<label> Any </label>
+			<input
+				type="checkbox"
+				@change="MarkdownAnyButtonPushed($event.target.checked)"
+				v-model="pageAny"
+				checked
 			/>
 		</div>
 
@@ -147,6 +156,8 @@ export default {
 				minUpdatedTime: 0,
 				maxUpdatedTime: 100000000000000,
 			},
+
+			pageAny: true,
 		}
 	},
 	setup() {
@@ -168,6 +179,10 @@ export default {
 				this.filter.media = this.filter.media.filter((m) => m !== medium)
 			}
 			this.$emit("UpdateFilter", this.filter)
+		},
+		MarkdownAnyButtonPushed(value) {
+			this.pageAny = value
+			UpdateFilter("hasPage", [])
 		},
 		Fractionize(input) {
 			let splited = this._SplitList([input], " ")
