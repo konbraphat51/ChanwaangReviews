@@ -151,5 +151,17 @@ export default Vue.defineComponent({
 .ArticleTable th {
 	resize: horizontal;
 	overflow: hidden;
+
+	background-color: #54b173;
+
+	border-bottom: 3px solid #000;
+}
+
+.ArticleTable tbody tr:nth-child(odd) {
+	background-color: #f0f0f0d4;
+}
+
+.ArticleTable tbody tr:nth-child(even) {
+	background-color: #d8fad8d4;
 }
 </style>
