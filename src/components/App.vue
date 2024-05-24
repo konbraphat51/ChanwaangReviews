@@ -7,8 +7,19 @@
 			href="https://konbraphat51.github.io/Waanger/"
 			target="_blank"
 			class="WaangerLink"
-			>Konbraphat51 วางer</a
 		>
+			Konbraphat51 วางer
+		</a>
+
+		<br />
+
+		<a
+			href="https://github.com/konbraphat51/ChanwaangReviews"
+			target="_blank"
+			class="GithubLink"
+		>
+			GitHub Repository
+		</a>
 	</div>
 </template>
 
