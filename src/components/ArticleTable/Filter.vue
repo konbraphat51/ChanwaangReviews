@@ -182,7 +182,7 @@ export default {
 		},
 		MarkdownAnyButtonPushed(value) {
 			this.pageAny = value
-			UpdateFilter("hasPage", [])
+			this.UpdateFilter("hasPage", [])
 		},
 		Fractionize(input) {
 			let splited = this._SplitList([input], " ")
