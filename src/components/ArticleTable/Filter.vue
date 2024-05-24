@@ -21,6 +21,11 @@ export default {
 		}
 	},
 	methods: {
+		UpdateFilter(key, input) {
+			input = this.Fractionize(input)
+			this.filter[key] = input
+			this.$emit("UpdateFilter", this.filter)
+		},
 		Fractionize(input) {
 			let splited = this._SplitList([input], " ")
 			splited = this._SplitList(splited, ",")
