@@ -8,10 +8,16 @@
 		</div>
 
 		<div class="FilterUnit">
-			<label>
-				{{ t("ArticleTable.Media") }}
-			</label>
-			<input type="text" @input="UpdateFilter('media', $event.target.value)" />
+			{{ t("ArticleTable.Media") }}
+			<div v-for="medium in media" class="MediumButton">
+				<label>{{ medium }}</label>
+
+				<input
+					type="checkbox"
+					:value="medium"
+					@input="filter.media.push(medium)"
+				/>
+			</div>
 		</div>
 
 		<div class="FilterUnit">
@@ -99,6 +105,8 @@ export default {
 	name: "Filter",
 	data() {
 		return {
+			media: ["netpage", "book", "academic", "repository"],
+
 			filter: {
 				title: [],
 				media: [],
