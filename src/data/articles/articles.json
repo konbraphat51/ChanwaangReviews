@@ -53,6 +53,24 @@
             "filename": "1716514732"
         },
         {
+            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
+            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
+            "media": "netpage",
+            "tags": [
+                "html",
+                "css"
+            ],
+            "short": {
+                "en": "resizable table column by drag",
+                "ja": "ドラッグで幅変更可能なテーブルCSS"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716516123.083,
+            "updatedAt": 1716516123.083,
+            "filename": "1716516123"
+        },
+        {
             "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
             "media": "academic",
