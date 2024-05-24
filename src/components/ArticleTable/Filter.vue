@@ -2,9 +2,23 @@
 	<div class="ArticleFilter">
 		<div class="FilterUnit">
 			<label>
+				{{ t("ArticleTable.And") }}
+			</label>
+			<input
+				type="checkbox"
+				@input="UpdateFilter('and', $event.target.value)"
+				checked
+			/>
+		</div>
+
+		<div class="FilterUnit">
+			<label>
 				{{ t("ArticleTable.Title") }}
 			</label>
-			<input type="text" @input="UpdateFilter('title', $event.target.value)" />
+			<input
+				type="text"
+				@input="UpdateFilter('title', Fractionize($event.target.value))"
+			/>
 		</div>
 
 		<div class="FilterUnit">
@@ -24,14 +38,20 @@
 			<label>
 				{{ t("ArticleTable.Tags") }}
 			</label>
-			<input type="text" @input="UpdateFilter('tags', $event.target.value)" />
+			<input
+				type="text"
+				@input="UpdateFilter('tags', Fractionize($event.target.value))"
+			/>
 		</div>
 
 		<div class="FilterUnit">
 			<label>
 				{{ t("ArticleTable.Short") }}
 			</label>
-			<input type="text" @input="UpdateFilter('short', $event.target.value)" />
+			<input
+				type="text"
+				@input="UpdateFilter('short', Fractionize($event.target.value))"
+			/>
 		</div>
 
 		<div class="FilterUnit">
@@ -108,6 +128,7 @@ export default {
 			media: ["netpage", "book", "academic", "repository"],
 
 			filter: {
+				and: false,
 				title: [],
 				media: [],
 				tags: [],
@@ -129,7 +150,6 @@ export default {
 	},
 	methods: {
 		UpdateFilter(key, input) {
-			input = this.Fractionize(input)
 			this.filter[key] = input
 			this.$emit("UpdateFilter", this.filter)
 		},

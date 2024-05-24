@@ -151,6 +151,8 @@ export default Vue.defineComponent({
             "ArticleTable": {
 				"Loading": "Loading...",
 
+				"And": "AND search",
+
 				"Media": "Media",
                 "Title": "Title",
                 "Short": "Short",
@@ -165,6 +167,8 @@ export default Vue.defineComponent({
         "ja": {
             "ArticleTable": {
 				"Loading": "読み込み中...",
+
+				"And": "AND検索",
 
 				"Media": "媒体",
                 "Title": "タイトル",
