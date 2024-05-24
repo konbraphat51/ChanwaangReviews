@@ -55,9 +55,10 @@ class ArticleIndexReader {
 		media = [],
 		tags = [],
 		short = [],
-		importance = [],
 		link = [],
 		hasPage = [],
+		importanceMin = 0,
+		importanceMax = 5,
 		minCreatedTime = 0,
 		maxCreatedTime = 100000000000000,
 		minUpdatedTime = 0,
@@ -82,17 +83,22 @@ class ArticleIndexReader {
 		//short
 		filtered = this.#FilterInclusive(filtered, "short", short, and)
 
-		//importance
-		filtered = this.#FilterValue(filtered, "importance", importance)
-
 		//link
 		filtered = this.#FilterInclusive(filtered, "link", link, and)
 
 		//hasPage
 		filtered = this.#FilterValue(filtered, "hasPage", hasPage)
 
+		//importance
+		filtered = this.#FilterBetween(
+			filtered,
+			"importance",
+			importanceMin,
+			importanceMax,
+		)
+
 		//createdAt
-		filtered = this.#FilterTime(
+		filtered = this.#FilterBetween(
 			filtered,
 			"createdAt",
 			minCreatedTime,
@@ -100,7 +106,7 @@ class ArticleIndexReader {
 		)
 
 		//updatedAt
-		filtered = this.#FilterTime(
+		filtered = this.#FilterBetween(
 			filtered,
 			"updatedAt",
 			minUpdatedTime,
@@ -240,10 +246,10 @@ class ArticleIndexReader {
 		return result
 	}
 
-	#FilterTime(target, key, minTime, maxTime) {
+	#FilterBetween(target, key, min, max) {
 		let result = []
 		target.forEach((article) => {
-			if (article[key] >= minTime && article[key] <= maxTime) {
+			if (article[key] >= min && article[key] <= max) {
 				result.push(article)
 			}
 		})
