@@ -217,6 +217,7 @@ class ArticleIndexReader {
 				//AND
 				let ok = true
 				keywords.forEach((keyword) => {
+					keyword = keyword.toLowerCase()
 					if (!targetLowered.includes(keyword)) {
 						ok = false
 						return // break from forEach
@@ -228,6 +229,7 @@ class ArticleIndexReader {
 			} else {
 				//OR
 				keywords.forEach((keyword) => {
+					keyword = keyword.toLowerCase()
 					if (targetLowered.includes(keyword)) {
 						result.push(article)
 						return // break from forEach
