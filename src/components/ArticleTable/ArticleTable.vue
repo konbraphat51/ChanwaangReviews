@@ -140,7 +140,23 @@ export default Vue.defineComponent({
 		})
 	},
 	methods: {
-		Filter(filter) {},
+		Filter(filter) {
+			this.articles = this.reader.SelectArticles(
+				filter.and,
+				filter.title,
+				filter.media,
+				filter.tags,
+				filter.short,
+				[], //link
+				filter.hasPage,
+				filter.minImportance,
+				filter.maxImportance,
+				filter.minCreatedTime,
+				filter.maxCreatedTime,
+				filter.minUpdatedTime,
+				filter.maxUpdatedTime,
+			)
+		},
 	},
 })
 </script>
