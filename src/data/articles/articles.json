@@ -1,34 +1,113 @@
 {
-	"articles": [
-		{
-			"title": "fewagbr",
-			"link": "fweagr",
-			"media": "book",
-			"tags": ["fewagr"],
-			"short": {
-				"en": "wfeagr",
-				"ja": "feawgr"
-			},
-			"importance": 3,
-			"hasPage": true,
-			"createdAt": 1716365855.63,
-			"updatedAt": 1716365855.63,
-			"filename": "1716365855"
-		},
-		{
-			"title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
-			"link": "https://zenn.dev/yurukei20/articles/",
-			"media": "book",
-			"tags": ["html"],
-			"short": {
-				"en": "showing markdown in html",
-				"ja": "markdownをhtmlで表示"
-			},
-			"importance": 3,
-			"hasPage": false,
-			"createdAt": 1716365855.63,
-			"updatedAt": 1716365855.63,
-			"filename": "markdownwriting"
-		}
-	]
+    "articles": [
+        {
+            "title": "iMotion",
+            "link": "https://www.physio-tech.co.jp/pdf/iMotions/iMotions.pdf",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "biosignal"
+            ],
+            "short": {
+                "en": "integrated software for biosignal",
+                "ja": "生体信号解統合ソフトウェア"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716446715.223,
+            "updatedAt": 1716446715.223,
+            "filename": "1716446715"
+        },
+        {
+            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
+            "link": "https://zenn.dev/yurukei20/articles/",
+            "media": "book",
+            "tags": [
+                "html"
+            ],
+            "short": {
+                "en": "showing markdown in html",
+                "ja": "markdownをhtmlで表示"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716365855.63,
+            "updatedAt": 1716365855.63,
+            "filename": "markdownwriting"
+        },
+        {
+            "title": "Permission denied to github-actions[bot]",
+            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
+            "media": "netpage",
+            "tags": [
+                "githubaction"
+            ],
+            "short": {
+                "en": "give github action a permission to commit",
+                "ja": "github actionにコミット権限を与える"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1716514732.013,
+            "updatedAt": 1716514732.013,
+            "filename": "1716514732"
+        },
+        {
+            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
+            "media": "academic",
+            "tags": [
+                "game-psychology",
+                "psychology",
+                "biosignal",
+                "EEG",
+                ""
+            ],
+            "short": {
+                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
+                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716453618.354,
+            "updatedAt": 1716453618.354,
+            "filename": "1716453618"
+        },
+        {
+            "title": "JavaScriptにおける連想配列のforループ操作",
+            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
+            "media": "netpage",
+            "tags": [
+                "javascript"
+            ],
+            "short": {
+                "en": "foreach of object in javascript",
+                "ja": "javascriptにおける連想配列のforeach"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1716439717.204,
+            "updatedAt": 1716439717.204,
+            "filename": "1716439717"
+        },
+        {
+            "title": "PromiseによるJavaScript非同期処理レシピ集",
+            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "async",
+                "promose"
+            ],
+            "short": {
+                "en": "totally how to use promise",
+                "ja": "promiseの使い方総説"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1716445032.427,
+            "updatedAt": 1716445032.427,
+            "filename": "1716445032"
+        }
+    ]
 }
