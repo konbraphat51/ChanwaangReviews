@@ -146,3 +146,10 @@ export default Vue.defineComponent({
         }
     }
 </i18n>
+
+<style>
+.ArticleTable th {
+	resize: horizontal;
+	overflow: hidden;
+}
+</style>
