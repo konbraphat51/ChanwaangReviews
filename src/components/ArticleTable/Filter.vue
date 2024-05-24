@@ -1,4 +1,98 @@
-<template></template>
+<template>
+	<div class="ArticleFilter">
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.Title") }}
+			</label>
+			<input type="text" @input="UpdateFilter('title', $event.target.value)" />
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.Media") }}
+			</label>
+			<input type="text" @input="UpdateFilter('media', $event.target.value)" />
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.Tags") }}
+			</label>
+			<input type="text" @input="UpdateFilter('tags', $event.target.value)" />
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.Short") }}
+			</label>
+			<input type="text" @input="UpdateFilter('short', $event.target.value)" />
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.HasPage") }}
+			</label>
+			<input
+				type="text"
+				@input="UpdateFilter('hasPage', $event.target.value)"
+			/>
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.Importance") }}
+			</label>
+			<input
+				type="range"
+				min="0"
+				max="5"
+				@input="UpdateFilter('minImportance', $event.target.value)"
+			/>
+			-<input
+				type="range"
+				min="0"
+				max="5"
+				@input="UpdateFilter('maxImportance', $event.target.value)"
+			/>
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.CreatedAt") }}
+			</label>
+			<input
+				type="range"
+				min="0"
+				max="100000000000000"
+				@input="UpdateFilter('minCreatedTime', $event.target.value)"
+			/>
+			-<input
+				type="range"
+				min="0"
+				max="100000000000000"
+				@input="UpdateFilter('maxCreatedTime', $event.target.value)"
+			/>
+		</div>
+
+		<div class="FilterUnit">
+			<label>
+				{{ t("ArticleTable.UpdatedAt") }}
+			</label>
+			<input
+				type="range"
+				min="0"
+				max="100000000000000"
+				@input="UpdateFilter('minUpdatedTime', $event.target.value)"
+			/>
+			-<input
+				type="range"
+				min="0"
+				max="100000000000000"
+				@input="UpdateFilter('maxUpdatedTime', $event.target.value)"
+			/>
+		</div>
+	</div>
+</template>
 
 <script>
 export default {
