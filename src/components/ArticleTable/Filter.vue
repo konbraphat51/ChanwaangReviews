@@ -59,8 +59,8 @@
 				{{ t("ArticleTable.HasPage") }}
 			</label>
 			<input
-				type="text"
-				@input="UpdateFilter('hasPage', $event.target.value)"
+				type="checkbox"
+				@input="UpdateFilter('hasPage', $event.target.checked)"
 			/>
 		</div>
 
