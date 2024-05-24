@@ -30,7 +30,7 @@
 			<tbody>
 				<tr v-for="article in articles" :key="article.id">
 					<td v-if="showTitle">{{ article.title }}</td>
-					<td v-if="showShort">{{ article.short }}</td>
+					<td v-if="showShort">{{ article.short[$i18n.locale] }}</td>
 					<td v-if="showTags">{{ article.tags.join(", ") }}</td>
 					<td v-if="showImportance">{{ article.importance }}</td>
 					<td v-if="showHasPage">{{ article.hasPage }}</td>
