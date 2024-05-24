@@ -1,0 +1,3 @@
+[submodule "src/components/Viewer"]
+	path = src/components/Viewer
+	url = https://github.com/konbraphat51/WaangDownViewer
