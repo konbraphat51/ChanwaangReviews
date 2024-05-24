@@ -15,6 +15,9 @@
 					<th scope="col" v-if="showImportance">
 						{{ t("ArticleTable.Importance") }}
 					</th>
+					<th scope="col" v-if="showMedia">
+						{{ t("ArticleTable.Media") }}
+					</th>
 					<th scope="col" v-if="showHasPage">
 						{{ t("ArticleTable.HasPage") }}
 					</th>
@@ -39,6 +42,7 @@
 					<td v-if="showShort">{{ article.short[$i18n.locale] }}</td>
 					<td v-if="showTags">{{ article.tags.join(", ") }}</td>
 					<td v-if="showImportance">{{ article.importance }}</td>
+					<td v-if="showMedia">{{ article.media }}</td>
 					<td v-if="showHasPage">
 						<button
 							v-if="article.hasPage"
@@ -70,6 +74,10 @@
 			<label>
 				<input type="checkbox" v-model="showImportance" />
 				{{ t("ArticleTable.Importance") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showMedia" />
+				{{ t("ArticleTable.Media") }}
 			</label>
 			<label>
 				<input type="checkbox" v-model="showHasPage" />
@@ -106,6 +114,7 @@ export default Vue.defineComponent({
 			showTags: true,
 			showImportance: true,
 			showHasPage: true,
+			showMedia: false,
 			showUpdatedAt: false,
 			showCreatedAt: false,
 			showFilename: false,
@@ -142,6 +151,7 @@ export default Vue.defineComponent({
             "ArticleTable": {
 				"Loading": "Loading...",
 
+				"Media": "Media",
                 "Title": "Title",
                 "Short": "Short",
                 "Tags": "Tags",
@@ -156,6 +166,7 @@ export default Vue.defineComponent({
             "ArticleTable": {
 				"Loading": "読み込み中...",
 
+				"Media": "媒体",
                 "Title": "タイトル",
                 "Short": "概略",
                 "Tags": "タグ",
