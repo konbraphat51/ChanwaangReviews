@@ -152,12 +152,12 @@ class ArticleIndexReader {
 		target.forEach((article) => {
 			let targetStrings = []
 			if (typeof article[key] === "string") {
-				targetStrings.push(article[key])
+				targetStrings.push(article[key].toLowerCase())
 			} else {
 				//object
 				//has several locale
 				Object.keys(article[key]).forEach((locale) => {
-					targetStrings.push(article[key][locale])
+					targetStrings.push(article[key][locale].toLowerCase())
 				})
 			}
 
@@ -166,6 +166,7 @@ class ArticleIndexReader {
 					//AND
 					let ok = true
 					keywords.forEach((keyword) => {
+						keyword = keyword.toLowerCase()
 						if (!targetString.includes(keyword)) {
 							ok = false
 							return // break from forEach
@@ -179,6 +180,7 @@ class ArticleIndexReader {
 					//OR
 					let ok = false
 					keywords.forEach((keyword) => {
+						keyword = keyword.toLowerCase()
 						if (targetString.includes(keyword)) {
 							result.push(article)
 							ok = true
