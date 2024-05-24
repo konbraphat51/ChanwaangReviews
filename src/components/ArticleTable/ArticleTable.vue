@@ -4,6 +4,8 @@
 			{{ t("ArticleTable.Loading") }}
 		</div>
 
+		<Filter @UpdateFilter="Filter" />
+
 		<table class="ArticleTable">
 			<thead>
 				<tr>
@@ -92,6 +94,11 @@
 <script>
 export default Vue.defineComponent({
 	name: "ArticleTable",
+	components: {
+		Filter: Vue.defineAsyncComponent(() =>
+			loadModule("src/components/ArticleTable/Filter.vue", options),
+		),
+	},
 	data() {
 		return {
 			showTitle: true,
@@ -122,6 +129,9 @@ export default Vue.defineComponent({
 
 			this.articles = this.reader.SelectArticles()
 		})
+	},
+	methods: {
+		Filter(filter) {},
 	},
 })
 </script>
