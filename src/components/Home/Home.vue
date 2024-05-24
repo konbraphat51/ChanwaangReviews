@@ -1,6 +1,6 @@
 <template>
 	<div id="Home">
-		<ArticleTable />
+		<ArticleTable @MarkdownClicked="OpenMarkdown" />
 		<Viewer :markdown="markdown" />
 	</div>
 </template>
@@ -20,6 +20,15 @@ export default Vue.defineComponent({
 		Viewer: Vue.defineAsyncComponent(() =>
 			loadModule("src/components/Viewer/Viewer.vue", options),
 		),
+	},
+	methods: {
+		OpenMarkdown(filename) {
+			return fetch(`src/data/articles/each/${filename}.md`)
+				.then((res) => res.text())
+				.then((text) => {
+					this.markdown = text
+				})
+		},
 	},
 	setup() {
 		//set up i18n
