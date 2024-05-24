@@ -114,6 +114,11 @@ export default {
 			},
 		}
 	},
+	setup() {
+		//set up i18n
+		const {t} = VueI18n.useI18n()
+		return {t}
+	},
 	methods: {
 		UpdateFilter(key, input) {
 			input = this.Fractionize(input)
