@@ -72,12 +72,14 @@
 				type="range"
 				min="0"
 				max="5"
+				value="0"
 				@input="UpdateFilter('minImportance', $event.target.value)"
 			/>
 			-<input
 				type="range"
 				min="0"
 				max="5"
+				value="5"
 				@input="UpdateFilter('maxImportance', $event.target.value)"
 			/>
 		</div>
@@ -90,12 +92,14 @@
 				type="range"
 				min="0"
 				max="100000000000000"
+				value="0"
 				@input="UpdateFilter('minCreatedTime', $event.target.value)"
 			/>
 			-<input
 				type="range"
 				min="0"
 				max="100000000000000"
+				value="100000000000000"
 				@input="UpdateFilter('maxCreatedTime', $event.target.value)"
 			/>
 		</div>
@@ -108,12 +112,14 @@
 				type="range"
 				min="0"
 				max="100000000000000"
+				value="0"
 				@input="UpdateFilter('minUpdatedTime', $event.target.value)"
 			/>
 			-<input
 				type="range"
 				min="0"
 				max="100000000000000"
+				value="100000000000000"
 				@input="UpdateFilter('maxUpdatedTime', $event.target.value)"
 			/>
 		</div>
