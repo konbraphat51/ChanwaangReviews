@@ -1,6 +1,23 @@
 {
     "articles": [
         {
+            "title": "How to Use HTML to Open a Link in a New Tab",
+            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
+            "media": "netpage",
+            "tags": [
+                "html"
+            ],
+            "short": {
+                "en": "hyperlink opening new tab",
+                "ja": "新規タブを開くハイパーリンク"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716517146.142,
+            "updatedAt": 1716517146.142,
+            "filename": "1716517146"
+        },
+        {
             "title": "iMotion",
             "link": "https://www.physio-tech.co.jp/pdf/iMotions/iMotions.pdf",
             "media": "netpage",
