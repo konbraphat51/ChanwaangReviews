@@ -15,7 +15,7 @@ export default Vue.defineComponent({
 	},
 	components: {
 		ArticleTable: Vue.defineAsyncComponent(() =>
-			loadModule("src/components/ArticleTable.vue", options),
+			loadModule("src/components/ArticleTable/ArticleTable.vue", options),
 		),
 		Viewer: Vue.defineAsyncComponent(() =>
 			loadModule("src/components/Viewer/Viewer.vue", options),
