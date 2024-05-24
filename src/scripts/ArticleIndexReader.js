@@ -166,7 +166,7 @@ class ArticleIndexReader {
 					//AND
 					let ok = true
 					keywords.forEach((keyword) => {
-						if (!targetString.toLowerCase().includes(keyword)) {
+						if (!targetString.includes(keyword)) {
 							ok = false
 							return // break from forEach
 						}
@@ -179,7 +179,7 @@ class ArticleIndexReader {
 					//OR
 					let ok = false
 					keywords.forEach((keyword) => {
-						if (targetString.toLowerCase().includes(keyword)) {
+						if (targetString.includes(keyword)) {
 							result.push(article)
 							ok = true
 							return // break from forEach
@@ -210,7 +210,7 @@ class ArticleIndexReader {
 				//AND
 				let ok = true
 				keywords.forEach((keyword) => {
-					if (!article[key].toLowerCase().includes(keyword)) {
+					if (!article[key].includes(keyword)) {
 						ok = false
 						return // break from forEach
 					}
@@ -221,7 +221,7 @@ class ArticleIndexReader {
 			} else {
 				//OR
 				keywords.forEach((keyword) => {
-					if (article[key].toLowerCase().includes(keyword)) {
+					if (article[key].includes(keyword)) {
 						result.push(article)
 						return // break from forEach
 					}
