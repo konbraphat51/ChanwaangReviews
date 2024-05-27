@@ -163,6 +163,26 @@
             "filename": "1716439717"
         },
         {
+            "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
+            "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "unread",
+                "chi",
+                "metaresearch"
+            ],
+            "short": {
+                "en": "reject the search for \"solutions\"",
+                "ja": "私たちは、「解決策」の探求を明確に拒否する、さまざまな戦略を検討する。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716811465.45,
+            "updatedAt": 1716811465.45,
+            "filename": "1716811465"
+        },
+        {
             "title": "PromiseによるJavaScript非同期処理レシピ集",
             "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
             "media": "netpage",
