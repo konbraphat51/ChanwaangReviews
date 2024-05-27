@@ -1,5 +1,7 @@
 <template>
 	<div id="app">
+		<LanguageSelection />
+
 		<!-- view page shown here -->
 		<router-view />
 
@@ -26,6 +28,10 @@
 <script>
 export default Vue.defineComponent({
 	name: "App",
-	components: {},
+	components: {
+		LanguageSelection: Vue.defineAsyncComponent(() =>
+			loadModule("src/components/LanguageSelection.vue", options),
+		),
+	},
 })
 </script>
