@@ -53,6 +53,24 @@
             "filename": "markdownwriting"
         },
         {
+            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
+            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
+            "media": "netpage",
+            "tags": [
+                "python",
+                "machinelearning"
+            ],
+            "short": {
+                "en": "crazy parameters tuning total manual",
+                "ja": "すごいパラメーターチューニング総説"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716772088.488,
+            "updatedAt": 1716772088.488,
+            "filename": "1716772088"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
