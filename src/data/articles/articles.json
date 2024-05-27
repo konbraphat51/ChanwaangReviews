@@ -58,7 +58,8 @@
             "media": "netpage",
             "tags": [
                 "python",
-                "machinelearning"
+                "machinelearning",
+                "unread"
             ],
             "short": {
                 "en": "crazy parameters tuning total manual",
