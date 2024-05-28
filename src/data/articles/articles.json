@@ -89,6 +89,23 @@
             "filename": "1716772088"
         },
         {
+            "title": "JSAI2024 gameAI a",
+            "link": "t",
+            "media": "academic",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716882783.294,
+            "updatedAt": 1716882783.294,
+            "filename": "1716882783"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
