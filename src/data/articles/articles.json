@@ -89,6 +89,24 @@
             "filename": "1716514732"
         },
         {
+            "title": "JSAI 2024 HPE",
+            "link": "Temp",
+            "media": "academic",
+            "tags": [
+                "editing",
+                "environment"
+            ],
+            "short": {
+                "en": "Integrated environment software for ML",
+                "ja": "機械学習のスーパー環境構築ソフトウェア"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716867669.43,
+            "updatedAt": 1716867669.43,
+            "filename": "1716867669"
+        },
+        {
             "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
             "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
             "media": "netpage",
