@@ -91,6 +91,26 @@
             "filename": "1717240630"
         },
         {
+            "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
+            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "heartrate"
+            ],
+            "short": {
+                "en": "examine stress for player while playing game",
+                "ja": "ゲーム中のストレスを測量"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1717310157.891,
+            "updatedAt": 1717310157.891,
+            "filename": "1717310157"
+        },
+        {
             "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
             "link": "https://zenn.dev/yurukei20/articles/",
             "media": "book",
