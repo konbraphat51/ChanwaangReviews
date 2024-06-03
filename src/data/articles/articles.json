@@ -384,6 +384,24 @@
             "filename": "1716947183"
         },
         {
+            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
+                "ja": "Teammate AI in cooperative games letting human players play active roles"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717432837.278,
+            "updatedAt": 1717432837.278,
+            "filename": "1717432837"
+        },
+        {
             "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
             "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
             "media": "repository",
