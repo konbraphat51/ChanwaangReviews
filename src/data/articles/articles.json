@@ -201,6 +201,26 @@
             "filename": "1717431151"
         },
         {
+            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "humanity",
+                "characterai"
+            ],
+            "short": {
+                "en": "キャラクターAIにおける人間らしさの文献調査",
+                "ja": "What is \"humanity\" for character AI?"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717433375.173,
+            "updatedAt": 1717433375.173,
+            "filename": "1717433375"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
