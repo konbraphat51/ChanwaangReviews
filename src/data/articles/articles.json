@@ -183,6 +183,24 @@
             "filename": "1716882783"
         },
         {
+            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
+            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "バレないようにプレイヤーに迷路を攻略させる",
+                "ja": "バレないようにプレイヤーに迷路を攻略させる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717431151.73,
+            "updatedAt": 1717431151.73,
+            "filename": "1717431151"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
