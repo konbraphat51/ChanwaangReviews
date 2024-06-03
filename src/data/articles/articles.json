@@ -351,6 +351,25 @@
             "filename": "1716453618"
         },
         {
+            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
+            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "affordance",
+                "planning"
+            ],
+            "short": {
+                "en": "thesis that attacked to affordance based planning",
+                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717451026.36,
+            "updatedAt": 1717451026.36,
+            "filename": "1717451026"
+        },
+        {
             "title": "JavaScriptにおける連想配列のforループ操作",
             "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
             "media": "netpage",
