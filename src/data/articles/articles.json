@@ -1,6 +1,25 @@
 {
     "articles": [
         {
+            "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
+            "link": "https://qiita.com/hmkz/items/c635c0d309f68b5919e4",
+            "media": "netpage",
+            "tags": [
+                "academic",
+                "submission",
+                "paper"
+            ],
+            "short": {
+                "en": "taking advantage of CMT",
+                "ja": "CMT攻略"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717304384.333,
+            "updatedAt": 1717304384.333,
+            "filename": "1717304384"
+        },
+        {
             "title": "How to Use HTML to Open a Link in a New Tab",
             "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
             "media": "netpage",
@@ -34,6 +53,62 @@
             "createdAt": 1716446715.223,
             "updatedAt": 1716446715.223,
             "filename": "1716446715"
+        },
+        {
+            "title": "JSAI 2024 behavior economics",
+            "link": "temp",
+            "media": "academic",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716870888.632,
+            "updatedAt": 1716870888.632,
+            "filename": "1716870888"
+        },
+        {
+            "title": "The Motivational Pull of Video Games: A Self-Determination Theory Approach",
+            "link": "https://link.springer.com/article/10.1007/s11031-006-9051-8",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "sdt"
+            ],
+            "short": {
+                "en": "base SDT analysis upon game per-sec psychology. Says \"autonomy\" and \"competence\" is the core",
+                "ja": "ゲームプレイ中のSDT理論による基礎的分析。「主体感」と「達成感」が重要であると主張"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1717240630.21,
+            "updatedAt": 1717240630.21,
+            "filename": "1717240630"
+        },
+        {
+            "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
+            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "heartrate"
+            ],
+            "short": {
+                "en": "examine stress for player while playing game",
+                "ja": "ゲーム中のストレスを測量"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1717310157.891,
+            "updatedAt": 1717310157.891,
+            "filename": "1717310157"
         },
         {
             "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
@@ -72,6 +147,80 @@
             "filename": "1716772088"
         },
         {
+            "title": "N 個の整数 A_1,A_2,…,A_N が与えられ、N⋅(N−1)/2 個すべての非順序対 (Ai,Aj) (i<j) に対するf(A_i, A_j)の和を求める問題",
+            "link": "https://shakayami.hatenablog.com/entry/2021/01/01/044946",
+            "media": "netpage",
+            "tags": [
+                "algorithm",
+                "complexity",
+                ""
+            ],
+            "short": {
+                "en": "Computing sum of N^2 pairs",
+                "ja": "N^2 ペアから総和計算"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717254032.169,
+            "updatedAt": 1717254032.169,
+            "filename": "1717254032"
+        },
+        {
+            "title": "JSAI2024 gameAI a",
+            "link": "t",
+            "media": "academic",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716882783.294,
+            "updatedAt": 1716882783.294,
+            "filename": "1716882783"
+        },
+        {
+            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
+            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "バレないようにプレイヤーに迷路を攻略させる",
+                "ja": "バレないようにプレイヤーに迷路を攻略させる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717431151.73,
+            "updatedAt": 1717431151.73,
+            "filename": "1717431151"
+        },
+        {
+            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "humanity",
+                "characterai"
+            ],
+            "short": {
+                "en": "キャラクターAIにおける人間らしさの文献調査",
+                "ja": "What is \"humanity\" for character AI?"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717433375.173,
+            "updatedAt": 1717433375.173,
+            "filename": "1717433375"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
@@ -87,6 +236,24 @@
             "createdAt": 1716514732.013,
             "updatedAt": 1716514732.013,
             "filename": "1716514732"
+        },
+        {
+            "title": "JSAI 2024 HPE",
+            "link": "Temp",
+            "media": "academic",
+            "tags": [
+                "editing",
+                "environment"
+            ],
+            "short": {
+                "en": "Integrated environment software for ML",
+                "ja": "機械学習のスーパー環境構築ソフトウェア"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716867669.43,
+            "updatedAt": 1716867669.43,
+            "filename": "1716867669"
         },
         {
             "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
@@ -105,6 +272,44 @@
             "createdAt": 1716516123.083,
             "updatedAt": 1716516123.083,
             "filename": "1716516123"
+        },
+        {
+            "title": "A Review of Affective Design towards Video Games",
+            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "affective",
+                "game"
+            ],
+            "short": {
+                "en": "address and review the literature on affective design elements, principles and methodologies that are suitable for the video games industry.",
+                "ja": "ビデオゲーム業界に適した感情デザインの要素、原則、方法論に関する文献を取り上げ、レビューする。"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717430377.926,
+            "updatedAt": 1717430377.926,
+            "filename": "1717430377"
+        },
+        {
+            "title": "Eight Ways Videogames Generate Emotion",
+            "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "emotion"
+            ],
+            "short": {
+                "en": "Analyze all broad vision of emotional response during gaming",
+                "ja": "ゲーム中の感情をなるべく多く分析する"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1717396187.674,
+            "updatedAt": 1717396187.674,
+            "filename": "1717396187"
         },
         {
             "title": "Benefits of embedding custom fonts",
@@ -146,6 +351,25 @@
             "filename": "1716453618"
         },
         {
+            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
+            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "affordance",
+                "planning"
+            ],
+            "short": {
+                "en": "thesis that attacked to affordance based planning",
+                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717451026.36,
+            "updatedAt": 1717451026.36,
+            "filename": "1717451026"
+        },
+        {
             "title": "JavaScriptにおける連想配列のforループ操作",
             "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
             "media": "netpage",
@@ -161,6 +385,98 @@
             "createdAt": 1716439717.204,
             "updatedAt": 1716439717.204,
             "filename": "1716439717"
+        },
+        {
+            "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
+            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "affective",
+                "game"
+            ],
+            "short": {
+                "en": "propose a new approach to game design based on several high-level design heuristics: assist me, challenge me and emote me (ACE)",
+                "ja": "アシスト・ミー、チャレンジ・ミー、エモーション・ミー（ACE）というハイレベルなデザイン・ヒューリスティックに基づくゲームデザインの新しいアプローチを提案する。"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717430302.77,
+            "updatedAt": 1717430302.77,
+            "filename": "1717430302"
+        },
+        {
+            "title": "JSAI2024 affective1",
+            "link": "e",
+            "media": "academic",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716947183.371,
+            "updatedAt": 1716947183.371,
+            "filename": "1716947183"
+        },
+        {
+            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
+                "ja": "Teammate AI in cooperative games letting human players play active roles"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717432837.278,
+            "updatedAt": 1717432837.278,
+            "filename": "1717432837"
+        },
+        {
+            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
+            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
+            "media": "repository",
+            "tags": [
+                "academic",
+                "writing"
+            ],
+            "short": {
+                "en": "All resources of academic writing",
+                "ja": "アカデミックライティングの文献一覧"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717319233.885,
+            "updatedAt": 1717319233.885,
+            "filename": "1717319233"
+        },
+        {
+            "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
+            "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "unread",
+                "chi",
+                "metaresearch"
+            ],
+            "short": {
+                "en": "reject the search for \"solutions\"",
+                "ja": "私たちは、「解決策」の探求を明確に拒否する、さまざまな戦略を検討する。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716811465.45,
+            "updatedAt": 1716811465.45,
+            "filename": "1716811465"
         },
         {
             "title": "PromiseによるJavaScript非同期処理レシピ集",
