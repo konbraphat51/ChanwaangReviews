@@ -32,9 +32,9 @@ export default {
 
 			const random = new SeededRandom(num)
 
-			const r = random.Get(100) + 150
-			const g = random.Get(100) + 150
-			const b = random.Get(100) + 150
+			const r = random.Get(120) + 135
+			const g = random.Get(120) + 135
+			const b = random.Get(120) + 135
 
 			return [r, g, b]
 		},
