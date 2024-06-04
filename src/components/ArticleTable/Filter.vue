@@ -201,3 +201,9 @@ export default {
 	},
 }
 </script>
+
+<style>
+.ArticleFilter {
+	background-color: #d8fad8d4;
+}
+</style>
