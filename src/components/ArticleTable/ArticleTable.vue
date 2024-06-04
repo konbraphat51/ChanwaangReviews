@@ -41,7 +41,10 @@
 					</td>
 					<td v-if="showShort">{{ article.short[$i18n.locale] }}</td>
 					<td v-if="showTags">
-						<Tag v-for="tag in article.tags" :key="tag" :value="tag" />
+						<span v-for="tag in article.tags" :key="tag">
+							<Tag :value="tag" />
+							&nbsp;
+						</span>
 					</td>
 					<td v-if="showImportance">
 						<Importance :value="article.importance" />
