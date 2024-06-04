@@ -79,14 +79,14 @@
 			</label>
 			<input
 				type="range"
-				min="0"
+				min="1"
 				max="5"
-				value="0"
+				value="1"
 				@input="UpdateFilter('minImportance', $event.target.value)"
 			/>
 			-<input
 				type="range"
-				min="0"
+				min="1"
 				max="5"
 				value="5"
 				@input="UpdateFilter('maxImportance', $event.target.value)"
