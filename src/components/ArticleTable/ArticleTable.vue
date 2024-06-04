@@ -41,7 +41,9 @@
 					</td>
 					<td v-if="showShort">{{ article.short[$i18n.locale] }}</td>
 					<td v-if="showTags">{{ article.tags.join(", ") }}</td>
-					<td v-if="showImportance">{{ article.importance }}</td>
+					<td v-if="showImportance">
+						<Importance :value="article.importance" />
+					</td>
 					<td v-if="showMedia">{{ article.media }}</td>
 					<td v-if="showHasPage">
 						<button
@@ -105,6 +107,9 @@ export default Vue.defineComponent({
 	components: {
 		Filter: Vue.defineAsyncComponent(() =>
 			loadModule("src/components/ArticleTable/Filter.vue", options),
+		),
+		Importance: Vue.defineAsyncComponent(() =>
+			loadModule("src/components/ArticleTable/Importance.vue", options),
 		),
 	},
 	data() {
