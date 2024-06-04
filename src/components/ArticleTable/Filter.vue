@@ -98,17 +98,17 @@
 				{{ t("ArticleTable.CreatedAt") }}
 			</label>
 			<input
-				type="range"
-				min="0"
-				max="100000000000000"
-				value="0"
+				type="number"
+				min="1704067200"
+				max="1798761600"
+				value="1704067200"
 				@input="UpdateFilter('minCreatedTime', $event.target.value)"
 			/>
 			-<input
-				type="range"
-				min="0"
-				max="100000000000000"
-				value="100000000000000"
+				type="number"
+				min="1704067200"
+				max="1798761600"
+				value="1798761600"
 				@input="UpdateFilter('maxCreatedTime', $event.target.value)"
 			/>
 		</div>
@@ -118,17 +118,17 @@
 				{{ t("ArticleTable.UpdatedAt") }}
 			</label>
 			<input
-				type="range"
-				min="0"
-				max="100000000000000"
-				value="0"
+				type="number"
+				min="1704067200"
+				max="1798761600"
+				value="1704067200"
 				@input="UpdateFilter('minUpdatedTime', $event.target.value)"
 			/>
 			-<input
-				type="range"
-				min="0"
-				max="100000000000000"
-				value="100000000000000"
+				type="number"
+				min="1704067200"
+				max="1798761600"
+				value="1798761600"
 				@input="UpdateFilter('maxUpdatedTime', $event.target.value)"
 			/>
 		</div>
