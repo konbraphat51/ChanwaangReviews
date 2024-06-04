@@ -222,4 +222,9 @@ export default Vue.defineComponent({
 .ArticleTable tbody tr:nth-child(even) {
 	background-color: #d8fad8d4;
 }
+
+.ArticleTable .importance img {
+	width: 1em;
+	height: 1em;
+}
 </style>
