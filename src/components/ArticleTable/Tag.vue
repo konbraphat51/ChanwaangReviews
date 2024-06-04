@@ -1,5 +1,7 @@
 <template>
-	<span class="Tag"></span>
+	<span class="Tag">
+		{{ value }}
+	</span>
 </template>
 
 <script>
@@ -11,16 +13,28 @@ export default {
 			required: true,
 		},
 	},
+	mounted() {
+		this.UpdateColor(this.value)
+	},
 
 	methods: {
+		UpdateColor(text) {
+			//skip if not rendered yet
+			if (!this.$el) return
+
+			const color = this.GetColor(text)
+
+			this.$el.style.backgroundColor = `rgb(${color[0]}, ${color[1]}, ${color[2]})`
+		},
+
 		GetColor(text) {
 			const num = this.TextToNum(text)
 
 			const random = new SeededRandom(num)
 
-			const r = random.Get(0, 100)
-			const g = random.Get(0, 100)
-			const b = random.Get(0, 100)
+			const r = random.Get(100) + 150
+			const g = random.Get(100) + 150
+			const b = random.Get(100) + 150
 
 			return [r, g, b]
 		},
@@ -30,6 +44,17 @@ export default {
 			for (let cnt = 0; cnt < text.length; cnt++) {
 				num += text.charCodeAt(cnt)
 			}
+
+			return num
+		},
+	},
+
+	watch: {
+		value: {
+			immediate: true,
+			handler(newValue) {
+				if (newValue != null) this.UpdateColor(newValue)
+			},
 		},
 	},
 }

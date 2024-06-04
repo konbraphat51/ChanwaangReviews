@@ -40,7 +40,9 @@
 						</a>
 					</td>
 					<td v-if="showShort">{{ article.short[$i18n.locale] }}</td>
-					<td v-if="showTags">{{ article.tags.join(", ") }}</td>
+					<td v-if="showTags">
+						<Tag v-for="tag in article.tags" :key="tag" :value="tag" />
+					</td>
 					<td v-if="showImportance">
 						<Importance :value="article.importance" />
 					</td>
@@ -110,6 +112,9 @@ export default Vue.defineComponent({
 		),
 		Importance: Vue.defineAsyncComponent(() =>
 			loadModule("src/components/ArticleTable/Importance.vue", options),
+		),
+		Tag: Vue.defineAsyncComponent(() =>
+			loadModule("src/components/ArticleTable/Tag.vue", options),
 		),
 	},
 	data() {
