@@ -221,6 +221,25 @@
             "filename": "1717433375"
         },
         {
+            "title": "javascriptの構文解析をしてみる",
+            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "I didn't have to make a JS compiler by my self...",
+                "ja": "ASTを知りました"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717575625.365,
+            "updatedAt": 1717575625.365,
+            "filename": "1717575625"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
