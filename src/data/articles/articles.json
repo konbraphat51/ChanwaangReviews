@@ -201,6 +201,26 @@
             "filename": "1717431151"
         },
         {
+            "title": "acorn",
+            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
+            "media": "repository",
+            "tags": [
+                "javascript",
+                "parser",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "Javascript parser library",
+                "ja": "Javascript parser library"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717577391.578,
+            "updatedAt": 1717577391.578,
+            "filename": "1717577391"
+        },
+        {
             "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
             "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
             "media": "academic",
