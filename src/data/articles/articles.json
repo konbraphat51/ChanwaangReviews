@@ -1,6 +1,26 @@
 {
     "articles": [
         {
+            "title": "論文の読み方",
+            "link": "https://speakerdeck.com/kaityo256/how-to-survey",
+            "media": "netpage",
+            "tags": [
+                "paper",
+                "skill",
+                "academic",
+                "reading"
+            ],
+            "short": {
+                "en": "Read mainly the introduction and get a comprehensive view of the field",
+                "ja": "主にイントロダクションを読んで分野の包括的な位置付けを把握する"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717673521.473,
+            "updatedAt": 1717673521.473,
+            "filename": "1717673521"
+        },
+        {
             "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
             "link": "https://qiita.com/hmkz/items/c635c0d309f68b5919e4",
             "media": "netpage",
