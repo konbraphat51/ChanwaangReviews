@@ -128,6 +128,27 @@
             "filename": "markdownwriting"
         },
         {
+            "title": "ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用",
+            "link": "https://gihyo.jp/book/2022/978-4-297-13234-7",
+            "media": "book",
+            "tags": [
+                "programming",
+                "design",
+                "architecture",
+                "software",
+                "softwarearchitecture"
+            ],
+            "short": {
+                "en": "Modern software architecture",
+                "ja": "モダンなソフトウェアアーキテクチャ解説書"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1717649862.924,
+            "updatedAt": 1717649862.924,
+            "filename": "1717649862"
+        },
+        {
             "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
             "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
             "media": "netpage",
