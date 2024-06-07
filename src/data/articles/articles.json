@@ -635,6 +635,28 @@
             "filename": "1716811465"
         },
         {
+            "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
+            "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
+            "media": "academic",
+            "tags": [
+                "animation",
+                "game",
+                "motion",
+                "3d",
+                "3danimation",
+                "unread"
+            ],
+            "short": {
+                "en": "motion matching for game",
+                "ja": "motion mathcing"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1717727670.767,
+            "updatedAt": 1717727670.767,
+            "filename": "1717727670"
+        },
+        {
             "title": "UniBT",
             "link": "https://github.com/yoshidan/UniBT",
             "media": "repository",
