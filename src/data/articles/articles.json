@@ -131,6 +131,23 @@
             "filename": "1717240630"
         },
         {
+            "title": "強化学習でポケモンをプレイする",
+            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
+            "media": "netpage",
+            "tags": [
+                "rl"
+            ],
+            "short": {
+                "en": "explain RL for Pokemon",
+                "ja": "ポケモン強化学習解説記事"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718009273.334,
+            "updatedAt": 1718009273.334,
+            "filename": "1718009273"
+        },
+        {
             "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
             "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
             "media": "academic",
