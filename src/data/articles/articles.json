@@ -168,6 +168,25 @@
             "filename": "1717310157"
         },
         {
+            "title": "gameaipro.com",
+            "link": "http://www.gameaipro.com/",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "Total articles of game AI",
+                "ja": "ゲームAI技術全て"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1718058851.738,
+            "updatedAt": 1718058851.738,
+            "filename": "1718058851"
+        },
+        {
             "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
             "link": "https://zenn.dev/yurukei20/articles/",
             "media": "book",
