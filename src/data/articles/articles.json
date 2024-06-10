@@ -262,6 +262,28 @@
             "filename": "1718009136"
         },
         {
+            "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
+            "link": "https://pdfs.semanticscholar.org/1cb7/9ed0db0db44810af97f2e4252874212edcd8.pdf",
+            "media": "academic",
+            "tags": [
+                "rl",
+                "game",
+                "ai",
+                "gameai",
+                "behaviortree",
+                ""
+            ],
+            "short": {
+                "en": "Mixing RL and BT",
+                "ja": "強化学習とビヘイビアツリーの複合"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718022149.816,
+            "updatedAt": 1718022149.816,
+            "filename": "1718022149"
+        },
+        {
             "title": "JSAI2024 gameAI a",
             "link": "t",
             "media": "academic",
