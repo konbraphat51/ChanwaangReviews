@@ -262,6 +262,23 @@
             "filename": "1718009136"
         },
         {
+            "title": "Exploring HTN Planners through Example",
+            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
+            "media": "netpage",
+            "tags": [
+                "unread"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718032796.794,
+            "updatedAt": 1718032796.794,
+            "filename": "1718032796"
+        },
+        {
             "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
             "link": "https://pdfs.semanticscholar.org/1cb7/9ed0db0db44810af97f2e4252874212edcd8.pdf",
             "media": "academic",
