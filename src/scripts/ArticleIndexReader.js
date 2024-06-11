@@ -161,38 +161,41 @@ class ArticleIndexReader {
 				})
 			}
 
-			targetStrings.forEach((targetString) => {
+			for (let cnt = 0; cnt < targetStrings.length; cnt++) {
+				let targetString = targetStrings[cnt]
 				if (and) {
 					//AND
 					let ok = true
-					keywords.forEach((keyword) => {
+					for (let cnt = 0; cnt < keywords.length; cnt++) {
+						let keyword = keywords[cnt]
 						keyword = keyword.toLowerCase()
 						if (!targetString.includes(keyword)) {
 							ok = false
-							return // break from forEach
+							break
 						}
-					})
+					}
 					if (ok) {
 						result.push(article)
-						return // break from forEach
+						break
 					}
 				} else {
 					//OR
 					let ok = false
-					keywords.forEach((keyword) => {
+					for (let cnt = 0; cnt < keywords.length; cnt++) {
+						let keyword = keywords[cnt]
 						keyword = keyword.toLowerCase()
 						if (targetString.includes(keyword)) {
 							result.push(article)
 							ok = true
-							return // break from forEach
+							break
 						}
-					})
+					}
 
 					if (ok) {
-						return // break from forEach
+						break
 					}
 				}
-			})
+			}
 		})
 
 		return result
@@ -218,25 +221,27 @@ class ArticleIndexReader {
 			if (and) {
 				//AND
 				let ok = true
-				keywords.forEach((keyword) => {
+				for (let cnt = 0; cnt < keywords.length; cnt++) {
+					let keyword = keywords[cnt]
 					keyword = keyword.toLowerCase()
 					if (!targetLowered.includes(keyword)) {
 						ok = false
-						return // break from forEach
+						break
 					}
-				})
+				}
 				if (ok) {
 					result.push(article)
 				}
 			} else {
 				//OR
-				keywords.forEach((keyword) => {
+				for (let cnt = 0; cnt < keywords.length; cnt++) {
+					let keyword = keywords[cnt]
 					keyword = keyword.toLowerCase()
 					if (targetLowered.includes(keyword)) {
 						result.push(article)
-						return // break from forEach
+						break
 					}
-				})
+				}
 			}
 		})
 
