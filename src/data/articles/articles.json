@@ -168,6 +168,26 @@
             "filename": "1717310157"
         },
         {
+            "title": "F.E.A.Rにおけるゴール指向プランニング",
+            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "explanation of GOAP",
+                "ja": "GOAPの平易解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718082768.938,
+            "updatedAt": 1718082768.938,
+            "filename": "1718082768"
+        },
+        {
             "title": "gameaipro.com",
             "link": "http://www.gameaipro.com/",
             "media": "netpage",
