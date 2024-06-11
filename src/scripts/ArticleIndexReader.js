@@ -144,7 +144,7 @@ class ArticleIndexReader {
 	 * Check string including keywords
 	 */
 	#FilterInclusive(target, key, keywords, and) {
-		if (keywords.length === 0) {
+		if (keywords.length === 0 || keywords[0] === "") {
 			return target
 		}
 
@@ -202,7 +202,7 @@ class ArticleIndexReader {
 	 * Check list matching keywords
 	 */
 	#FilterMatching(target, key, keywords, and) {
-		if (keywords.length === 0) {
+		if (keywords.length === 0 || keywords[0] === "") {
 			return target
 		}
 
