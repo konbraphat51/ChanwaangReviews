@@ -1,103 +1,6 @@
 {
     "articles": [
         {
-            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
-            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
-            "media": "academic",
-            "tags": [
-                "robotics",
-                "affordance",
-                "planning"
-            ],
-            "short": {
-                "en": "thesis that attacked to affordance based planning",
-                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717451026.36,
-            "updatedAt": 1717451026.36,
-            "filename": "1717451026"
-        },
-        {
-            "title": "acorn",
-            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
-            "media": "repository",
-            "tags": [
-                "javascript",
-                "parser",
-                "abstractsyntaxtree",
-                "compiler"
-            ],
-            "short": {
-                "en": "Javascript parser library",
-                "ja": "Javascript parser library"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717577391.578,
-            "updatedAt": 1717577391.578,
-            "filename": "1717577391"
-        },
-        {
-            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
-            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
-            "media": "repository",
-            "tags": [
-                "academic",
-                "writing"
-            ],
-            "short": {
-                "en": "All resources of academic writing",
-                "ja": "アカデミックライティングの文献一覧"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717319233.885,
-            "updatedAt": 1717319233.885,
-            "filename": "1717319233"
-        },
-        {
-            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
-            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
-            "media": "netpage",
-            "tags": [
-                "html",
-                "css"
-            ],
-            "short": {
-                "en": "resizable table column by drag",
-                "ja": "ドラッグで幅変更可能なテーブルCSS"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716516123.083,
-            "updatedAt": 1716516123.083,
-            "filename": "1716516123"
-        },
-        {
-            "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
-            "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
-            "media": "academic",
-            "tags": [
-                "animation",
-                "game",
-                "motion",
-                "3d",
-                "3danimation",
-                "unread"
-            ],
-            "short": {
-                "en": "motion matching for game",
-                "ja": "motion mathcing"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1717727670.767,
-            "updatedAt": 1717727670.767,
-            "filename": "1717727670"
-        },
-        {
             "title": "論文の読み方",
             "link": "https://speakerdeck.com/kaityo256/how-to-survey",
             "media": "netpage",
@@ -116,469 +19,6 @@
             "createdAt": 1717673521.473,
             "updatedAt": 1717673521.473,
             "filename": "1717673521"
-        },
-        {
-            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "biosignal",
-                "eeg",
-                ""
-            ],
-            "short": {
-                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
-                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1716453618.354,
-            "updatedAt": 1716453618.354,
-            "filename": "1716453618"
-        },
-        {
-            "title": "強化学習でポケモンをプレイする",
-            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
-            "media": "netpage",
-            "tags": [
-                "rl"
-            ],
-            "short": {
-                "en": "explain RL for Pokemon",
-                "ja": "ポケモン強化学習解説記事"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718009273.334,
-            "updatedAt": 1718009273.334,
-            "filename": "1718009273"
-        },
-        {
-            "title": "Permission denied to github-actions[bot]",
-            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
-            "media": "netpage",
-            "tags": [
-                "githubaction"
-            ],
-            "short": {
-                "en": "give github action a permission to commit",
-                "ja": "github actionにコミット権限を与える"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1716514732.013,
-            "updatedAt": 1716514732.013,
-            "filename": "1716514732"
-        },
-        {
-            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
-            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
-            "media": "academic",
-            "tags": [
-                "game",
-                "characterai"
-            ],
-            "short": {
-                "en": "バレないようにプレイヤーに迷路を攻略させる",
-                "ja": "バレないようにプレイヤーに迷路を攻略させる"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717431151.73,
-            "updatedAt": 1717431151.73,
-            "filename": "1717431151"
-        },
-        {
-            "title": "JSAI 2024 behavior economics",
-            "link": "temp",
-            "media": "academic",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716870888.632,
-            "updatedAt": 1716870888.632,
-            "filename": "1716870888"
-        },
-        {
-            "title": "Benefits of embedding custom fonts",
-            "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
-            "media": "netpage",
-            "tags": [
-                "powerpoint",
-                "microsoft"
-            ],
-            "short": {
-                "en": "Save powerpoints with fonts",
-                "ja": "フォント付きでパワポを保存する"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716707379.166,
-            "updatedAt": 1716707379.166,
-            "filename": "1716707379"
-        },
-        {
-            "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
-            "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "random"
-            ],
-            "short": {
-                "en": "Seeded random generator by JavaScript",
-                "ja": "JavaScriptでシード生成乱数クラス"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717488367.253,
-            "updatedAt": 1717488367.253,
-            "filename": "1717488367"
-        },
-        {
-            "title": "JSAI2024 affective1",
-            "link": "e",
-            "media": "academic",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716947183.371,
-            "updatedAt": 1716947183.371,
-            "filename": "1716947183"
-        },
-        {
-            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
-            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
-            "media": "netpage",
-            "tags": [
-                "python",
-                "machinelearning",
-                "unread"
-            ],
-            "short": {
-                "en": "crazy parameters tuning total manual",
-                "ja": "すごいパラメーターチューニング総説"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1716772088.488,
-            "updatedAt": 1716772088.488,
-            "filename": "1716772088"
-        },
-        {
-            "title": "gameaipro.com",
-            "link": "http://www.gameaipro.com/",
-            "media": "netpage",
-            "tags": [
-                "game",
-                "ai",
-                "gameai"
-            ],
-            "short": {
-                "en": "Total articles of game AI",
-                "ja": "ゲームAI技術全て"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1718058851.738,
-            "updatedAt": 1718058851.738,
-            "filename": "1718058851"
-        },
-        {
-            "title": "Investigating the Elusive Role of Level Design",
-            "link": "https://ieeexplore.ieee.org/document/9231624",
-            "media": "academic",
-            "tags": [
-                "game",
-                "leveldesign",
-                "survey"
-            ],
-            "short": {
-                "en": "Survey the definition and role of \"level designer\"",
-                "ja": "「レベルデザイナー」の定義・役割を巡るサーベイ"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1717659810.606,
-            "updatedAt": 1717659810.606,
-            "filename": "1717659810"
-        },
-        {
-            "title": "N 個の整数 A_1,A_2,…,A_N が与えられ、N⋅(N−1)/2 個すべての非順序対 (Ai,Aj) (i<j) に対するf(A_i, A_j)の和を求める問題",
-            "link": "https://shakayami.hatenablog.com/entry/2021/01/01/044946",
-            "media": "netpage",
-            "tags": [
-                "algorithm",
-                "complexity",
-                ""
-            ],
-            "short": {
-                "en": "Computing sum of N^2 pairs",
-                "ja": "N^2 ペアから総和計算"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717254032.169,
-            "updatedAt": 1717254032.169,
-            "filename": "1717254032"
-        },
-        {
-            "title": "UniBT",
-            "link": "https://github.com/yoshidan/UniBT",
-            "media": "repository",
-            "tags": [
-                "unity",
-                "behaviortree",
-                "ai",
-                "library"
-            ],
-            "short": {
-                "en": "Free Unity library for visual scripting a behavior tree",
-                "ja": "ビヘイビアツリーをビジュアルスクリプティングする無料Unityライブラリ"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717661348.5,
-            "updatedAt": 1717661348.5,
-            "filename": "1717661348"
-        },
-        {
-            "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
-            "link": "https://arxiv.org/abs/2312.10997",
-            "media": "academic",
-            "tags": [
-                "rag",
-                "survey"
-            ],
-            "short": {
-                "en": "survey of RAG (2024/3)",
-                "ja": "RAGのサーベイ (2024/3)"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1718009136.827,
-            "updatedAt": 1718009136.827,
-            "filename": "1718009136"
-        },
-        {
-            "title": "Eight Ways Videogames Generate Emotion",
-            "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "emotion"
-            ],
-            "short": {
-                "en": "Analyze all broad vision of emotional response during gaming",
-                "ja": "ゲーム中の感情をなるべく多く分析する"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1717396187.674,
-            "updatedAt": 1717396187.674,
-            "filename": "1717396187"
-        },
-        {
-            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
-            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "humanity",
-                "characterai"
-            ],
-            "short": {
-                "en": "キャラクターAIにおける人間らしさの文献調査",
-                "ja": "What is \"humanity\" for character AI?"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717433375.173,
-            "updatedAt": 1717433375.173,
-            "filename": "1717433375"
-        },
-        {
-            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
-            "link": "https://zenn.dev/yurukei20/articles/",
-            "media": "book",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "showing markdown in html",
-                "ja": "markdownをhtmlで表示"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716365855.63,
-            "updatedAt": 1716365855.63,
-            "filename": "markdownwriting"
-        },
-        {
-            "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
-            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
-            "media": "academic",
-            "tags": [
-                "psychology",
-                "affective",
-                "game"
-            ],
-            "short": {
-                "en": "propose a new approach to game design based on several high-level design heuristics: assist me, challenge me and emote me (ACE)",
-                "ja": "アシスト・ミー、チャレンジ・ミー、エモーション・ミー（ACE）というハイレベルなデザイン・ヒューリスティックに基づくゲームデザインの新しいアプローチを提案する。"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717430302.77,
-            "updatedAt": 1717430302.77,
-            "filename": "1717430302"
-        },
-        {
-            "title": "How to Use HTML to Open a Link in a New Tab",
-            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
-            "media": "netpage",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "hyperlink opening new tab",
-                "ja": "新規タブを開くハイパーリンク"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716517146.142,
-            "updatedAt": 1716517146.142,
-            "filename": "1716517146"
-        },
-        {
-            "title": "javascriptの構文解析をしてみる",
-            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "abstractsyntaxtree",
-                "compiler"
-            ],
-            "short": {
-                "en": "I didn't have to make a JS compiler by my self...",
-                "ja": "ASTを知りました"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1717575625.365,
-            "updatedAt": 1717575625.365,
-            "filename": "1717575625"
-        },
-        {
-            "title": "PromiseによるJavaScript非同期処理レシピ集",
-            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "async",
-                "promose"
-            ],
-            "short": {
-                "en": "totally how to use promise",
-                "ja": "promiseの使い方総説"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1716445032.427,
-            "updatedAt": 1716445032.427,
-            "filename": "1716445032"
-        },
-        {
-            "title": "F.E.A.Rにおけるゴール指向プランニング",
-            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "game",
-                "ai",
-                "gameai"
-            ],
-            "short": {
-                "en": "explanation of GOAP",
-                "ja": "GOAPの平易解説"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718082768.938,
-            "updatedAt": 1718082768.938,
-            "filename": "1718082768"
-        },
-        {
-            "title": "A Review of Affective Design towards Video Games",
-            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
-            "media": "academic",
-            "tags": [
-                "psychology",
-                "affective",
-                "game"
-            ],
-            "short": {
-                "en": "address and review the literature on affective design elements, principles and methodologies that are suitable for the video games industry.",
-                "ja": "ビデオゲーム業界に適した感情デザインの要素、原則、方法論に関する文献を取り上げ、レビューする。"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1717430377.926,
-            "updatedAt": 1717430377.926,
-            "filename": "1717430377"
-        },
-        {
-            "title": "The Motivational Pull of Video Games: A Self-Determination Theory Approach",
-            "link": "https://link.springer.com/article/10.1007/s11031-006-9051-8",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "sdt"
-            ],
-            "short": {
-                "en": "base SDT analysis upon game per-sec psychology. Says \"autonomy\" and \"competence\" is the core",
-                "ja": "ゲームプレイ中のSDT理論による基礎的分析。「主体感」と「達成感」が重要であると主張"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1717240630.21,
-            "updatedAt": 1717240630.21,
-            "filename": "1717240630"
-        },
-        {
-            "title": "JSAI 2024 HPE",
-            "link": "Temp",
-            "media": "academic",
-            "tags": [
-                "editing",
-                "environment"
-            ],
-            "short": {
-                "en": "Integrated environment software for ML",
-                "ja": "機械学習のスーパー環境構築ソフトウェア"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1716867669.43,
-            "updatedAt": 1716867669.43,
-            "filename": "1716867669"
         },
         {
             "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
@@ -600,21 +40,39 @@
             "filename": "1717304384"
         },
         {
-            "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
-            "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
-            "media": "academic",
+            "title": "How to Use HTML to Open a Link in a New Tab",
+            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
+            "media": "netpage",
             "tags": [
-                "interview"
+                "html"
             ],
             "short": {
-                "en": "Miyake vs Iwatani",
-                "ja": "三宅 vs 岩谷"
+                "en": "hyperlink opening new tab",
+                "ja": "新規タブを開くハイパーリンク"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716517146.142,
+            "updatedAt": 1716517146.142,
+            "filename": "1716517146"
+        },
+        {
+            "title": "iMotion",
+            "link": "https://www.physio-tech.co.jp/pdf/iMotions/iMotions.pdf",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "biosignal"
+            ],
+            "short": {
+                "en": "integrated software for biosignal",
+                "ja": "生体信号解統合ソフトウェア"
             },
             "importance": 1,
-            "hasPage": false,
-            "createdAt": 1718011100.785,
-            "updatedAt": 1718011100.785,
-            "filename": "1718011100"
+            "hasPage": true,
+            "createdAt": 1716446715.223,
+            "updatedAt": 1716446715.223,
+            "filename": "1716446715"
         },
         {
             "title": "Sketch2Map: A Game Map Design Support System Allowing Quick Hand Sketch Prototyping",
@@ -637,39 +95,57 @@
             "filename": "1717660259"
         },
         {
-            "title": "Exploring HTN Planners through Example",
-            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
-            "media": "netpage",
+            "title": "JSAI 2024 behavior economics",
+            "link": "temp",
+            "media": "academic",
             "tags": [
-                "unread"
+                "editing"
             ],
             "short": {
                 "en": "e",
                 "ja": "e"
             },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718032796.794,
-            "updatedAt": 1718032796.794,
-            "filename": "1718032796"
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716870888.632,
+            "updatedAt": 1716870888.632,
+            "filename": "1716870888"
         },
         {
-            "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
-            "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
+            "title": "The Motivational Pull of Video Games: A Self-Determination Theory Approach",
+            "link": "https://link.springer.com/article/10.1007/s11031-006-9051-8",
             "media": "academic",
             "tags": [
-                "hci",
-                "vr"
+                "game",
+                "psychology",
+                "sdt"
             ],
             "short": {
-                "en": "enabling tactile in VR by balloons",
-                "ja": "VR内の触覚を風船で実現"
+                "en": "base SDT analysis upon game per-sec psychology. Says \"autonomy\" and \"competence\" is the core",
+                "ja": "ゲームプレイ中のSDT理論による基礎的分析。「主体感」と「達成感」が重要であると主張"
             },
-            "importance": 1,
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1717240630.21,
+            "updatedAt": 1717240630.21,
+            "filename": "1717240630"
+        },
+        {
+            "title": "強化学習でポケモンをプレイする",
+            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
+            "media": "netpage",
+            "tags": [
+                "rl"
+            ],
+            "short": {
+                "en": "explain RL for Pokemon",
+                "ja": "ポケモン強化学習解説記事"
+            },
+            "importance": 2,
             "hasPage": false,
-            "createdAt": 1717938927.016,
-            "updatedAt": 1717938927.016,
-            "filename": "1717938927"
+            "createdAt": 1718009273.334,
+            "updatedAt": 1718009273.334,
+            "filename": "1718009273"
         },
         {
             "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
@@ -690,6 +166,62 @@
             "createdAt": 1717310157.891,
             "updatedAt": 1717310157.891,
             "filename": "1717310157"
+        },
+        {
+            "title": "F.E.A.Rにおけるゴール指向プランニング",
+            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "explanation of GOAP",
+                "ja": "GOAPの平易解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718082768.938,
+            "updatedAt": 1718082768.938,
+            "filename": "1718082768"
+        },
+        {
+            "title": "gameaipro.com",
+            "link": "http://www.gameaipro.com/",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "Total articles of game AI",
+                "ja": "ゲームAI技術全て"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1718058851.738,
+            "updatedAt": 1718058851.738,
+            "filename": "1718058851"
+        },
+        {
+            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
+            "link": "https://zenn.dev/yurukei20/articles/",
+            "media": "book",
+            "tags": [
+                "html"
+            ],
+            "short": {
+                "en": "showing markdown in html",
+                "ja": "markdownをhtmlで表示"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716365855.63,
+            "updatedAt": 1716365855.63,
+            "filename": "markdownwriting"
         },
         {
             "title": "ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用",
@@ -713,74 +245,96 @@
             "filename": "1717649862"
         },
         {
-            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
-            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "characterai"
-            ],
-            "short": {
-                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
-                "ja": "Teammate AI in cooperative games letting human players play active roles"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717432837.278,
-            "updatedAt": 1717432837.278,
-            "filename": "1717432837"
-        },
-        {
-            "title": "JavaScriptにおける連想配列のforループ操作",
-            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
+            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
+            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
             "media": "netpage",
             "tags": [
-                "javascript"
+                "python",
+                "machinelearning",
+                "unread"
             ],
             "short": {
-                "en": "foreach of object in javascript",
-                "ja": "javascriptにおける連想配列のforeach"
+                "en": "crazy parameters tuning total manual",
+                "ja": "すごいパラメーターチューニング総説"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716772088.488,
+            "updatedAt": 1716772088.488,
+            "filename": "1716772088"
+        },
+        {
+            "title": "N 個の整数 A_1,A_2,…,A_N が与えられ、N⋅(N−1)/2 個すべての非順序対 (Ai,Aj) (i<j) に対するf(A_i, A_j)の和を求める問題",
+            "link": "https://shakayami.hatenablog.com/entry/2021/01/01/044946",
+            "media": "netpage",
+            "tags": [
+                "algorithm",
+                "complexity",
+                ""
+            ],
+            "short": {
+                "en": "Computing sum of N^2 pairs",
+                "ja": "N^2 ペアから総和計算"
             },
             "importance": 4,
             "hasPage": false,
-            "createdAt": 1716439717.204,
-            "updatedAt": 1716439717.204,
-            "filename": "1716439717"
+            "createdAt": 1717254032.169,
+            "updatedAt": 1717254032.169,
+            "filename": "1717254032"
         },
         {
-            "title": "iMotion",
-            "link": "https://www.physio-tech.co.jp/pdf/iMotions/iMotions.pdf",
+            "title": "Repository and Unit of Work in Domain-Driven Design",
+            "link": "https://medium.com/@ruben.alapont/repository-and-unit-of-work-in-domain-driven-design-cc5638780dc3",
             "media": "netpage",
             "tags": [
-                "psychology",
-                "biosignal"
+                "ddd",
+                "repositorypattern",
+                "onionarchitecture"
             ],
             "short": {
-                "en": "integrated software for biosignal",
-                "ja": "生体信号解統合ソフトウェア"
+                "en": "repository pattern in DDD ",
+                "ja": "ドメイン駆動設計におけるレポジトリパターン"
             },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716446715.223,
-            "updatedAt": 1716446715.223,
-            "filename": "1716446715"
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718186442.401,
+            "updatedAt": 1718186442.401,
+            "filename": "1718186442"
         },
         {
-            "title": "JSAI2024 gameAI a",
-            "link": "t",
+            "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+            "link": "https://arxiv.org/abs/2312.10997",
             "media": "academic",
             "tags": [
-                "editing"
+                "rag",
+                "survey"
+            ],
+            "short": {
+                "en": "survey of RAG (2024/3)",
+                "ja": "RAGのサーベイ (2024/3)"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1718009136.827,
+            "updatedAt": 1718009136.827,
+            "filename": "1718009136"
+        },
+        {
+            "title": "Exploring HTN Planners through Example",
+            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
+            "media": "netpage",
+            "tags": [
+                "unread"
             ],
             "short": {
                 "en": "e",
                 "ja": "e"
             },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716882783.294,
-            "updatedAt": 1716882783.294,
-            "filename": "1716882783"
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718032796.794,
+            "updatedAt": 1718032796.794,
+            "filename": "1718032796"
         },
         {
             "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
@@ -805,6 +359,429 @@
             "filename": "1718022149"
         },
         {
+            "title": "JSAI2024 gameAI a",
+            "link": "t",
+            "media": "academic",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716882783.294,
+            "updatedAt": 1716882783.294,
+            "filename": "1716882783"
+        },
+        {
+            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
+            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "バレないようにプレイヤーに迷路を攻略させる",
+                "ja": "バレないようにプレイヤーに迷路を攻略させる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717431151.73,
+            "updatedAt": 1717431151.73,
+            "filename": "1717431151"
+        },
+        {
+            "title": "acorn",
+            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
+            "media": "repository",
+            "tags": [
+                "javascript",
+                "parser",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "Javascript parser library",
+                "ja": "Javascript parser library"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717577391.578,
+            "updatedAt": 1717577391.578,
+            "filename": "1717577391"
+        },
+        {
+            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "humanity",
+                "characterai"
+            ],
+            "short": {
+                "en": "キャラクターAIにおける人間らしさの文献調査",
+                "ja": "What is \"humanity\" for character AI?"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717433375.173,
+            "updatedAt": 1717433375.173,
+            "filename": "1717433375"
+        },
+        {
+            "title": "javascriptの構文解析をしてみる",
+            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "I didn't have to make a JS compiler by my self...",
+                "ja": "ASTを知りました"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717575625.365,
+            "updatedAt": 1717575625.365,
+            "filename": "1717575625"
+        },
+        {
+            "title": "Permission denied to github-actions[bot]",
+            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
+            "media": "netpage",
+            "tags": [
+                "githubaction"
+            ],
+            "short": {
+                "en": "give github action a permission to commit",
+                "ja": "github actionにコミット権限を与える"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1716514732.013,
+            "updatedAt": 1716514732.013,
+            "filename": "1716514732"
+        },
+        {
+            "title": "JSAI 2024 HPE",
+            "link": "Temp",
+            "media": "academic",
+            "tags": [
+                "editing",
+                "environment"
+            ],
+            "short": {
+                "en": "Integrated environment software for ML",
+                "ja": "機械学習のスーパー環境構築ソフトウェア"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716867669.43,
+            "updatedAt": 1716867669.43,
+            "filename": "1716867669"
+        },
+        {
+            "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
+            "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "random"
+            ],
+            "short": {
+                "en": "Seeded random generator by JavaScript",
+                "ja": "JavaScriptでシード生成乱数クラス"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717488367.253,
+            "updatedAt": 1717488367.253,
+            "filename": "1717488367"
+        },
+        {
+            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
+            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
+            "media": "netpage",
+            "tags": [
+                "html",
+                "css"
+            ],
+            "short": {
+                "en": "resizable table column by drag",
+                "ja": "ドラッグで幅変更可能なテーブルCSS"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716516123.083,
+            "updatedAt": 1716516123.083,
+            "filename": "1716516123"
+        },
+        {
+            "title": "A Review of Affective Design towards Video Games",
+            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "affective",
+                "game"
+            ],
+            "short": {
+                "en": "address and review the literature on affective design elements, principles and methodologies that are suitable for the video games industry.",
+                "ja": "ビデオゲーム業界に適した感情デザインの要素、原則、方法論に関する文献を取り上げ、レビューする。"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717430377.926,
+            "updatedAt": 1717430377.926,
+            "filename": "1717430377"
+        },
+        {
+            "title": "Eight Ways Videogames Generate Emotion",
+            "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "emotion"
+            ],
+            "short": {
+                "en": "Analyze all broad vision of emotional response during gaming",
+                "ja": "ゲーム中の感情をなるべく多く分析する"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1717396187.674,
+            "updatedAt": 1717396187.674,
+            "filename": "1717396187"
+        },
+        {
+            "title": "Benefits of embedding custom fonts",
+            "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
+            "media": "netpage",
+            "tags": [
+                "powerpoint",
+                "microsoft"
+            ],
+            "short": {
+                "en": "Save powerpoints with fonts",
+                "ja": "フォント付きでパワポを保存する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716707379.166,
+            "updatedAt": 1716707379.166,
+            "filename": "1716707379"
+        },
+        {
+            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "eeg",
+                ""
+            ],
+            "short": {
+                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
+                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716453618.354,
+            "updatedAt": 1716453618.354,
+            "filename": "1716453618"
+        },
+        {
+            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
+            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "affordance",
+                "planning"
+            ],
+            "short": {
+                "en": "thesis that attacked to affordance based planning",
+                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717451026.36,
+            "updatedAt": 1717451026.36,
+            "filename": "1717451026"
+        },
+        {
+            "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
+            "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "interview"
+            ],
+            "short": {
+                "en": "Miyake vs Iwatani",
+                "ja": "三宅 vs 岩谷"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1718011100.785,
+            "updatedAt": 1718011100.785,
+            "filename": "1718011100"
+        },
+        {
+            "title": "JavaScriptにおける連想配列のforループ操作",
+            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
+            "media": "netpage",
+            "tags": [
+                "javascript"
+            ],
+            "short": {
+                "en": "foreach of object in javascript",
+                "ja": "javascriptにおける連想配列のforeach"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1716439717.204,
+            "updatedAt": 1716439717.204,
+            "filename": "1716439717"
+        },
+        {
+            "title": "Investigating the Elusive Role of Level Design",
+            "link": "https://ieeexplore.ieee.org/document/9231624",
+            "media": "academic",
+            "tags": [
+                "game",
+                "leveldesign",
+                "survey"
+            ],
+            "short": {
+                "en": "Survey the definition and role of \"level designer\"",
+                "ja": "「レベルデザイナー」の定義・役割を巡るサーベイ"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1717659810.606,
+            "updatedAt": 1717659810.606,
+            "filename": "1717659810"
+        },
+        {
+            "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
+            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "affective",
+                "game"
+            ],
+            "short": {
+                "en": "propose a new approach to game design based on several high-level design heuristics: assist me, challenge me and emote me (ACE)",
+                "ja": "アシスト・ミー、チャレンジ・ミー、エモーション・ミー（ACE）というハイレベルなデザイン・ヒューリスティックに基づくゲームデザインの新しいアプローチを提案する。"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717430302.77,
+            "updatedAt": 1717430302.77,
+            "filename": "1717430302"
+        },
+        {
+            "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
+            "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
+            "media": "netpage",
+            "tags": [
+                "github",
+                "google",
+                "seo"
+            ],
+            "short": {
+                "en": "making a github repository hit in a google search",
+                "ja": "githubレポジトリをGoogle検索にヒットさせる"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717489073.76,
+            "updatedAt": 1717489073.76,
+            "filename": "1717489073"
+        },
+        {
+            "title": "JSAI2024 affective1",
+            "link": "e",
+            "media": "academic",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716947183.371,
+            "updatedAt": 1716947183.371,
+            "filename": "1716947183"
+        },
+        {
+            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
+                "ja": "Teammate AI in cooperative games letting human players play active roles"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717432837.278,
+            "updatedAt": 1717432837.278,
+            "filename": "1717432837"
+        },
+        {
+            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
+            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
+            "media": "repository",
+            "tags": [
+                "academic",
+                "writing"
+            ],
+            "short": {
+                "en": "All resources of academic writing",
+                "ja": "アカデミックライティングの文献一覧"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717319233.885,
+            "updatedAt": 1717319233.885,
+            "filename": "1717319233"
+        },
+        {
+            "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
+            "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "vr"
+            ],
+            "short": {
+                "en": "enabling tactile in VR by balloons",
+                "ja": "VR内の触覚を風船で実現"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717938927.016,
+            "updatedAt": 1717938927.016,
+            "filename": "1717938927"
+        },
+        {
             "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
             "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
             "media": "academic",
@@ -825,23 +802,65 @@
             "filename": "1716811465"
         },
         {
-            "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
-            "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
-            "media": "netpage",
+            "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
+            "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
+            "media": "academic",
             "tags": [
-                "github",
-                "google",
-                "seo"
+                "animation",
+                "game",
+                "motion",
+                "3d",
+                "3danimation",
+                "unread"
             ],
             "short": {
-                "en": "making a github repository hit in a google search",
-                "ja": "githubレポジトリをGoogle検索にヒットさせる"
+                "en": "motion matching for game",
+                "ja": "motion mathcing"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1717727670.767,
+            "updatedAt": 1717727670.767,
+            "filename": "1717727670"
+        },
+        {
+            "title": "UniBT",
+            "link": "https://github.com/yoshidan/UniBT",
+            "media": "repository",
+            "tags": [
+                "unity",
+                "behaviortree",
+                "ai",
+                "library"
+            ],
+            "short": {
+                "en": "Free Unity library for visual scripting a behavior tree",
+                "ja": "ビヘイビアツリーをビジュアルスクリプティングする無料Unityライブラリ"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717661348.5,
+            "updatedAt": 1717661348.5,
+            "filename": "1717661348"
+        },
+        {
+            "title": "PromiseによるJavaScript非同期処理レシピ集",
+            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "async",
+                "promose"
+            ],
+            "short": {
+                "en": "totally how to use promise",
+                "ja": "promiseの使い方総説"
             },
             "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717489073.76,
-            "updatedAt": 1717489073.76,
-            "filename": "1717489073"
+            "hasPage": true,
+            "createdAt": 1716445032.427,
+            "updatedAt": 1716445032.427,
+            "filename": "1716445032"
         }
     ]
 }
