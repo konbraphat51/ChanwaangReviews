@@ -76,6 +76,23 @@
             "filename": "1716516123"
         },
         {
+            "title": "C++ のムーブを理解する",
+            "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
+            "media": "netpage",
+            "tags": [
+                "cpp"
+            ],
+            "short": {
+                "en": "understanding std::move()",
+                "ja": "std::move()解説"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718272402.04,
+            "updatedAt": 1718272402.04,
+            "filename": "1718272402"
+        },
+        {
             "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
             "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
             "media": "academic",
