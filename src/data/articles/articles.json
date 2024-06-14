@@ -714,6 +714,27 @@
             "filename": "1717660259"
         },
         {
+            "title": "Human Demonstrations are Generalizable Knowledge for Robots",
+            "link": "https://arxiv.org/abs/2312.02419v1",
+            "media": "academic",
+            "tags": [
+                "ai",
+                "llm",
+                "robotics",
+                "humandemonstration",
+                "knowledge"
+            ],
+            "short": {
+                "en": "Get every knowledge from a video",
+                "ja": "動画から全ての知識を把握する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718326632.599,
+            "updatedAt": 1718326632.599,
+            "filename": "1718326632"
+        },
+        {
             "title": "Exploring HTN Planners through Example",
             "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
             "media": "netpage",
