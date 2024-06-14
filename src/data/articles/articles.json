@@ -653,6 +653,30 @@
             "filename": "1717304384"
         },
         {
+            "title": "What Does That ?-Block Do? Learning Latent Causal Affordances from Mario Play Traces",
+            "link": "https://cdn.aaai.org/ocs/ws/ws0315/15115-68462-1-PB.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "ai",
+                "gameai",
+                "analyze",
+                "affordance",
+                "",
+                "gameplay",
+                ""
+            ],
+            "short": {
+                "en": "Learn and cluster the affordance of mario game object",
+                "ja": "マリオのオブジェクトのアフォーダンスを学習・クラスタリングする"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718325883.113,
+            "updatedAt": 1718325883.113,
+            "filename": "1718325883"
+        },
+        {
             "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
             "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
             "media": "academic",
