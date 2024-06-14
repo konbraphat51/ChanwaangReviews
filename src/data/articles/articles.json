@@ -677,6 +677,26 @@
             "filename": "1718325883"
         },
         {
+            "title": "脳波を用いた感情分類の研究",
+            "link": "https://www.pgv.co.jp/nais-entry/case-study/202303_02",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "eeg",
+                "biosignal",
+                "survey"
+            ],
+            "short": {
+                "en": "estimate emotion from eeg survey",
+                "ja": "脳波感情推定サーベイ"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718372074.25,
+            "updatedAt": 1718372074.25,
+            "filename": "1718372074"
+        },
+        {
             "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
             "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
             "media": "academic",
