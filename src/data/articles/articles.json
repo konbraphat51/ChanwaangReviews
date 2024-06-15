@@ -411,6 +411,23 @@
             "filename": "1718009136"
         },
         {
+            "title": "GOAP - References",
+            "link": "https://www.youtube.com/playlist?list=PLZWmMt_TbeYdBZKvlsRuuOubPTTfPuZot",
+            "media": "netpage",
+            "tags": [
+                "goal"
+            ],
+            "short": {
+                "en": "basic GOAP explanation videos",
+                "ja": "GOAP説明youtubeプレイリスト"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718434221.972,
+            "updatedAt": 1718434221.972,
+            "filename": "1718434221"
+        },
+        {
             "title": "Eight Ways Videogames Generate Emotion",
             "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
             "media": "academic",
