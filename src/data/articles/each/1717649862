@@ -1,0 +1,14 @@
+<!-- META
+{"title":"ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用","link":"https://gihyo.jp/book/2022/978-4-297-13234-7","media":"book","tags":["programming","design","architecture","software","softwarearchitecture"],"short":{"en":"Modern software architecture","ja":"モダンなソフトウェアアーキテクチャ解説書"},"importance":4,"hasPage":true,"createdAt":1717649862.924,"updatedAt":1718701041.004,"filename":"1717649862"}
+META -->
+
+## All Principles
+* REP = Reuse-Release Equivalent Principle  
+再利用・リリース等価の原則  
+Reuse what only released. If you want to reused your program, release (give stability to) it.
+
+* CRP = Common Reuse Principle  
+全利用の原則  
+Reuse all of the code in the package. (Don't stuff too much into the package.)
+
+update test
