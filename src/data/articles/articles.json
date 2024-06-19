@@ -316,6 +316,25 @@
             "filename": "1716772088"
         },
         {
+            "title": "Search Engines & Society -Information Quality and the Potential of AI",
+            "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
+            "media": "netpage",
+            "tags": [
+                "google",
+                "lt",
+                "searchengine"
+            ],
+            "short": {
+                "en": "Speech from Dr. Prabhakar Raghavan Senior Vice President of Google",
+                "ja": "Dr. Prabhakar Raghavan Senior Vice President of Googleの発表"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1718795206.176,
+            "updatedAt": 1718795206.176,
+            "filename": "1718795206"
+        },
+        {
             "title": "gameaipro.com",
             "link": "http://www.gameaipro.com/",
             "media": "netpage",
