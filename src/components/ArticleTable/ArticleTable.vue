@@ -30,6 +30,9 @@
 					<th scope="col" v-if="showFilename">
 						{{ t("ArticleTable.Filename") }}
 					</th>
+					<th scope="col" v-if="showEditButton">
+						{{ t("ArticleTable.Edit") }}
+					</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -62,6 +65,11 @@
 					<td v-if="showUpdatedAt">{{ article.updatedAt }}</td>
 					<td v-if="showCreatedAt">{{ article.createdAt }}</td>
 					<td v-if="showFilename">{{ article.filename }}</td>
+					<td v-if="showEditButton">
+						<a :href="`/admin/article/${article.id}`" target="_blank">
+							{{ t("ArticleTable.Edit") }}
+						</a>
+					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -102,6 +110,10 @@
 				<input type="checkbox" v-model="showFilename" />
 				{{ t("ArticleTable.Filename") }}
 			</label>
+			<label>
+				<input type="checkbox" v-model="showEditButton" />
+				{{ t("ArticleTable.Edit") }}
+			</label>
 		</div>
 	</div>
 </template>
@@ -131,6 +143,7 @@ export default Vue.defineComponent({
 			showUpdatedAt: false,
 			showCreatedAt: false,
 			showFilename: false,
+			showEditButton: false,
 
 			reader: new ArticleIndexReader(),
 
@@ -190,7 +203,8 @@ export default Vue.defineComponent({
                 "HasPage": "Markdown",
                 "UpdatedAt": "Updated At",
                 "CreatedAt": "Created At",
-                "Filename": "Filename"
+                "Filename": "Filename",
+				"Edit": "Edit"
             }
         },
         "ja": {
@@ -207,7 +221,8 @@ export default Vue.defineComponent({
                 "HasPage": "マークダウン",
                 "UpdatedAt": "更新日時",
                 "CreatedAt": "作成日時",
-                "Filename": "ファイル名"
+                "Filename": "ファイル名",
+				"Edit": "編集ボタン"
             }
         }
     }
