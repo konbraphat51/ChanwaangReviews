@@ -74,7 +74,10 @@
 						</a>
 					</td>
 					<td v-if="showEditButton">
-						<a :href="`/admin/article/${article.id}`" target="_blank">
+						<a
+							:href="`https://konbraphat51.github.io/Waanger/#/?id=${article.id}`"
+							target="_blank"
+						>
 							{{ t("ArticleTable.Edit") }}
 						</a>
 					</td>
