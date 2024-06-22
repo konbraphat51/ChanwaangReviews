@@ -140,7 +140,7 @@ export default {
 	name: "Filter",
 	data() {
 		return {
-			media: ["netpage", "book", "academic", "repository"],
+			media: ["netpage", "book", "academic", "repository", "presentation"],
 
 			filter: {
 				and: false,
