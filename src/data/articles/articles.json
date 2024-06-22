@@ -76,6 +76,25 @@
             "filename": "1716516123"
         },
         {
+            "title": "東京都議会で議論されている論点はどのようなものか。どのような質問が出ているのか。",
+            "link": "https://takahiroanno2024.github.io/tokyoai-analysis/20240615-tokyo-metropolitan-assembly/",
+            "media": "netpage",
+            "tags": [
+                "nlp",
+                "clustering",
+                "topic"
+            ],
+            "short": {
+                "en": "Very proper nlp analysis",
+                "ja": "すごく上手なNLP分析"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719052982.209,
+            "updatedAt": 1719052982.209,
+            "filename": "1719052982"
+        },
+        {
             "title": "C++ のムーブを理解する",
             "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
             "media": "netpage",
