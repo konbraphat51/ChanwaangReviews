@@ -6,6 +6,49 @@
 
 		<Filter @UpdateFilter="Filter" />
 
+		<div class="ArticleTableOptions">
+			<label>
+				<input type="checkbox" v-model="showTitle" />
+				{{ t("ArticleTable.Title") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showShort" />
+				{{ t("ArticleTable.Short") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showTags" />
+				{{ t("ArticleTable.Tags") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showImportance" />
+				{{ t("ArticleTable.Importance") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showMedia" />
+				{{ t("ArticleTable.Media") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showHasPage" />
+				{{ t("ArticleTable.HasPage") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showUpdatedAt" />
+				{{ t("ArticleTable.UpdatedAt") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showCreatedAt" />
+				{{ t("ArticleTable.CreatedAt") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showFilename" />
+				{{ t("ArticleTable.Filename") }}
+			</label>
+			<label>
+				<input type="checkbox" v-model="showEditButton" />
+				{{ t("ArticleTable.Edit") }}
+			</label>
+		</div>
+
 		<table class="ArticleTable">
 			<thead>
 				<tr>
@@ -84,48 +127,6 @@
 				</tr>
 			</tbody>
 		</table>
-		<div class="ArticleTableOptions">
-			<label>
-				<input type="checkbox" v-model="showTitle" />
-				{{ t("ArticleTable.Title") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showShort" />
-				{{ t("ArticleTable.Short") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showTags" />
-				{{ t("ArticleTable.Tags") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showImportance" />
-				{{ t("ArticleTable.Importance") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showMedia" />
-				{{ t("ArticleTable.Media") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showHasPage" />
-				{{ t("ArticleTable.HasPage") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showUpdatedAt" />
-				{{ t("ArticleTable.UpdatedAt") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showCreatedAt" />
-				{{ t("ArticleTable.CreatedAt") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showFilename" />
-				{{ t("ArticleTable.Filename") }}
-			</label>
-			<label>
-				<input type="checkbox" v-model="showEditButton" />
-				{{ t("ArticleTable.Edit") }}
-			</label>
-		</div>
 	</div>
 </template>
 
@@ -260,5 +261,15 @@ export default Vue.defineComponent({
 .ArticleTable .importance img {
 	width: 1em;
 	height: 1em;
+}
+
+.ArticleTableOptions {
+	display: flex;
+	flex-wrap: wrap;
+
+	background-color: #f1f8c8;
+	border-radius: 3px;
+	border-color: #000;
+	border-width: 3px;
 }
 </style>
