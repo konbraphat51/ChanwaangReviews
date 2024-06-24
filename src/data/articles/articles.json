@@ -560,6 +560,28 @@
             "filename": "markdownwriting"
         },
         {
+            "title": "ARMORED CORE Vの対戦AIにおける階層型ゴール指向プランニングと機体制御",
+            "link": "https://cedil.cesa.or.jp/cedil_sessions/view/591",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai",
+                "characterai",
+                "character"
+            ],
+            "short": {
+                "en": "make real-time battle action by GOAP (failed)",
+                "ja": "リアルタイムバトルアクションをGOAPによって実装しようとした（失敗）"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719217778.615,
+            "updatedAt": 1719217778.615,
+            "filename": "1719217778"
+        },
+        {
             "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
             "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
             "media": "academic",
