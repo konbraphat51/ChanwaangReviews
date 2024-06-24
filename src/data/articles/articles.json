@@ -429,6 +429,29 @@
             "filename": "1717254032"
         },
         {
+            "title": "LLMを活用したシンボリックGame AIの構築",
+            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1I4OS31a04/_article/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "gameai",
+                "ai",
+                "character",
+                "characterai",
+                "goap",
+                "llm"
+            ],
+            "short": {
+                "en": "make deterministic AI from LLM",
+                "ja": "決定論的AIをLLMにより作成"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719217863.143,
+            "updatedAt": 1719217863.143,
+            "filename": "1719217863"
+        },
+        {
             "title": "UniBT",
             "link": "https://github.com/yoshidan/UniBT",
             "media": "repository",
