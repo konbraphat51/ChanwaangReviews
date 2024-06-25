@@ -588,6 +588,26 @@
             "filename": "1717396187"
         },
         {
+            "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
+            "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "gameai",
+                "characterai",
+                "game"
+            ],
+            "short": {
+                "en": "GOAP explanation in Tomb Raider",
+                "ja": "Tomb RaiderにおけるGOAP"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719312672.778,
+            "updatedAt": 1719312672.778,
+            "filename": "1719312672"
+        },
+        {
             "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
             "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
             "media": "academic",
