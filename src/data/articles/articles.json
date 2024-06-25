@@ -527,6 +527,28 @@
             "filename": "1718434221"
         },
         {
+            "title": "「今日のメシどうする？」問題から学ぶ、階層型タスクネットワーク",
+            "link": "https://morikatron.ai/2019/12/gdm37_htn/",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "game",
+                "characterai",
+                "gameai",
+                "ai",
+                ""
+            ],
+            "short": {
+                "en": "plain japanese explanation of HTN",
+                "ja": "HTNの平易日本語解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719311443.315,
+            "updatedAt": 1719311443.315,
+            "filename": "1719311443"
+        },
+        {
             "title": "Eight Ways Videogames Generate Emotion",
             "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
             "media": "academic",
