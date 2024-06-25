@@ -952,6 +952,27 @@
             "filename": "1717660259"
         },
         {
+            "title": "The AI of Horizon Zero Dawn",
+            "link": "https://www.guerrilla-games.com/media/News/Files/The-AI-of-Horizon-Zero-Dawn.pdf",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "game",
+                "gameai",
+                "characterai",
+                "ai"
+            ],
+            "short": {
+                "en": "HTN implementation of Guerrilla Games",
+                "ja": "ゲリラゲームズによるHTN実装"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719312153.818,
+            "updatedAt": 1719312153.818,
+            "filename": "1719312153"
+        },
+        {
             "title": "Human Demonstrations are Generalizable Knowledge for Robots",
             "link": "https://arxiv.org/abs/2312.02419v1",
             "media": "academic",
