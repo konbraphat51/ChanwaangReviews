@@ -1241,6 +1241,26 @@
             "filename": "1719200109"
         },
         {
+            "title": "クロムハウンズにおける 人工知能開発から見るゲームAIの展望",
+            "link": "https://igda.sakura.ne.jp/sblo_files/ai-igdajp/cedec/r41.pdf",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "gameai",
+                "characterai",
+                "htn"
+            ],
+            "short": {
+                "en": "First HTN implementation in Japan",
+                "ja": "日本における初めてのHTN実装例"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719312965.803,
+            "updatedAt": 1719312965.803,
+            "filename": "1719312965"
+        },
+        {
             "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
             "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
             "media": "netpage",
