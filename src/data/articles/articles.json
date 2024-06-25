@@ -699,6 +699,26 @@
             "filename": "1718317361"
         },
         {
+            "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
+            "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "gameai",
+                "characterai",
+                "htn"
+            ],
+            "short": {
+                "en": "HTN in LEFT ALIVE (Square Enix)",
+                "ja": "HTN in LEFT ALIVE (Square Enix)"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1719312049.233,
+            "updatedAt": 1719312049.233,
+            "filename": "1719312049"
+        },
+        {
             "title": "PromiseによるJavaScript非同期処理レシピ集",
             "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
             "media": "netpage",
