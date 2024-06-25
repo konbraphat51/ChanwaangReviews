@@ -58,6 +58,26 @@
             "filename": "1717319233"
         },
         {
+            "title": "Jeff Orkin - Goal-Oriented Action Planning (GOAP)",
+            "link": "https://web.archive.org/web/20230713022726/https://alumni.media.mit.edu/~jorkin/goap.html",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "gameai",
+                "characterai"
+            ],
+            "short": {
+                "en": "games and resources for GOAP",
+                "ja": "GOAPを実装しているゲーム、GOAPをまとめているリソースまとめ"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719312319.293,
+            "updatedAt": 1719312319.293,
+            "filename": "1719312319"
+        },
+        {
             "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
             "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
             "media": "netpage",
