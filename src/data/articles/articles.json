@@ -1298,6 +1298,24 @@
             "filename": "1716811465"
         },
         {
+            "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
+            "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
+            "media": "netpage",
+            "tags": [
+                "rendering",
+                "graphics"
+            ],
+            "short": {
+                "en": "japanese explanation of rendering pipeline",
+                "ja": "レンダリングパイプラインの概要説明"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719465110.884,
+            "updatedAt": 1719465110.884,
+            "filename": "1719465110"
+        },
+        {
             "title": "Improving User's Sense of Participation in Robot-Driven Dialogue",
             "link": "https://arxiv.org/abs/2210.09746",
             "media": "academic",
