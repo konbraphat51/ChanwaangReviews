@@ -338,6 +338,26 @@
             "filename": "1716707379"
         },
         {
+            "title": "Self-Determination Theory — I Choose You!: The Limitations of Viewing Motivation in HCI Research Through the Lens of a Single Theory",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3505270.3558361",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "psychology",
+                "game",
+                "hci"
+            ],
+            "short": {
+                "en": "criticism against thoughtless usage of SDT. And list of alternatives ",
+                "ja": "思考停止SDT使用への批判、および代替案リスト"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719488748.564,
+            "updatedAt": 1719488748.564,
+            "filename": "1719488748"
+        },
+        {
             "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
             "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
             "media": "netpage",
