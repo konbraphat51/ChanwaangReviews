@@ -751,6 +751,26 @@
             "filename": "1716870888"
         },
         {
+            "title": "Head Firstデザインパターン 第2版",
+            "link": "https://www.oreilly.co.jp/books/9784873119762/",
+            "media": "book",
+            "tags": [
+                "designpattern",
+                "programming",
+                "coding",
+                "softwarearchitecture"
+            ],
+            "short": {
+                "en": "Much of design patterns",
+                "ja": "デザインパターンいっぱい"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719553163.347,
+            "updatedAt": 1719553163.347,
+            "filename": "1719553163"
+        },
+        {
             "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
             "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
             "media": "netpage",
