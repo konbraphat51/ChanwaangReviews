@@ -983,6 +983,24 @@
             "filename": "1719217863"
         },
         {
+            "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
+            "link": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
+            "media": "netpage",
+            "tags": [
+                "vscode",
+                "shortcut"
+            ],
+            "short": {
+                "en": "Shortcut for VSCode",
+                "ja": "VSCodeショートカット"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719668399.88,
+            "updatedAt": 1719668399.88,
+            "filename": "1719668399"
+        },
+        {
             "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
             "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
             "media": "netpage",
