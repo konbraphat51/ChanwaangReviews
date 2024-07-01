@@ -769,6 +769,26 @@
             "filename": "1716870888"
         },
         {
+            "title": "Goal-Oriented Action Planning: Ten Years of AI Programming",
+            "link": "https://www.youtube.com/watch?v=gm7K68663rA",
+            "media": "presentation",
+            "tags": [
+                "goap",
+                "game",
+                "gameai",
+                "characterai"
+            ],
+            "short": {
+                "en": "implementation explanation of GOAP",
+                "ja": "GOAPの実装説明"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719809081.219,
+            "updatedAt": 1719809081.219,
+            "filename": "1719809081"
+        },
+        {
             "title": "Head Firstデザインパターン 第2版",
             "link": "https://www.oreilly.co.jp/books/9784873119762/",
             "media": "book",
