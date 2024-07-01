@@ -94,6 +94,25 @@
             "filename": "1717575625"
         },
         {
+            "title": "【Unity】【エディタ拡張】ノードエディタを作るGraph Viewの基本的な使い方",
+            "link": "https://light11.hatenadiary.com/entry/2020/06/16/200750",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "unityeditor",
+                "visualscripting"
+            ],
+            "short": {
+                "en": "How to use Graph View of Unity Editor",
+                "ja": "Unity Editorでノードグラフをビジュアルスクリプティングする"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719822776.492,
+            "updatedAt": 1719822776.492,
+            "filename": "1719822776"
+        },
+        {
             "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
             "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
             "media": "netpage",
