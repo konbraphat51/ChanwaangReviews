@@ -1154,6 +1154,27 @@
             "filename": "1719465110"
         },
         {
+            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
+            "media": "academic",
+            "tags": [
+                "game",
+                "hci",
+                "input",
+                "emotion",
+                "psychology"
+            ],
+            "short": {
+                "en": "improvement of 2015 one. Kinetics vs. Mouse",
+                "ja": "2015のものの改良。Kinetics vs. Mouse"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720012012.39,
+            "updatedAt": 1720012012.39,
+            "filename": "1720012012"
+        },
+        {
             "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
             "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
             "media": "netpage",
