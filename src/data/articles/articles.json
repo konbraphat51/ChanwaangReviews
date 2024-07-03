@@ -187,6 +187,26 @@
             "filename": "1716445032"
         },
         {
+            "title": "Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI",
+            "link": "https://dl.acm.org/doi/10.1145/2254556.2254580",
+            "media": "academic",
+            "tags": [
+                "game",
+                "hci",
+                "interface",
+                "input"
+            ],
+            "short": {
+                "en": "\"Lesson learnt with this experience suggests to avoid, when possible, the classic window/icon/mouse interaction for experimenting, obviously for appropriate tasks (i.e., not keyboard intensive, etc.), new gestures and new forms of physical commands.\"",
+                "ja": "\"この経験から得られた教訓は、可能な限り古典的なウィンドウ／アイコン／マウスのインタラクションを避け、明らかに適切なタスク（キーボードを多用しないなど）、新しいジェスチャー、新しい形式の物理的コマンドを実験することを示唆している。\""
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720006853.74,
+            "updatedAt": 1720006853.74,
+            "filename": "1720006853"
+        },
+        {
             "title": "新・動機づけ研究の最前線 （単行本）",
             "link": "https://www.kitaohji.com/book/b580241.html",
             "media": "book",
