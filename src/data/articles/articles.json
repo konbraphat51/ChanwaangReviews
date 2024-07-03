@@ -992,7 +992,7 @@
                 "ja": "ゲーム研究者がどのようにSDTを使っているのかのサーベイ"
             },
             "importance": 5,
-            "hasPage": false,
+            "hasPage": true,
             "createdAt": 1719968029.727,
             "updatedAt": 1719968029.727,
             "filename": "1719968029"
