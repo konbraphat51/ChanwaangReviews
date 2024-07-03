@@ -1,6 +1,25 @@
 {
     "articles": [
         {
+            "title": "Introducing EVG: An Emotion Evoking Game",
+            "link": "https://link.springer.com/chapter/10.1007/11821830_23",
+            "media": "academic",
+            "tags": [
+                "emotion",
+                "game",
+                "facial"
+            ],
+            "short": {
+                "en": "Experiment of controling user's emotion",
+                "ja": "プレイヤーの感情をコントロールする実験"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720015294.43,
+            "updatedAt": 1720015294.43,
+            "filename": "1720015294"
+        },
+        {
             "title": "論文の読み方",
             "link": "https://speakerdeck.com/kaityo256/how-to-survey",
             "media": "netpage",
