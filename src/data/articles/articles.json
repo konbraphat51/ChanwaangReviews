@@ -1147,6 +1147,28 @@
             "filename": "1718317361"
         },
         {
+            "title": "Emotion Arousal Assessment Based on Multimodal Physiological Signals for Game Users",
+            "link": "https://ieeexplore.ieee.org/document/10093978",
+            "media": "academic",
+            "tags": [
+                "game",
+                "emotion",
+                "psychology",
+                "assessment",
+                "physiological",
+                "biosignal"
+            ],
+            "short": {
+                "en": "assess emotion of game users from biosignal and try get targeted emotion",
+                "ja": "生体信号からゲームプレイヤーの感情を推定し、狙った感情への誘導の試み"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1720016976.643,
+            "updatedAt": 1720016976.643,
+            "filename": "1720016976"
+        },
+        {
             "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
             "link": "https://pdfs.semanticscholar.org/1cb7/9ed0db0db44810af97f2e4252874212edcd8.pdf",
             "media": "academic",
