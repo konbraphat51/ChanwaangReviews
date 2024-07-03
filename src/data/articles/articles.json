@@ -637,6 +637,24 @@
             "filename": "1719444162"
         },
         {
+            "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
+            "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
+            "media": "academic",
+            "tags": [
+                "game",
+                "education"
+            ],
+            "short": {
+                "en": "\"Games can increase critical thinking, support analysis and synthesis of information, reuse of knowledge in new situations\"",
+                "ja": "「ゲームは批判的思考を高め、情報の分析と統合をサポートし、新しい状況での知識の再利用を可能にする。」"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720014653.772,
+            "updatedAt": 1720014653.772,
+            "filename": "1720014653"
+        },
+        {
             "title": "JSAI 2024 HPE",
             "link": "Temp",
             "media": "academic",
