@@ -282,6 +282,24 @@
             "filename": "1717319233"
         },
         {
+            "title": "Stories from the History of Czechoslovakia, A Serious Game for Teaching History of the Czech Lands in the 20th Century – Notes on Design Concepts and Design Process",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33542-6_6",
+            "media": "academic",
+            "tags": [
+                "game",
+                "education"
+            ],
+            "short": {
+                "en": "games \"add significant value to the instructional effectiveness of different domains\"",
+                "ja": "ゲームは\"異なる領域の指導効果に大きな価値を与える\""
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720014749.434,
+            "updatedAt": 1720014749.434,
+            "filename": "1720014749"
+        },
+        {
             "title": "JSAI2024 gameAI a",
             "link": "t",
             "media": "academic",
