@@ -328,8 +328,8 @@
                 "input"
             ],
             "short": {
-                "en": "primary school students prefer Kinetics, but they had trouble controling",
-                "ja": "小学生はキネティクスを好むが、コントロールするのに苦労していた。"
+                "en": "primary school students prefer Kinect, but they had trouble controling",
+                "ja": "小学生はKinectを好むが、コントロールするのに苦労していた。"
             },
             "importance": 1,
             "hasPage": false,
