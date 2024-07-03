@@ -978,6 +978,26 @@
             "filename": "1718272402"
         },
         {
+            "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "game",
+                "psychology",
+                "survey"
+            ],
+            "short": {
+                "en": "survey on how game researchers using SDT",
+                "ja": "ゲーム研究者がどのようにSDTを使っているのかのサーベイ"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719968029.727,
+            "updatedAt": 1719968029.727,
+            "filename": "1719968029"
+        },
+        {
             "title": "C#での「?(クエスチョンマーク)」の意味",
             "link": "https://nabelog.org/381/#toc1",
             "media": "netpage",
