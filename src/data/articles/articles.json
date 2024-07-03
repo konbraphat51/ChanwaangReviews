@@ -319,6 +319,25 @@
             "filename": "1720014749"
         },
         {
+            "title": "Primary school students’ attitude towards gesture based interaction",
+            "link": "https://ieeexplore.ieee.org/document/6901575/",
+            "media": "academic",
+            "tags": [
+                "game",
+                "emotion",
+                "input"
+            ],
+            "short": {
+                "en": "primary school students prefer Kinetics, but they had trouble controling",
+                "ja": "小学生はキネティクスを好むが、コントロールするのに苦労していた。"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720015875.993,
+            "updatedAt": 1720015875.993,
+            "filename": "1720015875"
+        },
+        {
             "title": "JSAI2024 gameAI a",
             "link": "t",
             "media": "academic",
