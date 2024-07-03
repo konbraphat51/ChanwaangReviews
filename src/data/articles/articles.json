@@ -978,6 +978,26 @@
             "filename": "1718272402"
         },
         {
+            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "game",
+                "emotion",
+                "psychology"
+            ],
+            "short": {
+                "en": "emotional difference between mouse input and Kinect input",
+                "ja": "マウス入力とジェスチャ入力の感情的差異"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720005797.937,
+            "updatedAt": 1720005797.937,
+            "filename": "1720005797"
+        },
+        {
             "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
             "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
             "media": "academic",
