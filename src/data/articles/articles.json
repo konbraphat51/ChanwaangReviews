@@ -1422,6 +1422,27 @@
             "filename": "1718009136"
         },
         {
+            "title": "Control vs. Complexity in Games: Comparing Arousal in 2D Game Prototypes",
+            "link": "https://www.researchgate.net/publication/236230118_Control_vs_complexity_in_games_Comparing_arousal_in_2D_game_prototypes",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "input",
+                "control",
+                "emotion"
+            ],
+            "short": {
+                "en": "more complex game simulation, more arousal",
+                "ja": "ゲーむ状況が複雑になるほど、arousal上昇"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720016327.948,
+            "updatedAt": 1720016327.948,
+            "filename": "1720016327"
+        },
+        {
             "title": "Git でデフォルトのリモートを変更する方法",
             "link": "https://gotohayato.com/content/114/",
             "media": "netpage",
