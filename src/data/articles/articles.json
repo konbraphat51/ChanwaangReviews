@@ -1721,6 +1721,25 @@
             "filename": "1717254032"
         },
         {
+            "title": "ビッグデータが拓く医療AI",
+            "link": "https://www.maruzen-publishing.co.jp/item/b304316.html",
+            "media": "book",
+            "tags": [
+                "medicaldata",
+                "ethics",
+                "personaldata"
+            ],
+            "short": {
+                "en": "AI for medicine. Including ethics",
+                "ja": "医療のためのAI。倫理に関する言及含む"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720307302.984,
+            "updatedAt": 1720307302.984,
+            "filename": "1720307302"
+        },
+        {
             "title": "Investigating the Elusive Role of Level Design",
             "link": "https://ieeexplore.ieee.org/document/9231624",
             "media": "academic",
