@@ -323,11 +323,12 @@
             "link": "https://www.asakura.co.jp/detail.php?book_code=12286",
             "media": "book",
             "tags": [
-                "medicaldata"
+                "medicaldata",
+                "ethics"
             ],
             "short": {
-                "en": "data sciencing for medicine",
-                "ja": "医療データサイエンス概論"
+                "en": "data sciencing for medicine. Including ethics and karte",
+                "ja": "医療データサイエンス概論。倫理とカルテの言及含む"
             },
             "importance": 3,
             "hasPage": true,
