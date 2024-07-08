@@ -1353,6 +1353,24 @@
             "filename": "1719201433"
         },
         {
+            "title": "健康医療データの用語集 匿名化/匿名加工",
+            "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
+            "media": "netpage",
+            "tags": [
+                "medicaldata",
+                "personaldata"
+            ],
+            "short": {
+                "ja": "「匿名加工情報」は医療情報も加工、「仮名加工情報」は医療情報を加工しない",
+                "en": "difference of Anonymization and pseudonymization"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720446218.77,
+            "updatedAt": 1720446218.77,
+            "filename": "1720446218"
+        },
+        {
             "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
             "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
             "media": "academic",
