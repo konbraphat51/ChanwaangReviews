@@ -888,6 +888,24 @@
             "filename": "1717577391"
         },
         {
+            "title": "「次世代医療基盤法」とは",
+            "link": "https://www8.cao.go.jp/iryou/gaiyou/pdf/seidonogaiyou.pdf",
+            "media": "netpage",
+            "tags": [
+                "medicaldata",
+                "personaldata"
+            ],
+            "short": {
+                "en": "whole explanation of The Next Generation Medical Infrastructure Act　",
+                "ja": "次世代医療基盤法の概要説明"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1720447555.297,
+            "updatedAt": 1720447555.297,
+            "filename": "1720447555"
+        },
+        {
             "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
             "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
             "media": "netpage",
