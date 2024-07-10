@@ -1,43 +1,174 @@
 {
     "articles": [
         {
-            "title": "Introducing EVG: An Emotion Evoking Game",
-            "link": "https://link.springer.com/chapter/10.1007/11821830_23",
-            "media": "academic",
+            "title": "How to Use HTML to Open a Link in a New Tab",
+            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
+            "media": "netpage",
             "tags": [
-                "emotion",
-                "game",
-                "facial"
+                "html"
             ],
             "short": {
-                "en": "Experiment of controling user's emotion",
-                "ja": "プレイヤーの感情をコントロールする実験"
+                "en": "hyperlink opening new tab",
+                "ja": "新規タブを開くハイパーリンク"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716517146.142,
+            "updatedAt": 1716517146.142,
+            "filename": "1716517146"
+        },
+        {
+            "title": "Human Demonstrations are Generalizable Knowledge for Robots",
+            "link": "https://arxiv.org/abs/2312.02419v1",
+            "media": "academic",
+            "tags": [
+                "ai",
+                "llm",
+                "robotics",
+                "humandemonstration",
+                "knowledge"
+            ],
+            "short": {
+                "en": "Get every knowledge from a video",
+                "ja": "動画から全ての知識を把握する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718326632.599,
+            "updatedAt": 1718326632.599,
+            "filename": "1718326632"
+        },
+        {
+            "title": "Head Firstデザインパターン 第2版",
+            "link": "https://www.oreilly.co.jp/books/9784873119762/",
+            "media": "book",
+            "tags": [
+                "designpattern",
+                "programming",
+                "coding",
+                "softwarearchitecture"
+            ],
+            "short": {
+                "en": "Much of design patterns",
+                "ja": "デザインパターンいっぱい"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719553163.347,
+            "updatedAt": 1719553163.347,
+            "filename": "1719553163"
+        },
+        {
+            "title": "Android 版のビルド、および実行手順",
+            "link": "https://www.monobitengine.com/doc/mun/contents/Platform/Build_Android.htm",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "smartphone",
+                "android"
+            ],
+            "short": {
+                "en": "build and deploy Unity app for Android",
+                "ja": "UnityアプリのAndroidへのビルド・デプロイ手順"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719472212.578,
+            "updatedAt": 1719472212.578,
+            "filename": "1719472212"
+        },
+        {
+            "title": "Is it a sense of autonomy, control, or attachment? Exploring the effects of in-game customization on game enjoyment",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563215001090",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "game",
+                "psychology",
+                "character",
+                "charactercustomization"
+            ],
+            "short": {
+                "en": "SDT discussion on character customization. \"games can appeal to individuals through the senses of autonomy, control, and attachment to a character; the first two prove more critical\"",
+                "ja": "キャラクターのカスタマイズに関するSDTの議論。「ゲームは、自律性、制御性、キャラクターへの愛着といった感覚を通じて個人に訴えかけることができる。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1719201433.245,
+            "updatedAt": 1719469839.688,
+            "filename": "1719201433"
+        },
+        {
+            "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
+            "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "unread",
+                "chi",
+                "metaresearch"
+            ],
+            "short": {
+                "en": "reject the search for \"solutions\"",
+                "ja": "私たちは、「解決策」の探求を明確に拒否する、さまざまな戦略を検討する。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716811465.45,
+            "updatedAt": 1716811465.45,
+            "filename": "1716811465"
+        },
+        {
+            "title": "Git でデフォルトのリモートを変更する方法",
+            "link": "https://gotohayato.com/content/114/",
+            "media": "netpage",
+            "tags": [
+                "git"
+            ],
+            "short": {
+                "en": "change default remote",
+                "ja": "デフォルトリモート変更"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719712551.736,
+            "updatedAt": 1719712551.736,
+            "filename": "1719712551"
+        },
+        {
+            "title": "GOAP - References",
+            "link": "https://www.youtube.com/playlist?list=PLZWmMt_TbeYdBZKvlsRuuOubPTTfPuZot",
+            "media": "netpage",
+            "tags": [
+                "goap"
+            ],
+            "short": {
+                "en": "basic GOAP explanation videos",
+                "ja": "GOAP説明youtubeプレイリスト"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718434221.972,
+            "updatedAt": 1718434221.972,
+            "filename": "1718434221"
+        },
+        {
+            "title": "【1月23日追記】12月23日、24日に発生しました障害に関するご報告",
+            "link": "https://medium.com/skeb-jp/report-36b5608aa867",
+            "media": "netpage",
+            "tags": [
+                "cloud",
+                "container"
+            ],
+            "short": {
+                "en": "move from Heroku in 18 hours",
+                "ja": "Herokuから18時間で脱出したskeb事例"
             },
             "importance": 1,
             "hasPage": false,
-            "createdAt": 1720015294.43,
-            "updatedAt": 1720015294.43,
-            "filename": "1720015294"
-        },
-        {
-            "title": "論文の読み方",
-            "link": "https://speakerdeck.com/kaityo256/how-to-survey",
-            "media": "netpage",
-            "tags": [
-                "paper",
-                "skill",
-                "academic",
-                "reading"
-            ],
-            "short": {
-                "en": "Read mainly the introduction and get a comprehensive view of the field",
-                "ja": "主にイントロダクションを読んで分野の包括的な位置付けを把握する"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1717673521.473,
-            "updatedAt": 1717673521.473,
-            "filename": "1717673521"
+            "createdAt": 1718437369.331,
+            "updatedAt": 1718437369.331,
+            "filename": "1718437369"
         },
         {
             "title": "Exploring HTN Planners through Example",
@@ -57,173 +188,101 @@
             "filename": "1718032796"
         },
         {
-            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
-            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
+            "title": "Enumerable.Reverse メソッドでループ順を反転",
+            "link": "https://www.curict.com/item/20/20d21b4.html",
             "media": "netpage",
             "tags": [
-                "html",
-                "css"
+                "csharp",
+                "list"
             ],
             "short": {
-                "en": "resizable table column by drag",
-                "ja": "ドラッグで幅変更可能なテーブルCSS"
+                "en": "C#: How to iterate List from backwards",
+                "ja": "C#: リストを逆順にイテレートする"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1716516123.083,
-            "updatedAt": 1716516123.083,
-            "filename": "1716516123"
+            "createdAt": 1719710332.345,
+            "updatedAt": 1719710332.345,
+            "filename": "1719710332"
         },
         {
-            "title": "Search Engines & Society -Information Quality and the Potential of AI",
-            "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
-            "media": "netpage",
+            "title": "Sketch2Map: A Game Map Design Support System Allowing Quick Hand Sketch Prototyping",
+            "link": "https://ieee-cog.org/2020/papers/paper_213.pdf",
+            "media": "academic",
             "tags": [
-                "google",
-                "lt",
-                "searchengine"
-            ],
-            "short": {
-                "en": "Speech from Dr. Prabhakar Raghavan Senior Vice President of Google",
-                "ja": "Dr. Prabhakar Raghavan Senior Vice President of Googleの発表"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1718795206.176,
-            "updatedAt": 1718795206.176,
-            "filename": "1718795206"
-        },
-        {
-            "title": "javascriptの構文解析をしてみる",
-            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "abstractsyntaxtree",
-                "compiler"
-            ],
-            "short": {
-                "en": "I didn't have to make a JS compiler by my self...",
-                "ja": "ASTを知りました"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1717575625.365,
-            "updatedAt": 1717575625.365,
-            "filename": "1717575625"
-        },
-        {
-            "title": "【Unity】【エディタ拡張】ノードエディタを作るGraph Viewの基本的な使い方",
-            "link": "https://light11.hatenadiary.com/entry/2020/06/16/200750",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "unityeditor",
-                "visualscripting"
-            ],
-            "short": {
-                "en": "How to use Graph View of Unity Editor",
-                "ja": "Unity Editorでノードグラフをビジュアルスクリプティングする"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719822776.492,
-            "updatedAt": 1719822776.492,
-            "filename": "1719822776"
-        },
-        {
-            "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
-            "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
-            "media": "netpage",
-            "tags": [
+                "gan",
+                "ai",
                 "game",
-                "gameai",
-                "characterai",
-                "htn"
+                "assist"
             ],
             "short": {
-                "en": "HTN in LEFT ALIVE (Square Enix)",
-                "ja": "HTN in LEFT ALIVE (Square Enix)"
+                "en": "Using GAN for transforming hand-writed sketch to 3D map",
+                "ja": "GANを使って手書きスケッチから3Dマップを生成"
             },
             "importance": 2,
             "hasPage": false,
-            "createdAt": 1719312049.233,
-            "updatedAt": 1719312049.233,
-            "filename": "1719312049"
+            "createdAt": 1717660259.095,
+            "updatedAt": 1717660259.095,
+            "filename": "1717660259"
         },
         {
-            "title": "Benefits of embedding custom fonts",
-            "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
-            "media": "netpage",
+            "title": "ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用",
+            "link": "https://gihyo.jp/book/2022/978-4-297-13234-7",
+            "media": "book",
             "tags": [
-                "powerpoint",
-                "microsoft"
+                "programming",
+                "design",
+                "architecture",
+                "software",
+                "softwarearchitecture"
             ],
             "short": {
-                "en": "Save powerpoints with fonts",
-                "ja": "フォント付きでパワポを保存する"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716707379.166,
-            "updatedAt": 1716707379.166,
-            "filename": "1716707379"
-        },
-        {
-            "title": "JSAI2024 affective1",
-            "link": "e",
-            "media": "presentation",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716947183.371,
-            "updatedAt": 1720017881.247,
-            "filename": "1716947183"
-        },
-        {
-            "title": "PromiseによるJavaScript非同期処理レシピ集",
-            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "async",
-                "promose"
-            ],
-            "short": {
-                "en": "totally how to use promise",
-                "ja": "promiseの使い方総説"
+                "en": "Modern software architecture",
+                "ja": "モダンなソフトウェアアーキテクチャ解説書"
             },
             "importance": 4,
             "hasPage": true,
-            "createdAt": 1716445032.427,
-            "updatedAt": 1716445032.427,
-            "filename": "1716445032"
+            "createdAt": 1717649862.924,
+            "updatedAt": 1719035491.254,
+            "filename": "1717649862"
         },
         {
-            "title": "Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI",
-            "link": "https://dl.acm.org/doi/10.1145/2254556.2254580",
+            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
             "media": "academic",
             "tags": [
-                "game",
                 "hci",
-                "interface",
-                "input"
+                "game",
+                "emotion",
+                "psychology"
             ],
             "short": {
-                "en": "\"Lesson learnt with this experience suggests to avoid, when possible, the classic window/icon/mouse interaction for experimenting, obviously for appropriate tasks (i.e., not keyboard intensive, etc.), new gestures and new forms of physical commands.\"",
-                "ja": "\"この経験から得られた教訓は、可能な限り古典的なウィンドウ／アイコン／マウスのインタラクションを避け、明らかに適切なタスク（キーボードを多用しないなど）、新しいジェスチャー、新しい形式の物理的コマンドを実験することを示唆している。\""
+                "en": "emotional difference between mouse input and Kinect input",
+                "ja": "マウス入力とジェスチャ入力の感情的差異"
             },
-            "importance": 2,
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720005797.937,
+            "updatedAt": 1720005797.937,
+            "filename": "1720005797"
+        },
+        {
+            "title": "Getで始まる名前を関数につける前に読む記事",
+            "link": "https://zenn.dev/blue_jam/articles/2a347b36b43d59",
+            "media": "netpage",
+            "tags": [
+                "programming",
+                "coding"
+            ],
+            "short": {
+                "en": "Function name other than `Get`",
+                "ja": "Get以外につけるべき関数名"
+            },
+            "importance": 3,
             "hasPage": false,
-            "createdAt": 1720006853.74,
-            "updatedAt": 1720006853.74,
-            "filename": "1720006853"
+            "createdAt": 1719580997.086,
+            "updatedAt": 1719580997.086,
+            "filename": "1719580997"
         },
         {
             "title": "新・動機づけ研究の最前線 （単行本）",
@@ -245,97 +304,79 @@
             "filename": "1719539032"
         },
         {
-            "title": "A Review of Affective Design towards Video Games",
-            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
-            "media": "academic",
+            "title": "C#での「?(クエスチョンマーク)」の意味",
+            "link": "https://nabelog.org/381/#toc1",
+            "media": "netpage",
             "tags": [
-                "psychology",
-                "affective",
+                "csharp",
+                "syntax"
+            ],
+            "short": {
+                "en": "meaning of ? in C#",
+                "ja": "C#における?の意味"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719823613.29,
+            "updatedAt": 1719823613.29,
+            "filename": "1719823613"
+        },
+        {
+            "title": "PromiseによるJavaScript非同期処理レシピ集",
+            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "async",
+                "promose"
+            ],
+            "short": {
+                "en": "totally how to use promise",
+                "ja": "promiseの使い方総説"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1716445032.427,
+            "updatedAt": 1716445032.427,
+            "filename": "1716445032"
+        },
+        {
+            "title": "Exploring HTN Planners through Example",
+            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "gameai",
+                "characterai",
+                "ai",
                 "game"
             ],
             "short": {
-                "en": "address and review the literature on affective design elements, principles and methodologies that are suitable for the video games industry.",
-                "ja": "ビデオゲーム業界に適した感情デザインの要素、原則、方法論に関する文献を取り上げ、レビューする。"
+                "en": "HTN full explanation by Game AI Pro",
+                "ja": "Game AI ProによるHTN完全解説"
             },
             "importance": 5,
-            "hasPage": false,
-            "createdAt": 1717430377.926,
-            "updatedAt": 1717430377.926,
-            "filename": "1717430377"
+            "hasPage": true,
+            "createdAt": 1719444162.387,
+            "updatedAt": 1719662216.299,
+            "filename": "1719444162"
         },
         {
-            "title": "Improving User's Sense of Participation in Robot-Driven Dialogue",
-            "link": "https://arxiv.org/abs/2210.09746",
-            "media": "academic",
-            "tags": [
-                "robotics",
-                "dialogue",
-                "hci"
-            ],
-            "short": {
-                "en": "Said \"user's sense of participation in dialogue is reduced because the degree of freedom in timing and content of speech is limited\" but no evidence",
-                "ja": "「ロボットによる会話は自由度が低いので当事者感が低い」とされているが、この記述に根拠がない"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1719200109.975,
-            "updatedAt": 1719200109.975,
-            "filename": "1719200109"
-        },
-        {
-            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
-            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
-            "media": "repository",
-            "tags": [
-                "academic",
-                "writing"
-            ],
-            "short": {
-                "en": "All resources of academic writing",
-                "ja": "アカデミックライティングの文献一覧"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717319233.885,
-            "updatedAt": 1717319233.885,
-            "filename": "1717319233"
-        },
-        {
-            "title": "Stories from the History of Czechoslovakia, A Serious Game for Teaching History of the Czech Lands in the 20th Century – Notes on Design Concepts and Design Process",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33542-6_6",
-            "media": "academic",
-            "tags": [
-                "game",
-                "education"
-            ],
-            "short": {
-                "en": "games \"add significant value to the instructional effectiveness of different domains\"",
-                "ja": "ゲームは\"異なる領域の指導効果に大きな価値を与える\""
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1720014749.434,
-            "updatedAt": 1720014749.434,
-            "filename": "1720014749"
-        },
-        {
-            "title": "ヘルスデータサイエンス入門 ―医療・健康データの活用を目指して―",
-            "link": "https://www.asakura.co.jp/detail.php?book_code=12286",
+            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
+            "link": "https://zenn.dev/yurukei20/articles/",
             "media": "book",
             "tags": [
-                "medicaldata",
-                "ethics",
-                "personaldata"
+                "html"
             ],
             "short": {
-                "en": "data sciencing for medicine. Including ethics and karte",
-                "ja": "医療データサイエンス概論。倫理とカルテの言及含む"
+                "en": "showing markdown in html",
+                "ja": "markdownをhtmlで表示"
             },
             "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720305249.4,
-            "updatedAt": 1720305249.4,
-            "filename": "1720305249"
+            "hasPage": false,
+            "createdAt": 1716365855.63,
+            "updatedAt": 1716365855.63,
+            "filename": "markdownwriting"
         },
         {
             "title": "Primary school students’ attitude towards gesture based interaction",
@@ -374,439 +415,22 @@
             "filename": "1716882783"
         },
         {
-            "title": "JavaScriptにおける連想配列のforループ操作",
-            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
+            "title": "「次世代医療基盤法」とは",
+            "link": "https://www8.cao.go.jp/iryou/gaiyou/pdf/seidonogaiyou.pdf",
             "media": "netpage",
             "tags": [
-                "javascript"
+                "medicaldata",
+                "personaldata"
             ],
             "short": {
-                "en": "foreach of object in javascript",
-                "ja": "javascriptにおける連想配列のforeach"
+                "en": "whole explanation of The Next Generation Medical Infrastructure Act　",
+                "ja": "次世代医療基盤法の概要説明"
             },
             "importance": 4,
             "hasPage": false,
-            "createdAt": 1716439717.204,
-            "updatedAt": 1716439717.204,
-            "filename": "1716439717"
-        },
-        {
-            "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
-            "link": "https://qiita.com/hmkz/items/c635c0d309f68b5919e4",
-            "media": "netpage",
-            "tags": [
-                "academic",
-                "submission",
-                "paper"
-            ],
-            "short": {
-                "en": "taking advantage of CMT",
-                "ja": "CMT攻略"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1717304384.333,
-            "updatedAt": 1717304384.333,
-            "filename": "1717304384"
-        },
-        {
-            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
-            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
-            "media": "academic",
-            "tags": [
-                "robotics",
-                "affordance",
-                "planning"
-            ],
-            "short": {
-                "en": "thesis that attacked to affordance based planning",
-                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717451026.36,
-            "updatedAt": 1717451026.36,
-            "filename": "1717451026"
-        },
-        {
-            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "biosignal",
-                "eeg",
-                ""
-            ],
-            "short": {
-                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
-                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1716453618.354,
-            "updatedAt": 1716453618.354,
-            "filename": "1716453618"
-        },
-        {
-            "title": "UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games",
-            "link": "https://dl.acm.org/doi/10.1145/3235765.3235780",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "psychology",
-                "game",
-                "evaluation",
-                "assessment",
-                "upeq"
-            ],
-            "short": {
-                "en": "Questionnaire made by SDT",
-                "ja": "SDTに基づいた質問紙"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1720040135.002,
-            "updatedAt": 1720040135.002,
-            "filename": "1720040135"
-        },
-        {
-            "title": "Permission denied to github-actions[bot]",
-            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
-            "media": "netpage",
-            "tags": [
-                "githubaction"
-            ],
-            "short": {
-                "en": "give github action a permission to commit",
-                "ja": "github actionにコミット権限を与える"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1716514732.013,
-            "updatedAt": 1716514732.013,
-            "filename": "1716514732"
-        },
-        {
-            "title": "Jeff Orkin - Goal-Oriented Action Planning (GOAP)",
-            "link": "https://web.archive.org/web/20230713022726/https://alumni.media.mit.edu/~jorkin/goap.html",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "game",
-                "gameai",
-                "characterai"
-            ],
-            "short": {
-                "en": "games and resources for GOAP",
-                "ja": "GOAPを実装しているゲーム、GOAPをまとめているリソースまとめ"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719312319.293,
-            "updatedAt": 1719312319.293,
-            "filename": "1719312319"
-        },
-        {
-            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
-            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
-            "media": "academic",
-            "tags": [
-                "game",
-                "characterai"
-            ],
-            "short": {
-                "en": "バレないようにプレイヤーに迷路を攻略させる",
-                "ja": "バレないようにプレイヤーに迷路を攻略させる"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717431151.73,
-            "updatedAt": 1717431151.73,
-            "filename": "1717431151"
-        },
-        {
-            "title": "Repository and Unit of Work in Domain-Driven Design",
-            "link": "https://medium.com/@ruben.alapont/repository-and-unit-of-work-in-domain-driven-design-cc5638780dc3",
-            "media": "netpage",
-            "tags": [
-                "ddd",
-                "repositorypattern",
-                "onionarchitecture"
-            ],
-            "short": {
-                "en": "repository pattern in DDD ",
-                "ja": "ドメイン駆動設計におけるレポジトリパターン"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718186442.401,
-            "updatedAt": 1718186442.401,
-            "filename": "1718186442"
-        },
-        {
-            "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
-            "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "vr"
-            ],
-            "short": {
-                "en": "enabling tactile in VR by balloons",
-                "ja": "VR内の触覚を風船で実現"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1717938927.016,
-            "updatedAt": 1717938927.016,
-            "filename": "1717938927"
-        },
-        {
-            "title": "How to Use HTML to Open a Link in a New Tab",
-            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
-            "media": "netpage",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "hyperlink opening new tab",
-                "ja": "新規タブを開くハイパーリンク"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716517146.142,
-            "updatedAt": 1716517146.142,
-            "filename": "1716517146"
-        },
-        {
-            "title": "Getで始まる名前を関数につける前に読む記事",
-            "link": "https://zenn.dev/blue_jam/articles/2a347b36b43d59",
-            "media": "netpage",
-            "tags": [
-                "programming",
-                "coding"
-            ],
-            "short": {
-                "en": "Function name other than `Get`",
-                "ja": "Get以外につけるべき関数名"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719580997.086,
-            "updatedAt": 1719580997.086,
-            "filename": "1719580997"
-        },
-        {
-            "title": "クロムハウンズにおける 人工知能開発から見るゲームAIの展望",
-            "link": "https://igda.sakura.ne.jp/sblo_files/ai-igdajp/cedec/r41.pdf",
-            "media": "netpage",
-            "tags": [
-                "game",
-                "gameai",
-                "characterai",
-                "htn"
-            ],
-            "short": {
-                "en": "First HTN implementation in Japan",
-                "ja": "日本における初めてのHTN実装例"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719312965.803,
-            "updatedAt": 1719312965.803,
-            "filename": "1719312965"
-        },
-        {
-            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
-            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "humanity",
-                "characterai"
-            ],
-            "short": {
-                "en": "キャラクターAIにおける人間らしさの文献調査",
-                "ja": "What is \"humanity\" for character AI?"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717433375.173,
-            "updatedAt": 1717433375.173,
-            "filename": "1717433375"
-        },
-        {
-            "title": "gameaipro.com",
-            "link": "http://www.gameaipro.com/",
-            "media": "netpage",
-            "tags": [
-                "game",
-                "ai",
-                "gameai"
-            ],
-            "short": {
-                "en": "Total articles of game AI",
-                "ja": "ゲームAI技術全て"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1718058851.738,
-            "updatedAt": 1718058851.738,
-            "filename": "1718058851"
-        },
-        {
-            "title": "[Unity] 衝突判定における、IsTriggerとRigidbodyとIsKinematicのパターンを実験",
-            "link": "https://qiita.com/sensuikan1973/items/055384e1145bbbe73e40#%E3%81%BE%E3%81%A8%E3%82%81",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "rigidbody"
-            ],
-            "short": {
-                "en": "behaviour of Unity collision",
-                "ja": "Unity衝突判定の仕様"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719409516.289,
-            "updatedAt": 1719409516.289,
-            "filename": "1719409516"
-        },
-        {
-            "title": "GOAP - References",
-            "link": "https://www.youtube.com/playlist?list=PLZWmMt_TbeYdBZKvlsRuuOubPTTfPuZot",
-            "media": "netpage",
-            "tags": [
-                "goap"
-            ],
-            "short": {
-                "en": "basic GOAP explanation videos",
-                "ja": "GOAP説明youtubeプレイリスト"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718434221.972,
-            "updatedAt": 1718434221.972,
-            "filename": "1718434221"
-        },
-        {
-            "title": "UniBT",
-            "link": "https://github.com/yoshidan/UniBT",
-            "media": "repository",
-            "tags": [
-                "unity",
-                "behaviortree",
-                "ai",
-                "library"
-            ],
-            "short": {
-                "en": "Free Unity library for visual scripting a behavior tree",
-                "ja": "ビヘイビアツリーをビジュアルスクリプティングする無料Unityライブラリ"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717661348.5,
-            "updatedAt": 1717661348.5,
-            "filename": "1717661348"
-        },
-        {
-            "title": "Exploring HTN Planners through Example",
-            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
-            "media": "netpage",
-            "tags": [
-                "htn",
-                "gameai",
-                "characterai",
-                "ai",
-                "game"
-            ],
-            "short": {
-                "en": "HTN full explanation by Game AI Pro",
-                "ja": "Game AI ProによるHTN完全解説"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719444162.387,
-            "updatedAt": 1719662216.299,
-            "filename": "1719444162"
-        },
-        {
-            "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
-            "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
-            "media": "academic",
-            "tags": [
-                "game",
-                "education"
-            ],
-            "short": {
-                "en": "\"Games can increase critical thinking, support analysis and synthesis of information, reuse of knowledge in new situations\"",
-                "ja": "「ゲームは批判的思考を高め、情報の分析と統合をサポートし、新しい状況での知識の再利用を可能にする。」"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1720014653.772,
-            "updatedAt": 1720014653.772,
-            "filename": "1720014653"
-        },
-        {
-            "title": "JSAI 2024 HPE",
-            "link": "Temp",
-            "media": "academic",
-            "tags": [
-                "editing",
-                "environment"
-            ],
-            "short": {
-                "en": "Integrated environment software for ML",
-                "ja": "機械学習のスーパー環境構築ソフトウェア"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1716867669.43,
-            "updatedAt": 1716867669.43,
-            "filename": "1716867669"
-        },
-        {
-            "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
-            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "biosignal",
-                "heartrate"
-            ],
-            "short": {
-                "en": "examine stress for player while playing game",
-                "ja": "ゲーム中のストレスを測量"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1717310157.891,
-            "updatedAt": 1717310157.891,
-            "filename": "1717310157"
-        },
-        {
-            "title": "The Motivational Pull of Video Games: A Self-Determination Theory Approach",
-            "link": "https://link.springer.com/article/10.1007/s11031-006-9051-8",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "sdt"
-            ],
-            "short": {
-                "en": "base SDT analysis upon game per-sec psychology. Says \"autonomy\" and \"competence\" is the core",
-                "ja": "ゲームプレイ中のSDT理論による基礎的分析。「主体感」と「達成感」が重要であると主張"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1717240630.21,
-            "updatedAt": 1717240630.21,
-            "filename": "1717240630"
+            "createdAt": 1720447555.297,
+            "updatedAt": 1720447555.297,
+            "filename": "1720447555"
         },
         {
             "title": "Emotion in Human–Computer Interaction",
@@ -827,405 +451,6 @@
             "createdAt": 1719069210.137,
             "updatedAt": 1719069210.137,
             "filename": "1719069210"
-        },
-        {
-            "title": "「今日のメシどうする？」問題から学ぶ、階層型タスクネットワーク",
-            "link": "https://morikatron.ai/2019/12/gdm37_htn/",
-            "media": "netpage",
-            "tags": [
-                "htn",
-                "game",
-                "characterai",
-                "gameai",
-                "ai",
-                ""
-            ],
-            "short": {
-                "en": "plain japanese explanation of HTN",
-                "ja": "HTNの平易日本語解説"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719311443.315,
-            "updatedAt": 1719311443.315,
-            "filename": "1719311443"
-        },
-        {
-            "title": "強化学習でポケモンをプレイする",
-            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
-            "media": "netpage",
-            "tags": [
-                "rl"
-            ],
-            "short": {
-                "en": "explain RL for Pokemon",
-                "ja": "ポケモン強化学習解説記事"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718009273.334,
-            "updatedAt": 1718009273.334,
-            "filename": "1718009273"
-        },
-        {
-            "title": "acorn",
-            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
-            "media": "repository",
-            "tags": [
-                "javascript",
-                "parser",
-                "abstractsyntaxtree",
-                "compiler"
-            ],
-            "short": {
-                "en": "Javascript parser library",
-                "ja": "Javascript parser library"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717577391.578,
-            "updatedAt": 1717577391.578,
-            "filename": "1717577391"
-        },
-        {
-            "title": "「次世代医療基盤法」とは",
-            "link": "https://www8.cao.go.jp/iryou/gaiyou/pdf/seidonogaiyou.pdf",
-            "media": "netpage",
-            "tags": [
-                "medicaldata",
-                "personaldata"
-            ],
-            "short": {
-                "en": "whole explanation of The Next Generation Medical Infrastructure Act　",
-                "ja": "次世代医療基盤法の概要説明"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1720447555.297,
-            "updatedAt": 1720447555.297,
-            "filename": "1720447555"
-        },
-        {
-            "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
-            "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "ui"
-            ],
-            "short": {
-                "en": "implementing Offscreen Indicator",
-                "ja": "Offcreen Indicatorの実装"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719449317.167,
-            "updatedAt": 1719449317.167,
-            "filename": "1719449317"
-        },
-        {
-            "title": "JSAI 2024 behavior economics",
-            "link": "temp",
-            "media": "presentation",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716870888.632,
-            "updatedAt": 1720017905.335,
-            "filename": "1716870888"
-        },
-        {
-            "title": "Goal-Oriented Action Planning: Ten Years of AI Programming",
-            "link": "https://www.youtube.com/watch?v=gm7K68663rA",
-            "media": "presentation",
-            "tags": [
-                "goap",
-                "game",
-                "gameai",
-                "characterai"
-            ],
-            "short": {
-                "en": "implementation explanation of GOAP",
-                "ja": "GOAPの実装説明"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719809081.219,
-            "updatedAt": 1719809081.219,
-            "filename": "1719809081"
-        },
-        {
-            "title": "Head Firstデザインパターン 第2版",
-            "link": "https://www.oreilly.co.jp/books/9784873119762/",
-            "media": "book",
-            "tags": [
-                "designpattern",
-                "programming",
-                "coding",
-                "softwarearchitecture"
-            ],
-            "short": {
-                "en": "Much of design patterns",
-                "ja": "デザインパターンいっぱい"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719553163.347,
-            "updatedAt": 1719553163.347,
-            "filename": "1719553163"
-        },
-        {
-            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
-            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
-            "media": "netpage",
-            "tags": [
-                "python",
-                "machinelearning",
-                "unread"
-            ],
-            "short": {
-                "en": "crazy parameters tuning total manual",
-                "ja": "すごいパラメーターチューニング総説"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1716772088.488,
-            "updatedAt": 1716772088.488,
-            "filename": "1716772088"
-        },
-        {
-            "title": "Android 版のビルド、および実行手順",
-            "link": "https://www.monobitengine.com/doc/mun/contents/Platform/Build_Android.htm",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "smartphone",
-                "android"
-            ],
-            "short": {
-                "en": "build and deploy Unity app for Android",
-                "ja": "UnityアプリのAndroidへのビルド・デプロイ手順"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719472212.578,
-            "updatedAt": 1719472212.578,
-            "filename": "1719472212"
-        },
-        {
-            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
-            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "characterai"
-            ],
-            "short": {
-                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
-                "ja": "Teammate AI in cooperative games letting human players play active roles"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717432837.278,
-            "updatedAt": 1717432837.278,
-            "filename": "1717432837"
-        },
-        {
-            "title": "Enumerable.Reverse メソッドでループ順を反転",
-            "link": "https://www.curict.com/item/20/20d21b4.html",
-            "media": "netpage",
-            "tags": [
-                "csharp",
-                "list"
-            ],
-            "short": {
-                "en": "C#: How to iterate List from backwards",
-                "ja": "C#: リストを逆順にイテレートする"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719710332.345,
-            "updatedAt": 1719710332.345,
-            "filename": "1719710332"
-        },
-        {
-            "title": "コンピュータの構成と設計 第5版 上",
-            "link": "https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%A8%E8%A8%AD%E8%A8%88-%E7%AC%AC5%E7%89%88-%E4%B8%8A-%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BBL-%E3%83%98%E3%83%8D%E3%82%B7%E3%83%BC/dp/4822298426",
-            "media": "book",
-            "tags": [
-                "computerarchitecture",
-                "hardware",
-                "basics"
-            ],
-            "short": {
-                "en": "text book of computer architecture ",
-                "ja": "コンピューターアーキテクチャ教科書"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1718251738.223,
-            "updatedAt": 1718251738.223,
-            "filename": "1718251738"
-        },
-        {
-            "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
-            "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "unread",
-                "chi",
-                "metaresearch"
-            ],
-            "short": {
-                "en": "reject the search for \"solutions\"",
-                "ja": "私たちは、「解決策」の探求を明確に拒否する、さまざまな戦略を検討する。"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1716811465.45,
-            "updatedAt": 1716811465.45,
-            "filename": "1716811465"
-        },
-        {
-            "title": "脳波を用いた感情分類の研究",
-            "link": "https://www.pgv.co.jp/nais-entry/case-study/202303_02",
-            "media": "netpage",
-            "tags": [
-                "psychology",
-                "eeg",
-                "biosignal",
-                "survey"
-            ],
-            "short": {
-                "en": "estimate emotion from eeg survey",
-                "ja": "脳波感情推定サーベイ"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718372074.25,
-            "updatedAt": 1718372074.25,
-            "filename": "1718372074"
-        },
-        {
-            "title": "C++ のムーブを理解する",
-            "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
-            "media": "netpage",
-            "tags": [
-                "cpp"
-            ],
-            "short": {
-                "en": "understanding std::move()",
-                "ja": "std::move()解説"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718272402.04,
-            "updatedAt": 1718272402.04,
-            "filename": "1718272402"
-        },
-        {
-            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "game",
-                "emotion",
-                "psychology"
-            ],
-            "short": {
-                "en": "emotional difference between mouse input and Kinect input",
-                "ja": "マウス入力とジェスチャ入力の感情的差異"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720005797.937,
-            "updatedAt": 1720005797.937,
-            "filename": "1720005797"
-        },
-        {
-            "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "game",
-                "psychology",
-                "survey"
-            ],
-            "short": {
-                "en": "survey on how game researchers using SDT",
-                "ja": "ゲーム研究者がどのようにSDTを使っているのかのサーベイ"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719968029.727,
-            "updatedAt": 1719968029.727,
-            "filename": "1719968029"
-        },
-        {
-            "title": "C#での「?(クエスチョンマーク)」の意味",
-            "link": "https://nabelog.org/381/#toc1",
-            "media": "netpage",
-            "tags": [
-                "csharp",
-                "syntax"
-            ],
-            "short": {
-                "en": "meaning of ? in C#",
-                "ja": "C#における?の意味"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719823613.29,
-            "updatedAt": 1719823613.29,
-            "filename": "1719823613"
-        },
-        {
-            "title": "@super_bonochin ‘s tweet",
-            "link": "https://x.com/super_bonochin/status/1800888263751946330",
-            "media": "netpage",
-            "tags": [
-                "llm"
-            ],
-            "short": {
-                "en": "llm for system is for take fussy input and connect to rule-base",
-                "ja": "LLMはファジー入力をルールベースに繋げるためにつかうもの"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718317361.522,
-            "updatedAt": 1718317361.522,
-            "filename": "1718317361"
-        },
-        {
-            "title": "Emotion Arousal Assessment Based on Multimodal Physiological Signals for Game Users",
-            "link": "https://ieeexplore.ieee.org/document/10093978",
-            "media": "academic",
-            "tags": [
-                "game",
-                "emotion",
-                "psychology",
-                "assessment",
-                "physiological",
-                "biosignal"
-            ],
-            "short": {
-                "en": "assess emotion of game users from biosignal and try get targeted emotion",
-                "ja": "生体信号からゲームプレイヤーの感情を推定し、狙った感情への誘導の試み"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1720016976.643,
-            "updatedAt": 1720016976.643,
-            "filename": "1720016976"
         },
         {
             "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
@@ -1250,160 +475,59 @@
             "filename": "1718022149"
         },
         {
-            "title": "LLMを活用したシンボリックGame AIの構築",
-            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1I4OS31a04/_article/-char/ja",
-            "media": "academic",
-            "tags": [
-                "game",
-                "gameai",
-                "ai",
-                "character",
-                "characterai",
-                "goap",
-                "llm"
-            ],
-            "short": {
-                "en": "make deterministic AI from LLM",
-                "ja": "決定論的AIをLLMにより作成"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719217863.143,
-            "updatedAt": 1719217863.143,
-            "filename": "1719217863"
-        },
-        {
-            "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
-            "link": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
+            "title": "Permission denied to github-actions[bot]",
+            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
             "tags": [
-                "vscode",
-                "shortcut"
+                "githubaction"
             ],
             "short": {
-                "en": "Shortcut for VSCode",
-                "ja": "VSCodeショートカット"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719668399.88,
-            "updatedAt": 1719668399.88,
-            "filename": "1719668399"
-        },
-        {
-            "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
-            "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
-            "media": "netpage",
-            "tags": [
-                "rendering",
-                "graphics"
-            ],
-            "short": {
-                "en": "japanese explanation of rendering pipeline",
-                "ja": "レンダリングパイプラインの概要説明"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719465110.884,
-            "updatedAt": 1719465110.884,
-            "filename": "1719465110"
-        },
-        {
-            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
-            "media": "academic",
-            "tags": [
-                "game",
-                "hci",
-                "input",
-                "emotion",
-                "psychology"
-            ],
-            "short": {
-                "en": "improvement of 2015 one. Kinetics vs. Mouse",
-                "ja": "2015のものの改良。Kinetics vs. Mouse"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720012012.39,
-            "updatedAt": 1720012012.39,
-            "filename": "1720012012"
-        },
-        {
-            "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
-            "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "gameai",
-                "characterai",
-                "game"
-            ],
-            "short": {
-                "en": "GOAP explanation in Tomb Raider",
-                "ja": "Tomb RaiderにおけるGOAP"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719312672.778,
-            "updatedAt": 1719312672.778,
-            "filename": "1719312672"
-        },
-        {
-            "title": "Is it a sense of autonomy, control, or attachment? Exploring the effects of in-game customization on game enjoyment",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563215001090",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "game",
-                "psychology",
-                "character",
-                "charactercustomization"
-            ],
-            "short": {
-                "en": "SDT discussion on character customization. \"games can appeal to individuals through the senses of autonomy, control, and attachment to a character; the first two prove more critical\"",
-                "ja": "キャラクターのカスタマイズに関するSDTの議論。「ゲームは、自律性、制御性、キャラクターへの愛着といった感覚を通じて個人に訴えかけることができる。"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1719201433.245,
-            "updatedAt": 1719469839.688,
-            "filename": "1719201433"
-        },
-        {
-            "title": "健康医療データの用語集 匿名化/匿名加工",
-            "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
-            "media": "netpage",
-            "tags": [
-                "medicaldata",
-                "personaldata"
-            ],
-            "short": {
-                "ja": "「匿名加工情報」は医療情報も加工、「仮名加工情報」は医療情報を加工しない",
-                "en": "difference of Anonymization and pseudonymization"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1720446218.77,
-            "updatedAt": 1720446218.77,
-            "filename": "1720446218"
-        },
-        {
-            "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
-            "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
-            "media": "academic",
-            "tags": [
-                "interview"
-            ],
-            "short": {
-                "en": "Miyake vs Iwatani",
-                "ja": "三宅 vs 岩谷"
+                "en": "give github action a permission to commit",
+                "ja": "github actionにコミット権限を与える"
             },
             "importance": 1,
             "hasPage": false,
-            "createdAt": 1718011100.785,
-            "updatedAt": 1718011100.785,
-            "filename": "1718011100"
+            "createdAt": 1716514732.013,
+            "updatedAt": 1716514732.013,
+            "filename": "1716514732"
+        },
+        {
+            "title": "クロムハウンズにおける 人工知能開発から見るゲームAIの展望",
+            "link": "https://igda.sakura.ne.jp/sblo_files/ai-igdajp/cedec/r41.pdf",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "gameai",
+                "characterai",
+                "htn"
+            ],
+            "short": {
+                "en": "First HTN implementation in Japan",
+                "ja": "日本における初めてのHTN実装例"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719312965.803,
+            "updatedAt": 1719312965.803,
+            "filename": "1719312965"
+        },
+        {
+            "title": "Stories from the History of Czechoslovakia, A Serious Game for Teaching History of the Czech Lands in the 20th Century – Notes on Design Concepts and Design Process",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33542-6_6",
+            "media": "academic",
+            "tags": [
+                "game",
+                "education"
+            ],
+            "short": {
+                "en": "games \"add significant value to the instructional effectiveness of different domains\"",
+                "ja": "ゲームは\"異なる領域の指導効果に大きな価値を与える\""
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720014749.434,
+            "updatedAt": 1720014749.434,
+            "filename": "1720014749"
         },
         {
             "title": "iMotion",
@@ -1424,83 +548,82 @@
             "filename": "1716446715"
         },
         {
-            "title": "F.E.A.Rにおけるゴール指向プランニング",
-            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "game",
-                "ai",
-                "gameai"
-            ],
-            "short": {
-                "en": "explanation of GOAP",
-                "ja": "GOAPの平易解説"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718082768.938,
-            "updatedAt": 1718082768.938,
-            "filename": "1718082768"
-        },
-        {
-            "title": "東京都議会で議論されている論点はどのようなものか。どのような質問が出ているのか。",
-            "link": "https://takahiroanno2024.github.io/tokyoai-analysis/20240615-tokyo-metropolitan-assembly/",
-            "media": "netpage",
-            "tags": [
-                "nlp",
-                "clustering",
-                "topic"
-            ],
-            "short": {
-                "en": "Very proper nlp analysis",
-                "ja": "すごく上手なNLP分析"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719052982.209,
-            "updatedAt": 1719052982.209,
-            "filename": "1719052982"
-        },
-        {
-            "title": "Human Demonstrations are Generalizable Knowledge for Robots",
-            "link": "https://arxiv.org/abs/2312.02419v1",
+            "title": "Introducing EVG: An Emotion Evoking Game",
+            "link": "https://link.springer.com/chapter/10.1007/11821830_23",
             "media": "academic",
             "tags": [
-                "ai",
-                "llm",
-                "robotics",
-                "humandemonstration",
-                "knowledge"
+                "emotion",
+                "game",
+                "facial"
             ],
             "short": {
-                "en": "Get every knowledge from a video",
-                "ja": "動画から全ての知識を把握する"
+                "en": "Experiment of controling user's emotion",
+                "ja": "プレイヤーの感情をコントロールする実験"
             },
-            "importance": 3,
+            "importance": 1,
             "hasPage": false,
-            "createdAt": 1718326632.599,
-            "updatedAt": 1718326632.599,
-            "filename": "1718326632"
+            "createdAt": 1720015294.43,
+            "updatedAt": 1720015294.43,
+            "filename": "1720015294"
         },
         {
-            "title": "Eight Ways Videogames Generate Emotion",
-            "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
+            "title": "Training ML-Agents",
+            "link": "https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-ML-Agents.md#behavior-configurations",
+            "media": "netpage",
+            "tags": [
+                "mlagents",
+                "unity",
+                "rl",
+                "game",
+                "gameai",
+                ""
+            ],
+            "short": {
+                "en": "Config of Mlagents",
+                "ja": "mlagentsのコンフィグ設定"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1720614316.706,
+            "updatedAt": 1720614316.706,
+            "filename": "1720614316"
+        },
+        {
+            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
+            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
             "media": "academic",
             "tags": [
                 "game",
-                "psychology",
-                "emotion"
+                "characterai"
             ],
             "short": {
-                "en": "Analyze all broad vision of emotional response during gaming",
-                "ja": "ゲーム中の感情をなるべく多く分析する"
+                "en": "バレないようにプレイヤーに迷路を攻略させる",
+                "ja": "バレないようにプレイヤーに迷路を攻略させる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717431151.73,
+            "updatedAt": 1717431151.73,
+            "filename": "1717431151"
+        },
+        {
+            "title": "コンピュータの構成と設計 第5版 上",
+            "link": "https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%A8%E8%A8%AD%E8%A8%88-%E7%AC%AC5%E7%89%88-%E4%B8%8A-%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BBL-%E3%83%98%E3%83%8D%E3%82%B7%E3%83%BC/dp/4822298426",
+            "media": "book",
+            "tags": [
+                "computerarchitecture",
+                "hardware",
+                "basics"
+            ],
+            "short": {
+                "en": "text book of computer architecture ",
+                "ja": "コンピューターアーキテクチャ教科書"
             },
             "importance": 5,
             "hasPage": true,
-            "createdAt": 1717396187.674,
-            "updatedAt": 1717396187.674,
-            "filename": "1717396187"
+            "createdAt": 1718251738.223,
+            "updatedAt": 1718251738.223,
+            "filename": "1718251738"
         },
         {
             "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
@@ -1521,42 +644,114 @@
             "filename": "1718009136"
         },
         {
-            "title": "Control vs. Complexity in Games: Comparing Arousal in 2D Game Prototypes",
-            "link": "https://www.researchgate.net/publication/236230118_Control_vs_complexity_in_games_Comparing_arousal_in_2D_game_prototypes",
+            "title": "Emotion Arousal Assessment Based on Multimodal Physiological Signals for Game Users",
+            "link": "https://ieeexplore.ieee.org/document/10093978",
             "media": "academic",
             "tags": [
                 "game",
+                "emotion",
                 "psychology",
-                "input",
-                "control",
-                "emotion"
+                "assessment",
+                "physiological",
+                "biosignal"
             ],
             "short": {
-                "en": "more complex game simulation, more arousal",
-                "ja": "ゲーむ状況が複雑になるほど、arousal上昇"
+                "en": "assess emotion of game users from biosignal and try get targeted emotion",
+                "ja": "生体信号からゲームプレイヤーの感情を推定し、狙った感情への誘導の試み"
             },
-            "importance": 3,
+            "importance": 5,
             "hasPage": false,
-            "createdAt": 1720016327.948,
-            "updatedAt": 1720016327.948,
-            "filename": "1720016327"
+            "createdAt": 1720016976.643,
+            "updatedAt": 1720016976.643,
+            "filename": "1720016976"
         },
         {
-            "title": "Git でデフォルトのリモートを変更する方法",
-            "link": "https://gotohayato.com/content/114/",
+            "title": "javascriptの構文解析をしてみる",
+            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
             "media": "netpage",
             "tags": [
-                "git"
+                "javascript",
+                "abstractsyntaxtree",
+                "compiler"
             ],
             "short": {
-                "en": "change default remote",
-                "ja": "デフォルトリモート変更"
+                "en": "I didn't have to make a JS compiler by my self...",
+                "ja": "ASTを知りました"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717575625.365,
+            "updatedAt": 1717575625.365,
+            "filename": "1717575625"
+        },
+        {
+            "title": "JSAI2024 affective1",
+            "link": "e",
+            "media": "presentation",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716947183.371,
+            "updatedAt": 1720017881.247,
+            "filename": "1716947183"
+        },
+        {
+            "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
+            "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "random"
+            ],
+            "short": {
+                "en": "Seeded random generator by JavaScript",
+                "ja": "JavaScriptでシード生成乱数クラス"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1719712551.736,
-            "updatedAt": 1719712551.736,
-            "filename": "1719712551"
+            "createdAt": 1717488367.253,
+            "updatedAt": 1717488367.253,
+            "filename": "1717488367"
+        },
+        {
+            "title": "C++ のムーブを理解する",
+            "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
+            "media": "netpage",
+            "tags": [
+                "cpp"
+            ],
+            "short": {
+                "en": "understanding std::move()",
+                "ja": "std::move()解説"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718272402.04,
+            "updatedAt": 1718272402.04,
+            "filename": "1718272402"
+        },
+        {
+            "title": "数分間のエールを",
+            "link": "https://yell-movie2024.com/",
+            "media": "entertainment",
+            "tags": [
+                "movie"
+            ],
+            "short": {
+                "en": "beautiful & passionate animation movie from Bandai Namco",
+                "ja": "バンダイナムコによる美しく情熱的な「モノづくり」映画"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1719203402.417,
+            "updatedAt": 1719203402.417,
+            "filename": "1719203402"
         },
         {
             "title": "What Does That ?-Block Do? Learning Latent Causal Affordances from Mario Play Traces",
@@ -1583,99 +778,6 @@
             "filename": "1718325883"
         },
         {
-            "title": "数分間のエールを",
-            "link": "https://yell-movie2024.com/",
-            "media": "entertainment",
-            "tags": [
-                "movie"
-            ],
-            "short": {
-                "en": "beautiful & passionate animation movie from Bandai Namco",
-                "ja": "バンダイナムコによる美しく情熱的な「モノづくり」映画"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1719203402.417,
-            "updatedAt": 1719203402.417,
-            "filename": "1719203402"
-        },
-        {
-            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
-            "link": "https://zenn.dev/yurukei20/articles/",
-            "media": "book",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "showing markdown in html",
-                "ja": "markdownをhtmlで表示"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716365855.63,
-            "updatedAt": 1716365855.63,
-            "filename": "markdownwriting"
-        },
-        {
-            "title": "ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用",
-            "link": "https://gihyo.jp/book/2022/978-4-297-13234-7",
-            "media": "book",
-            "tags": [
-                "programming",
-                "design",
-                "architecture",
-                "software",
-                "softwarearchitecture"
-            ],
-            "short": {
-                "en": "Modern software architecture",
-                "ja": "モダンなソフトウェアアーキテクチャ解説書"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1717649862.924,
-            "updatedAt": 1719035491.254,
-            "filename": "1717649862"
-        },
-        {
-            "title": "Self-Determination Theory — I Choose You!: The Limitations of Viewing Motivation in HCI Research Through the Lens of a Single Theory",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3505270.3558361",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "psychology",
-                "game",
-                "hci"
-            ],
-            "short": {
-                "en": "criticism against thoughtless usage of SDT. And list of alternatives ",
-                "ja": "思考停止SDT使用への批判、および代替案リスト"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719488748.564,
-            "updatedAt": 1719488748.564,
-            "filename": "1719488748"
-        },
-        {
-            "title": "【1月23日追記】12月23日、24日に発生しました障害に関するご報告",
-            "link": "https://medium.com/skeb-jp/report-36b5608aa867",
-            "media": "netpage",
-            "tags": [
-                "cloud",
-                "container"
-            ],
-            "short": {
-                "en": "move from Heroku in 18 hours",
-                "ja": "Herokuから18時間で脱出したskeb事例"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1718437369.331,
-            "updatedAt": 1718437369.331,
-            "filename": "1718437369"
-        },
-        {
             "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
             "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
             "media": "academic",
@@ -1698,44 +800,237 @@
             "filename": "1717727670"
         },
         {
-            "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
-            "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
+            "title": "【Unity】【エディタ拡張】ノードエディタを作るGraph Viewの基本的な使い方",
+            "link": "https://light11.hatenadiary.com/entry/2020/06/16/200750",
             "media": "netpage",
             "tags": [
-                "github",
-                "google",
-                "seo"
+                "unity",
+                "unityeditor",
+                "visualscripting"
             ],
             "short": {
-                "en": "making a github repository hit in a google search",
-                "ja": "githubレポジトリをGoogle検索にヒットさせる"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717489073.76,
-            "updatedAt": 1717489073.76,
-            "filename": "1717489073"
-        },
-        {
-            "title": "The AI of Horizon Zero Dawn",
-            "link": "https://www.guerrilla-games.com/media/News/Files/The-AI-of-Horizon-Zero-Dawn.pdf",
-            "media": "netpage",
-            "tags": [
-                "htn",
-                "game",
-                "gameai",
-                "characterai",
-                "ai"
-            ],
-            "short": {
-                "en": "HTN implementation of Guerrilla Games",
-                "ja": "ゲリラゲームズによるHTN実装"
+                "en": "How to use Graph View of Unity Editor",
+                "ja": "Unity Editorでノードグラフをビジュアルスクリプティングする"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1719312153.818,
-            "updatedAt": 1719312153.818,
-            "filename": "1719312153"
+            "createdAt": 1719822776.492,
+            "updatedAt": 1719822776.492,
+            "filename": "1719822776"
+        },
+        {
+            "title": "@super_bonochin ‘s tweet",
+            "link": "https://x.com/super_bonochin/status/1800888263751946330",
+            "media": "netpage",
+            "tags": [
+                "llm"
+            ],
+            "short": {
+                "en": "llm for system is for take fussy input and connect to rule-base",
+                "ja": "LLMはファジー入力をルールベースに繋げるためにつかうもの"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718317361.522,
+            "updatedAt": 1718317361.522,
+            "filename": "1718317361"
+        },
+        {
+            "title": "acorn",
+            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
+            "media": "repository",
+            "tags": [
+                "javascript",
+                "parser",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "Javascript parser library",
+                "ja": "Javascript parser library"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717577391.578,
+            "updatedAt": 1717577391.578,
+            "filename": "1717577391"
+        },
+        {
+            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
+            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
+            "media": "repository",
+            "tags": [
+                "academic",
+                "writing"
+            ],
+            "short": {
+                "en": "All resources of academic writing",
+                "ja": "アカデミックライティングの文献一覧"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717319233.885,
+            "updatedAt": 1717319233.885,
+            "filename": "1717319233"
+        },
+        {
+            "title": "gameaipro.com",
+            "link": "http://www.gameaipro.com/",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "Total articles of game AI",
+                "ja": "ゲームAI技術全て"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1718058851.738,
+            "updatedAt": 1718058851.738,
+            "filename": "1718058851"
+        },
+        {
+            "title": "ARMORED CORE Vの対戦AIにおける階層型ゴール指向プランニングと機体制御",
+            "link": "https://cedil.cesa.or.jp/cedil_sessions/view/591",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai",
+                "characterai",
+                "character"
+            ],
+            "short": {
+                "en": "make real-time battle action by GOAP (failed)",
+                "ja": "リアルタイムバトルアクションをGOAPによって実装しようとした（失敗）"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719217778.615,
+            "updatedAt": 1719217778.615,
+            "filename": "1719217778"
+        },
+        {
+            "title": "健康医療データの用語集 匿名化/匿名加工",
+            "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
+            "media": "netpage",
+            "tags": [
+                "medicaldata",
+                "personaldata"
+            ],
+            "short": {
+                "ja": "「匿名加工情報」は医療情報も加工、「仮名加工情報」は医療情報を加工しない",
+                "en": "difference of Anonymization and pseudonymization"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720446218.77,
+            "updatedAt": 1720446218.77,
+            "filename": "1720446218"
+        },
+        {
+            "title": "Goal-Oriented Action Planning: Ten Years of AI Programming",
+            "link": "https://www.youtube.com/watch?v=gm7K68663rA",
+            "media": "presentation",
+            "tags": [
+                "goap",
+                "game",
+                "gameai",
+                "characterai"
+            ],
+            "short": {
+                "en": "implementation explanation of GOAP",
+                "ja": "GOAPの実装説明"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719809081.219,
+            "updatedAt": 1719809081.219,
+            "filename": "1719809081"
+        },
+        {
+            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
+            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
+            "media": "netpage",
+            "tags": [
+                "python",
+                "machinelearning",
+                "unread"
+            ],
+            "short": {
+                "en": "crazy parameters tuning total manual",
+                "ja": "すごいパラメーターチューニング総説"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716772088.488,
+            "updatedAt": 1716772088.488,
+            "filename": "1716772088"
+        },
+        {
+            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
+            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "affordance",
+                "planning"
+            ],
+            "short": {
+                "en": "thesis that attacked to affordance based planning",
+                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717451026.36,
+            "updatedAt": 1717451026.36,
+            "filename": "1717451026"
+        },
+        {
+            "title": "UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games",
+            "link": "https://dl.acm.org/doi/10.1145/3235765.3235780",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "psychology",
+                "game",
+                "evaluation",
+                "assessment",
+                "upeq"
+            ],
+            "short": {
+                "en": "Questionnaire made by SDT",
+                "ja": "SDTに基づいた質問紙"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1720040135.002,
+            "updatedAt": 1720040135.002,
+            "filename": "1720040135"
+        },
+        {
+            "title": "論文の読み方",
+            "link": "https://speakerdeck.com/kaityo256/how-to-survey",
+            "media": "netpage",
+            "tags": [
+                "paper",
+                "skill",
+                "academic",
+                "reading"
+            ],
+            "short": {
+                "en": "Read mainly the introduction and get a comprehensive view of the field",
+                "ja": "主にイントロダクションを読んで分野の包括的な位置付けを把握する"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717673521.473,
+            "updatedAt": 1717673521.473,
+            "filename": "1717673521"
         },
         {
             "title": "N 個の整数 A_1,A_2,…,A_N が与えられ、N⋅(N−1)/2 個すべての非順序対 (Ai,Aj) (i<j) に対するf(A_i, A_j)の和を求める問題",
@@ -1776,82 +1071,80 @@
             "filename": "1720307302"
         },
         {
-            "title": "Investigating the Elusive Role of Level Design",
-            "link": "https://ieeexplore.ieee.org/document/9231624",
+            "title": "ヘルスデータサイエンス入門 ―医療・健康データの活用を目指して―",
+            "link": "https://www.asakura.co.jp/detail.php?book_code=12286",
+            "media": "book",
+            "tags": [
+                "medicaldata",
+                "ethics",
+                "personaldata"
+            ],
+            "short": {
+                "en": "data sciencing for medicine. Including ethics and karte",
+                "ja": "医療データサイエンス概論。倫理とカルテの言及含む"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720305249.4,
+            "updatedAt": 1720305249.4,
+            "filename": "1720305249"
+        },
+        {
+            "title": "The Motivational Pull of Video Games: A Self-Determination Theory Approach",
+            "link": "https://link.springer.com/article/10.1007/s11031-006-9051-8",
             "media": "academic",
             "tags": [
                 "game",
-                "leveldesign",
-                "survey"
+                "psychology",
+                "sdt"
             ],
             "short": {
-                "en": "Survey the definition and role of \"level designer\"",
-                "ja": "「レベルデザイナー」の定義・役割を巡るサーベイ"
+                "en": "base SDT analysis upon game per-sec psychology. Says \"autonomy\" and \"competence\" is the core",
+                "ja": "ゲームプレイ中のSDT理論による基礎的分析。「主体感」と「達成感」が重要であると主張"
             },
-            "importance": 2,
+            "importance": 5,
             "hasPage": true,
-            "createdAt": 1717659810.606,
-            "updatedAt": 1717659810.606,
-            "filename": "1717659810"
+            "createdAt": 1717240630.21,
+            "updatedAt": 1717240630.21,
+            "filename": "1717240630"
         },
         {
-            "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
-            "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "random"
-            ],
-            "short": {
-                "en": "Seeded random generator by JavaScript",
-                "ja": "JavaScriptでシード生成乱数クラス"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717488367.253,
-            "updatedAt": 1717488367.253,
-            "filename": "1717488367"
-        },
-        {
-            "title": "ARMORED CORE Vの対戦AIにおける階層型ゴール指向プランニングと機体制御",
-            "link": "https://cedil.cesa.or.jp/cedil_sessions/view/591",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "game",
-                "ai",
-                "gameai",
-                "characterai",
-                "character"
-            ],
-            "short": {
-                "en": "make real-time battle action by GOAP (failed)",
-                "ja": "リアルタイムバトルアクションをGOAPによって実装しようとした（失敗）"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719217778.615,
-            "updatedAt": 1719217778.615,
-            "filename": "1719217778"
-        },
-        {
-            "title": "【Unity】ダークソウルっぽいカメラワークを作る【Cinemachine + Input System】",
-            "link": "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2022_24",
+            "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
+            "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
             "media": "netpage",
             "tags": [
                 "unity",
-                "camerawork",
                 "ui"
             ],
             "short": {
-                "en": "implementing lockon + camerawork system like Dark Soul",
-                "ja": "ダークソウル式のロックオン + カメラワークシステムの実装"
+                "en": "implementing Offscreen Indicator",
+                "ja": "Offcreen Indicatorの実装"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1719419334.166,
-            "updatedAt": 1719419334.166,
-            "filename": "1719419334"
+            "createdAt": 1719449317.167,
+            "updatedAt": 1719449317.167,
+            "filename": "1719449317"
+        },
+        {
+            "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
+            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "heartrate"
+            ],
+            "short": {
+                "en": "examine stress for player while playing game",
+                "ja": "ゲーム中のストレスを測量"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1717310157.891,
+            "updatedAt": 1717310157.891,
+            "filename": "1717310157"
         },
         {
             "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
@@ -1873,24 +1166,753 @@
             "filename": "1717430302"
         },
         {
-            "title": "Sketch2Map: A Game Map Design Support System Allowing Quick Hand Sketch Prototyping",
-            "link": "https://ieee-cog.org/2020/papers/paper_213.pdf",
-            "media": "academic",
+            "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
+            "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
+            "media": "netpage",
             "tags": [
-                "gan",
-                "ai",
-                "game",
-                "assist"
+                "github",
+                "google",
+                "seo"
             ],
             "short": {
-                "en": "Using GAN for transforming hand-writed sketch to 3D map",
-                "ja": "GANを使って手書きスケッチから3Dマップを生成"
+                "en": "making a github repository hit in a google search",
+                "ja": "githubレポジトリをGoogle検索にヒットさせる"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717489073.76,
+            "updatedAt": 1717489073.76,
+            "filename": "1717489073"
+        },
+        {
+            "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
+            "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "gameai",
+                "characterai",
+                "game"
+            ],
+            "short": {
+                "en": "GOAP explanation in Tomb Raider",
+                "ja": "Tomb RaiderにおけるGOAP"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719312672.778,
+            "updatedAt": 1719312672.778,
+            "filename": "1719312672"
+        },
+        {
+            "title": "【Unity】ダークソウルっぽいカメラワークを作る【Cinemachine + Input System】",
+            "link": "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2022_24",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "camerawork",
+                "ui"
+            ],
+            "short": {
+                "en": "implementing lockon + camerawork system like Dark Soul",
+                "ja": "ダークソウル式のロックオン + カメラワークシステムの実装"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719419334.166,
+            "updatedAt": 1719419334.166,
+            "filename": "1719419334"
+        },
+        {
+            "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
+            "link": "https://qiita.com/hmkz/items/c635c0d309f68b5919e4",
+            "media": "netpage",
+            "tags": [
+                "academic",
+                "submission",
+                "paper"
+            ],
+            "short": {
+                "en": "taking advantage of CMT",
+                "ja": "CMT攻略"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717304384.333,
+            "updatedAt": 1717304384.333,
+            "filename": "1717304384"
+        },
+        {
+            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "eeg",
+                ""
+            ],
+            "short": {
+                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
+                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716453618.354,
+            "updatedAt": 1716453618.354,
+            "filename": "1716453618"
+        },
+        {
+            "title": "Improving User's Sense of Participation in Robot-Driven Dialogue",
+            "link": "https://arxiv.org/abs/2210.09746",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "dialogue",
+                "hci"
+            ],
+            "short": {
+                "en": "Said \"user's sense of participation in dialogue is reduced because the degree of freedom in timing and content of speech is limited\" but no evidence",
+                "ja": "「ロボットによる会話は自由度が低いので当事者感が低い」とされているが、この記述に根拠がない"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1719200109.975,
+            "updatedAt": 1719200109.975,
+            "filename": "1719200109"
+        },
+        {
+            "title": "F.E.A.Rにおけるゴール指向プランニング",
+            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "explanation of GOAP",
+                "ja": "GOAPの平易解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718082768.938,
+            "updatedAt": 1718082768.938,
+            "filename": "1718082768"
+        },
+        {
+            "title": "脳波を用いた感情分類の研究",
+            "link": "https://www.pgv.co.jp/nais-entry/case-study/202303_02",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "eeg",
+                "biosignal",
+                "survey"
+            ],
+            "short": {
+                "en": "estimate emotion from eeg survey",
+                "ja": "脳波感情推定サーベイ"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718372074.25,
+            "updatedAt": 1718372074.25,
+            "filename": "1718372074"
+        },
+        {
+            "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
+            "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "gameai",
+                "characterai",
+                "htn"
+            ],
+            "short": {
+                "en": "HTN in LEFT ALIVE (Square Enix)",
+                "ja": "HTN in LEFT ALIVE (Square Enix)"
             },
             "importance": 2,
             "hasPage": false,
-            "createdAt": 1717660259.095,
-            "updatedAt": 1717660259.095,
-            "filename": "1717660259"
+            "createdAt": 1719312049.233,
+            "updatedAt": 1719312049.233,
+            "filename": "1719312049"
+        },
+        {
+            "title": "Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI",
+            "link": "https://dl.acm.org/doi/10.1145/2254556.2254580",
+            "media": "academic",
+            "tags": [
+                "game",
+                "hci",
+                "interface",
+                "input"
+            ],
+            "short": {
+                "en": "\"Lesson learnt with this experience suggests to avoid, when possible, the classic window/icon/mouse interaction for experimenting, obviously for appropriate tasks (i.e., not keyboard intensive, etc.), new gestures and new forms of physical commands.\"",
+                "ja": "\"この経験から得られた教訓は、可能な限り古典的なウィンドウ／アイコン／マウスのインタラクションを避け、明らかに適切なタスク（キーボードを多用しないなど）、新しいジェスチャー、新しい形式の物理的コマンドを実験することを示唆している。\""
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720006853.74,
+            "updatedAt": 1720006853.74,
+            "filename": "1720006853"
+        },
+        {
+            "title": "Investigating the Elusive Role of Level Design",
+            "link": "https://ieeexplore.ieee.org/document/9231624",
+            "media": "academic",
+            "tags": [
+                "game",
+                "leveldesign",
+                "survey"
+            ],
+            "short": {
+                "en": "Survey the definition and role of \"level designer\"",
+                "ja": "「レベルデザイナー」の定義・役割を巡るサーベイ"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1717659810.606,
+            "updatedAt": 1717659810.606,
+            "filename": "1717659810"
+        },
+        {
+            "title": "A Review of Affective Design towards Video Games",
+            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "affective",
+                "game"
+            ],
+            "short": {
+                "en": "address and review the literature on affective design elements, principles and methodologies that are suitable for the video games industry.",
+                "ja": "ビデオゲーム業界に適した感情デザインの要素、原則、方法論に関する文献を取り上げ、レビューする。"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717430377.926,
+            "updatedAt": 1717430377.926,
+            "filename": "1717430377"
+        },
+        {
+            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
+                "ja": "Teammate AI in cooperative games letting human players play active roles"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717432837.278,
+            "updatedAt": 1717432837.278,
+            "filename": "1717432837"
+        },
+        {
+            "title": "JavaScriptにおける連想配列のforループ操作",
+            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
+            "media": "netpage",
+            "tags": [
+                "javascript"
+            ],
+            "short": {
+                "en": "foreach of object in javascript",
+                "ja": "javascriptにおける連想配列のforeach"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1716439717.204,
+            "updatedAt": 1716439717.204,
+            "filename": "1716439717"
+        },
+        {
+            "title": "JSAI 2024 HPE",
+            "link": "Temp",
+            "media": "academic",
+            "tags": [
+                "editing",
+                "environment"
+            ],
+            "short": {
+                "en": "Integrated environment software for ML",
+                "ja": "機械学習のスーパー環境構築ソフトウェア"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716867669.43,
+            "updatedAt": 1716867669.43,
+            "filename": "1716867669"
+        },
+        {
+            "title": "The AI of Horizon Zero Dawn",
+            "link": "https://www.guerrilla-games.com/media/News/Files/The-AI-of-Horizon-Zero-Dawn.pdf",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "game",
+                "gameai",
+                "characterai",
+                "ai"
+            ],
+            "short": {
+                "en": "HTN implementation of Guerrilla Games",
+                "ja": "ゲリラゲームズによるHTN実装"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719312153.818,
+            "updatedAt": 1719312153.818,
+            "filename": "1719312153"
+        },
+        {
+            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
+            "media": "academic",
+            "tags": [
+                "game",
+                "hci",
+                "input",
+                "emotion",
+                "psychology"
+            ],
+            "short": {
+                "en": "improvement of 2015 one. Kinetics vs. Mouse",
+                "ja": "2015のものの改良。Kinetics vs. Mouse"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720012012.39,
+            "updatedAt": 1720012012.39,
+            "filename": "1720012012"
+        },
+        {
+            "title": "Repository and Unit of Work in Domain-Driven Design",
+            "link": "https://medium.com/@ruben.alapont/repository-and-unit-of-work-in-domain-driven-design-cc5638780dc3",
+            "media": "netpage",
+            "tags": [
+                "ddd",
+                "repositorypattern",
+                "onionarchitecture"
+            ],
+            "short": {
+                "en": "repository pattern in DDD ",
+                "ja": "ドメイン駆動設計におけるレポジトリパターン"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718186442.401,
+            "updatedAt": 1718186442.401,
+            "filename": "1718186442"
+        },
+        {
+            "title": "LLMを活用したシンボリックGame AIの構築",
+            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1I4OS31a04/_article/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "gameai",
+                "ai",
+                "character",
+                "characterai",
+                "goap",
+                "llm"
+            ],
+            "short": {
+                "en": "make deterministic AI from LLM",
+                "ja": "決定論的AIをLLMにより作成"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719217863.143,
+            "updatedAt": 1719217863.143,
+            "filename": "1719217863"
+        },
+        {
+            "title": "Self-Determination Theory — I Choose You!: The Limitations of Viewing Motivation in HCI Research Through the Lens of a Single Theory",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3505270.3558361",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "psychology",
+                "game",
+                "hci"
+            ],
+            "short": {
+                "en": "criticism against thoughtless usage of SDT. And list of alternatives ",
+                "ja": "思考停止SDT使用への批判、および代替案リスト"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719488748.564,
+            "updatedAt": 1719488748.564,
+            "filename": "1719488748"
+        },
+        {
+            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
+            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
+            "media": "netpage",
+            "tags": [
+                "html",
+                "css"
+            ],
+            "short": {
+                "en": "resizable table column by drag",
+                "ja": "ドラッグで幅変更可能なテーブルCSS"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716516123.083,
+            "updatedAt": 1716516123.083,
+            "filename": "1716516123"
+        },
+        {
+            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "humanity",
+                "characterai"
+            ],
+            "short": {
+                "en": "キャラクターAIにおける人間らしさの文献調査",
+                "ja": "What is \"humanity\" for character AI?"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717433375.173,
+            "updatedAt": 1717433375.173,
+            "filename": "1717433375"
+        },
+        {
+            "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
+            "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "interview"
+            ],
+            "short": {
+                "en": "Miyake vs Iwatani",
+                "ja": "三宅 vs 岩谷"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1718011100.785,
+            "updatedAt": 1718011100.785,
+            "filename": "1718011100"
+        },
+        {
+            "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
+            "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
+            "media": "academic",
+            "tags": [
+                "game",
+                "education"
+            ],
+            "short": {
+                "en": "\"Games can increase critical thinking, support analysis and synthesis of information, reuse of knowledge in new situations\"",
+                "ja": "「ゲームは批判的思考を高め、情報の分析と統合をサポートし、新しい状況での知識の再利用を可能にする。」"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720014653.772,
+            "updatedAt": 1720014653.772,
+            "filename": "1720014653"
+        },
+        {
+            "title": "Search Engines & Society -Information Quality and the Potential of AI",
+            "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
+            "media": "netpage",
+            "tags": [
+                "google",
+                "lt",
+                "searchengine"
+            ],
+            "short": {
+                "en": "Speech from Dr. Prabhakar Raghavan Senior Vice President of Google",
+                "ja": "Dr. Prabhakar Raghavan Senior Vice President of Googleの発表"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1718795206.176,
+            "updatedAt": 1718795206.176,
+            "filename": "1718795206"
+        },
+        {
+            "title": "UniBT",
+            "link": "https://github.com/yoshidan/UniBT",
+            "media": "repository",
+            "tags": [
+                "unity",
+                "behaviortree",
+                "ai",
+                "library"
+            ],
+            "short": {
+                "en": "Free Unity library for visual scripting a behavior tree",
+                "ja": "ビヘイビアツリーをビジュアルスクリプティングする無料Unityライブラリ"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717661348.5,
+            "updatedAt": 1717661348.5,
+            "filename": "1717661348"
+        },
+        {
+            "title": "JSAI 2024 behavior economics",
+            "link": "temp",
+            "media": "presentation",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716870888.632,
+            "updatedAt": 1720017905.335,
+            "filename": "1716870888"
+        },
+        {
+            "title": "「今日のメシどうする？」問題から学ぶ、階層型タスクネットワーク",
+            "link": "https://morikatron.ai/2019/12/gdm37_htn/",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "game",
+                "characterai",
+                "gameai",
+                "ai",
+                ""
+            ],
+            "short": {
+                "en": "plain japanese explanation of HTN",
+                "ja": "HTNの平易日本語解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719311443.315,
+            "updatedAt": 1719311443.315,
+            "filename": "1719311443"
+        },
+        {
+            "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
+            "link": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
+            "media": "netpage",
+            "tags": [
+                "vscode",
+                "shortcut"
+            ],
+            "short": {
+                "en": "Shortcut for VSCode",
+                "ja": "VSCodeショートカット"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719668399.88,
+            "updatedAt": 1719668399.88,
+            "filename": "1719668399"
+        },
+        {
+            "title": "[Unity] 衝突判定における、IsTriggerとRigidbodyとIsKinematicのパターンを実験",
+            "link": "https://qiita.com/sensuikan1973/items/055384e1145bbbe73e40#%E3%81%BE%E3%81%A8%E3%82%81",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "rigidbody"
+            ],
+            "short": {
+                "en": "behaviour of Unity collision",
+                "ja": "Unity衝突判定の仕様"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719409516.289,
+            "updatedAt": 1719409516.289,
+            "filename": "1719409516"
+        },
+        {
+            "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
+            "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "vr"
+            ],
+            "short": {
+                "en": "enabling tactile in VR by balloons",
+                "ja": "VR内の触覚を風船で実現"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717938927.016,
+            "updatedAt": 1717938927.016,
+            "filename": "1717938927"
+        },
+        {
+            "title": "東京都議会で議論されている論点はどのようなものか。どのような質問が出ているのか。",
+            "link": "https://takahiroanno2024.github.io/tokyoai-analysis/20240615-tokyo-metropolitan-assembly/",
+            "media": "netpage",
+            "tags": [
+                "nlp",
+                "clustering",
+                "topic"
+            ],
+            "short": {
+                "en": "Very proper nlp analysis",
+                "ja": "すごく上手なNLP分析"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719052982.209,
+            "updatedAt": 1719052982.209,
+            "filename": "1719052982"
+        },
+        {
+            "title": "Benefits of embedding custom fonts",
+            "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
+            "media": "netpage",
+            "tags": [
+                "powerpoint",
+                "microsoft"
+            ],
+            "short": {
+                "en": "Save powerpoints with fonts",
+                "ja": "フォント付きでパワポを保存する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716707379.166,
+            "updatedAt": 1716707379.166,
+            "filename": "1716707379"
+        },
+        {
+            "title": "Jeff Orkin - Goal-Oriented Action Planning (GOAP)",
+            "link": "https://web.archive.org/web/20230713022726/https://alumni.media.mit.edu/~jorkin/goap.html",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "gameai",
+                "characterai"
+            ],
+            "short": {
+                "en": "games and resources for GOAP",
+                "ja": "GOAPを実装しているゲーム、GOAPをまとめているリソースまとめ"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719312319.293,
+            "updatedAt": 1719312319.293,
+            "filename": "1719312319"
+        },
+        {
+            "title": "Eight Ways Videogames Generate Emotion",
+            "link": "https://www.researchgate.net/publication/252984061_Eight_Ways_Videogames_Generate_Emotion",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "emotion"
+            ],
+            "short": {
+                "en": "Analyze all broad vision of emotional response during gaming",
+                "ja": "ゲーム中の感情をなるべく多く分析する"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1717396187.674,
+            "updatedAt": 1717396187.674,
+            "filename": "1717396187"
+        },
+        {
+            "title": "Control vs. Complexity in Games: Comparing Arousal in 2D Game Prototypes",
+            "link": "https://www.researchgate.net/publication/236230118_Control_vs_complexity_in_games_Comparing_arousal_in_2D_game_prototypes",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "input",
+                "control",
+                "emotion"
+            ],
+            "short": {
+                "en": "more complex game simulation, more arousal",
+                "ja": "ゲーむ状況が複雑になるほど、arousal上昇"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720016327.948,
+            "updatedAt": 1720016327.948,
+            "filename": "1720016327"
+        },
+        {
+            "title": "強化学習でポケモンをプレイする",
+            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
+            "media": "netpage",
+            "tags": [
+                "rl"
+            ],
+            "short": {
+                "en": "explain RL for Pokemon",
+                "ja": "ポケモン強化学習解説記事"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718009273.334,
+            "updatedAt": 1718009273.334,
+            "filename": "1718009273"
+        },
+        {
+            "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "game",
+                "psychology",
+                "survey"
+            ],
+            "short": {
+                "en": "survey on how game researchers using SDT",
+                "ja": "ゲーム研究者がどのようにSDTを使っているのかのサーベイ"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719968029.727,
+            "updatedAt": 1719968029.727,
+            "filename": "1719968029"
+        },
+        {
+            "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
+            "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
+            "media": "netpage",
+            "tags": [
+                "rendering",
+                "graphics"
+            ],
+            "short": {
+                "en": "japanese explanation of rendering pipeline",
+                "ja": "レンダリングパイプラインの概要説明"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719465110.884,
+            "updatedAt": 1719465110.884,
+            "filename": "1719465110"
         }
     ]
 }
