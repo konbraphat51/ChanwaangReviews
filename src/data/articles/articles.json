@@ -475,6 +475,26 @@
             "filename": "1718022149"
         },
         {
+            "title": "Training Configuration File",
+            "link": "https://unity-technologies.github.io/ml-agents/Training-Configuration-File/",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "mlagents",
+                "game",
+                "gameai"
+            ],
+            "short": {
+                "en": "each config explanation for mlagents",
+                "ja": "mlagentsのコンフィグ各項説明"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1720656080.961,
+            "updatedAt": 1720656080.961,
+            "filename": "1720656080"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
