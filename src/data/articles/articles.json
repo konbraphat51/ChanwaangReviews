@@ -514,6 +514,23 @@
             "filename": "1720656080"
         },
         {
+            "title": "【Git】同じコンフリクト解消を繰り返している人に教えたい「git rerere」",
+            "link": "https://qiita.com/_ken_/items/64856e91e062b325590f",
+            "media": "netpage",
+            "tags": [
+                "git"
+            ],
+            "short": {
+                "en": "reusing conflict resolve",
+                "ja": "コンフリクト解消の再利用"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720756464.725,
+            "updatedAt": 1720756464.725,
+            "filename": "1720756464"
+        },
+        {
             "title": "Permission denied to github-actions[bot]",
             "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
             "media": "netpage",
