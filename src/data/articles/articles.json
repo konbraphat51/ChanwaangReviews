@@ -1492,6 +1492,23 @@
             "filename": "1716439717"
         },
         {
+            "title": "C# オブジェクト生成時の初期化順序（コンストラクタ、変数初期化子）",
+            "link": "https://qiita.com/ohke/items/10aadafc727141f83087",
+            "media": "netpage",
+            "tags": [
+                "csharp"
+            ],
+            "short": {
+                "en": "order of operations when generating class instance",
+                "ja": "クラスインスタンス生成時の実行順序"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720791948.187,
+            "updatedAt": 1720791948.187,
+            "filename": "1720791948"
+        },
+        {
             "title": "JSAI 2024 HPE",
             "link": "Temp",
             "media": "academic",
