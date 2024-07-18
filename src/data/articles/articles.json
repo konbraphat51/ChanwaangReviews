@@ -53,6 +53,27 @@
             "filename": "1716517146"
         },
         {
+            "title": "Can a serious game-based cognitive training attenuate cognitive decline related to Alzheimer’s disease? Protocol for a randomized controlled trial",
+            "link": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04131-7",
+            "media": "academic",
+            "tags": [
+                "dimentia",
+                "game",
+                "seriousgame",
+                "cognitive",
+                "training"
+            ],
+            "short": {
+                "en": "a",
+                "ja": "a"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721271544.731,
+            "updatedAt": 1721271544.731,
+            "filename": "1721271544"
+        },
+        {
             "title": "Human Demonstrations are Generalizable Knowledge for Robots",
             "link": "https://arxiv.org/abs/2312.02419v1",
             "media": "academic",
