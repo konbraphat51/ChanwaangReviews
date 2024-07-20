@@ -1602,6 +1602,25 @@
             "filename": "1718082768"
         },
         {
+            "title": "Universal Design Color Guidelines",
+            "link": "https://www.city.hiroshima.lg.jp/uploaded/attachment/27656.pdf",
+            "media": "netpage",
+            "tags": [
+                "ui",
+                "color",
+                "design"
+            ],
+            "short": {
+                "en": "Guideline for universal color design",
+                "ja": "広島市による色彩ユニバーサルデザイン"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1721473573.163,
+            "updatedAt": 1721473573.163,
+            "filename": "1721473573"
+        },
+        {
             "title": "脳波を用いた感情分類の研究",
             "link": "https://www.pgv.co.jp/nais-entry/case-study/202303_02",
             "media": "netpage",
