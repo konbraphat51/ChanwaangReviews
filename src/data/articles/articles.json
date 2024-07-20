@@ -827,6 +827,23 @@
             "filename": "1716446715"
         },
         {
+            "title": "AI系の研究・開発に関する情報収集元を紹介",
+            "link": "https://qiita.com/YutaroOgawa2/items/01dce7b2ffab79fc5fcc",
+            "media": "netpage",
+            "tags": [
+                "paper"
+            ],
+            "short": {
+                "en": "how to collect AI papers",
+                "ja": "松尾研のAI論文収集法"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1721487347.566,
+            "updatedAt": 1721487347.566,
+            "filename": "1721487347"
+        },
+        {
             "title": "Introducing EVG: An Emotion Evoking Game",
             "link": "https://link.springer.com/chapter/10.1007/11821830_23",
             "media": "academic",
