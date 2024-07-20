@@ -2038,6 +2038,23 @@
             "filename": "1720014653"
         },
         {
+            "title": "UnityのStart()の継承、オーバーライドのメモ",
+            "link": "https://siuncyclone.hatenablog.com/entry/2018/10/11/124547",
+            "media": "netpage",
+            "tags": [
+                "unity"
+            ],
+            "short": {
+                "en": "Start() will automatically overwritten",
+                "ja": "Start()は自動的にオーバーライドされる"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1721497841.506,
+            "updatedAt": 1721497841.506,
+            "filename": "1721497841"
+        },
+        {
             "title": "Search Engines & Society -Information Quality and the Potential of AI",
             "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
             "media": "netpage",
