@@ -2359,6 +2359,24 @@
             "filename": "1719968029"
         },
         {
+            "title": "The influence of social interaction on cognitive training for schizophrenia",
+            "link": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2012.00140/full",
+            "media": "academic",
+            "tags": [
+                "cognitivetraining",
+                "languageinteraction"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721690124.405,
+            "updatedAt": 1721690124.405,
+            "filename": "1721690124"
+        },
+        {
             "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
             "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
             "media": "netpage",
