@@ -2381,10 +2381,10 @@
                 "cognitivetraining"
             ],
             "short": {
-                "en": "e",
-                "ja": "e"
+                "en": "Social interaction improves cognitive training for dementia",
+                "ja": "社交的インタラクションは認知症にとって認知トレーニングの質を向上させる"
             },
-            "importance": 3,
+            "importance": 4,
             "hasPage": true,
             "createdAt": 1721748611.123,
             "updatedAt": 1721748611.123,
