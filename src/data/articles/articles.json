@@ -365,11 +365,11 @@
                 "dementia"
             ],
             "short": {
-                "en": "e",
-                "ja": "e"
+                "en": "cognitive training improves UNDERSTANDING of language commands",
+                "ja": "認知トレーニングにより言語命令の理解を向上させる"
             },
-            "importance": 3,
-            "hasPage": true,
+            "importance": 1,
+            "hasPage": false,
             "createdAt": 1721714236.167,
             "updatedAt": 1721714236.167,
             "filename": "1721714236"
