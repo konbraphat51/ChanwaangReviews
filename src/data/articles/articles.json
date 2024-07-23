@@ -2373,6 +2373,24 @@
             "filename": "1718009273"
         },
         {
+            "title": "Assessment of Cognitive Training & Social Interaction in People with Mild to Moderate Dementia: A Pilot Study",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/07317115.2019.1590489",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "cognitivetraining"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721748611.123,
+            "updatedAt": 1721748611.123,
+            "filename": "1721748611"
+        },
+        {
             "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
             "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
             "media": "academic",
