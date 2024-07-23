@@ -737,6 +737,23 @@
             "filename": "1720656080"
         },
         {
+            "title": "ゲームスタディーインタビューズver7 吉田寛著書「デジタルゲーム研究」について鼎談",
+            "link": "https://digrajapan.org/?page_id=10028",
+            "media": "netpage",
+            "tags": [
+                "game"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1721695240.425,
+            "updatedAt": 1721695240.425,
+            "filename": "1721695240"
+        },
+        {
             "title": "【Git】同じコンフリクト解消を繰り返している人に教えたい「git rerere」",
             "link": "https://qiita.com/_ken_/items/64856e91e062b325590f",
             "media": "netpage",
