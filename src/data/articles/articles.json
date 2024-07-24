@@ -2480,6 +2480,24 @@
             "createdAt": 1719465110.884,
             "updatedAt": 1719465110.884,
             "filename": "1719465110"
+        },
+        {
+            "title": "Reading Aloud and Arithmetic Calculation Improve Frontal Function of People With Dementia",
+            "link": "https://academic.oup.com/biomedgerontology/article/60/3/380/630607bygueston24July2024",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "cognitivetraining"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721795817.882,
+            "updatedAt": 1721795817.882,
+            "filename": "1721795817"
         }
     ]
 }
