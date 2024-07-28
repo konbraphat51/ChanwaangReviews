@@ -477,6 +477,23 @@
             "filename": "1717649862"
         },
         {
+            "title": "Unityでのマイク録音３種盛り：レイテンシ比較",
+            "link": "https://qiita.com/TyounanMOTI/items/5306336823316b0b289c",
+            "media": "netpage",
+            "tags": [
+                "unity"
+            ],
+            "short": {
+                "en": "getting realtime data from microphone",
+                "ja": "マイクからリアルタイムにデータ取得"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1722184113.764,
+            "updatedAt": 1722184113.764,
+            "filename": "1722184113"
+        },
+        {
             "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
             "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
             "media": "netpage",
