@@ -1526,6 +1526,24 @@
             "filename": "1721275637"
         },
         {
+            "title": "Pythonで32bitfloatのwavファイルを再生する",
+            "link": "https://qiita.com/hotstaff/items/9c886e86cec42663b3f5",
+            "media": "netpage",
+            "tags": [
+                "python",
+                "wav"
+            ],
+            "short": {
+                "en": "make float wav",
+                "ja": "float型リストからwavデータを作成する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1722244362.113,
+            "updatedAt": 1722244362.113,
+            "filename": "1722244362"
+        },
+        {
             "title": "健康医療データの用語集 匿名化/匿名加工",
             "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
             "media": "netpage",
