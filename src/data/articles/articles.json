@@ -696,6 +696,23 @@
             "filename": "1720791948"
         },
         {
+            "title": "Git で、ファイルを管理対象から外して、追跡をやめる方法",
+            "link": "https://www-creators.com/archives/1748",
+            "media": "netpage",
+            "tags": [
+                "git"
+            ],
+            "short": {
+                "en": "how to stop tracking of git",
+                "ja": "gitの追跡を削除する方法"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1722566314.082,
+            "updatedAt": 1722566314.082,
+            "filename": "1722566314"
+        },
+        {
             "title": "Effects of a Cognitive Stimulation Program in Institutionalized Patients with Dementia",
             "link": "https://pubmed.ncbi.nlm.nih.gov/36579546/",
             "media": "academic",
