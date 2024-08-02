@@ -81,7 +81,8 @@
             "media": "academic",
             "tags": [
                 "dementia",
-                "cognitivetraining"
+                "cognitivetraining",
+                "reading"
             ],
             "short": {
                 "en": "Social interaction improves cognitive training for dementia",
@@ -90,7 +91,7 @@
             "importance": 4,
             "hasPage": true,
             "createdAt": 1721748611.123,
-            "updatedAt": 1721748611.123,
+            "updatedAt": 1722591368.103,
             "filename": "1721748611"
         },
         {
