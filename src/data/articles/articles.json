@@ -719,6 +719,24 @@
             "filename": "1717254032"
         },
         {
+            "title": "Eye Tracking to Evaluate the User eXperience (UX): Literature Review",
+            "link": "https://www.researchgate.net/publication/361335432_Eye_Tracking_to_Evaluate_the_User_eXperience_UX_Literature_Review",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "ux"
+            ],
+            "short": {
+                "en": "systematic review for eyetracking. poor insights",
+                "ja": "アイトラッキングのシステマティカルレビュー。洞察が乏しい"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1724304946.382,
+            "updatedAt": 1724304963.393,
+            "filename": "1724304963"
+        },
+        {
             "title": "The picture superiority effect in patients with Alzheimer’s disease and mild cognitive impairment",
             "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763351/#:~:text=The%20results%20confirmed%20that%20the,similar%20across%20the%20three%20groups.",
             "media": "academic",
