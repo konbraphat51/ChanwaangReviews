@@ -1963,9 +1963,9 @@
                 "ja": "アイトラッキングデータをNLP手法で生成"
             },
             "importance": 3,
-            "hasPage": true,
+            "hasPage": false,
             "createdAt": 1724400260.698,
-            "updatedAt": 1724400260.698,
+            "updatedAt": 1724401085.65,
             "filename": "1724400260"
         },
         {
