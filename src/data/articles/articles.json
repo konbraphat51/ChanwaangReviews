@@ -2629,6 +2629,24 @@
             "filename": "1720756464"
         },
         {
+            "title": "SP-EyeGAN: Generating Synthetic Eye Movement Data with Generative Adversarial Networks",
+            "link": "https://dl.acm.org/doi/10.1145/3588015.3588410",
+            "media": "academic",
+            "tags": [
+                "gan",
+                "eyetracking"
+            ],
+            "short": {
+                "en": "SOTA eye tracking data generation",
+                "ja": "SOTAアイトラッキングデータ生成"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724403171.946,
+            "updatedAt": 1724403171.946,
+            "filename": "1724403171"
+        },
+        {
             "title": "Benefits of embedding custom fonts",
             "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
             "media": "netpage",
