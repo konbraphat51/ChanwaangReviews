@@ -1851,6 +1851,25 @@
             "filename": "1720943771"
         },
         {
+            "title": "Utilising eye-tracking data in retailing field research: A practical guide",
+            "link": "https://www.sciencedirect.com/science/article/pii/S002243592400006X",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "guide",
+                "datascience"
+            ],
+            "short": {
+                "en": "eye tracking for physical store",
+                "ja": "実店舗のためのアイトラッキング調査"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1724372289.684,
+            "updatedAt": 1724372289.684,
+            "filename": "1724372289"
+        },
+        {
             "title": "UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games",
             "link": "https://dl.acm.org/doi/10.1145/3235765.3235780",
             "media": "academic",
