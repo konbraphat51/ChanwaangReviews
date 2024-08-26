@@ -997,6 +997,25 @@
             "filename": "1718325883"
         },
         {
+            "title": "Human Problem Solving: Sokoban Case Study",
+            "link": "https://www.fi.muni.cz/adaptivelearning/documents/sokoban.pdf",
+            "media": "academic",
+            "tags": [
+                "sokoban",
+                "game",
+                "difficulty"
+            ],
+            "short": {
+                "en": "state space evaluation of sokoban",
+                "ja": "倉庫番の状態空間からの難易度評価"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724652524.702,
+            "updatedAt": 1724652524.702,
+            "filename": "1724652524"
+        },
+        {
             "title": "Video game scenery analysis with eye tracking",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S1875952116000021",
             "media": "academic",
