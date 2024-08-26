@@ -2461,6 +2461,23 @@
             "filename": "1721714236"
         },
         {
+            "title": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
+            "link": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
+            "media": "academic",
+            "tags": [
+                "eyetracking"
+            ],
+            "short": {
+                "en": "scanpath SR found stragety of Raven’s Advanced Progressive Matrices",
+                "ja": "scanpath SRでRaven’s Advanced Progressive Matrices解法戦略が分かった"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724644453.41,
+            "updatedAt": 1724644453.41,
+            "filename": "1724644453"
+        },
+        {
             "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
             "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
             "media": "netpage",
