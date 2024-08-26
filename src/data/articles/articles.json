@@ -76,6 +76,23 @@
             "filename": "1719809081"
         },
         {
+            "title": "Unveiling Cognitive Strategies: Clustering Eye-Tracking Measures in Computerized Matrix-Reasoning Tasks",
+            "link": "https://osf.io/preprints/psyarxiv/yb237",
+            "media": "academic",
+            "tags": [
+                "eyetracking"
+            ],
+            "short": {
+                "en": "Classifying data of eye tracking for non-verbal task",
+                "ja": "非言語タスクの視線計測データの分類"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724641833.141,
+            "updatedAt": 1724641833.141,
+            "filename": "1724641833"
+        },
+        {
             "title": "javascriptの構文解析をしてみる",
             "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
             "media": "netpage",
