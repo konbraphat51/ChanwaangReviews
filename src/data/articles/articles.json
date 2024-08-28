@@ -1925,6 +1925,25 @@
             "filename": "1724372289"
         },
         {
+            "title": "Eye-tracking research on sensory and consumer science: A review, pitfalls and future directions",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S096399692100288X",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "consumerscience",
+                "review"
+            ],
+            "short": {
+                "en": "eye tracking studies review for food consumer science",
+                "ja": "食品消費者科学のための視線計測研究レビュー"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1724829146.405,
+            "updatedAt": 1724829146.405,
+            "filename": "1724829146"
+        },
+        {
             "title": "UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games",
             "link": "https://dl.acm.org/doi/10.1145/3235765.3235780",
             "media": "academic",
