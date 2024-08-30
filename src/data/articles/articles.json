@@ -1,6 +1,328 @@
 {
     "articles": [
         {
+            "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
+            "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "random"
+            ],
+            "short": {
+                "en": "Seeded random generator by JavaScript",
+                "ja": "JavaScriptでシード生成乱数クラス"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717488367.253,
+            "updatedAt": 1717488367.253,
+            "filename": "1717488367"
+        },
+        {
+            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "game",
+                "emotion",
+                "psychology"
+            ],
+            "short": {
+                "en": "emotional difference between mouse input and Kinect input",
+                "ja": "マウス入力とジェスチャ入力の感情的差異"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720005797.937,
+            "updatedAt": 1720005797.937,
+            "filename": "1720005797"
+        },
+        {
+            "title": "@super_bonochin ‘s tweet",
+            "link": "https://x.com/super_bonochin/status/1800888263751946330",
+            "media": "netpage",
+            "tags": [
+                "llm"
+            ],
+            "short": {
+                "en": "llm for system is for take fussy input and connect to rule-base",
+                "ja": "LLMはファジー入力をルールベースに繋げるためにつかうもの"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718317361.522,
+            "updatedAt": 1718317361.522,
+            "filename": "1718317361"
+        },
+        {
+            "title": "Self-Determination Theory — I Choose You!: The Limitations of Viewing Motivation in HCI Research Through the Lens of a Single Theory",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3505270.3558361",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "psychology",
+                "game",
+                "hci"
+            ],
+            "short": {
+                "en": "criticism against thoughtless usage of SDT. And list of alternatives ",
+                "ja": "思考停止SDT使用への批判、および代替案リスト"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719488748.564,
+            "updatedAt": 1719488748.564,
+            "filename": "1719488748"
+        },
+        {
+            "title": "Can a serious game-based cognitive training attenuate cognitive decline related to Alzheimer’s disease? Protocol for a randomized controlled trial",
+            "link": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04131-7",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "game",
+                "seriousgame",
+                "cognitive",
+                "training"
+            ],
+            "short": {
+                "en": "improve targeted ability",
+                "ja": "狙った能力を向上させる"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721271544.731,
+            "updatedAt": 1721271544.731,
+            "filename": "1721271544"
+        },
+        {
+            "title": "【1月23日追記】12月23日、24日に発生しました障害に関するご報告",
+            "link": "https://medium.com/skeb-jp/report-36b5608aa867",
+            "media": "netpage",
+            "tags": [
+                "cloud",
+                "container"
+            ],
+            "short": {
+                "en": "move from Heroku in 18 hours",
+                "ja": "Herokuから18時間で脱出したskeb事例"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1718437369.331,
+            "updatedAt": 1718437369.331,
+            "filename": "1718437369"
+        },
+        {
+            "title": "論文の読み方",
+            "link": "https://speakerdeck.com/kaityo256/how-to-survey",
+            "media": "netpage",
+            "tags": [
+                "paper",
+                "skill",
+                "academic",
+                "reading"
+            ],
+            "short": {
+                "en": "Read mainly the introduction and get a comprehensive view of the field",
+                "ja": "主にイントロダクションを読んで分野の包括的な位置付けを把握する"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717673521.473,
+            "updatedAt": 1717673521.473,
+            "filename": "1717673521"
+        },
+        {
+            "title": "Jeff Orkin - Goal-Oriented Action Planning (GOAP)",
+            "link": "https://web.archive.org/web/20230713022726/https://alumni.media.mit.edu/~jorkin/goap.html",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "gameai",
+                "characterai"
+            ],
+            "short": {
+                "en": "games and resources for GOAP",
+                "ja": "GOAPを実装しているゲーム、GOAPをまとめているリソースまとめ"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719312319.293,
+            "updatedAt": 1719312319.293,
+            "filename": "1719312319"
+        },
+        {
+            "title": "Reading Aloud and Arithmetic Calculation Improve Frontal Function of People With Dementia",
+            "link": "https://academic.oup.com/biomedgerontology/article/60/3/380/630607bygueston24July2024",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "cognitivetraining"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721795817.882,
+            "updatedAt": 1721795817.882,
+            "filename": "1721795817"
+        },
+        {
+            "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
+            "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "gameai",
+                "characterai",
+                "htn"
+            ],
+            "short": {
+                "en": "HTN in LEFT ALIVE (Square Enix)",
+                "ja": "HTN in LEFT ALIVE (Square Enix)"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1719312049.233,
+            "updatedAt": 1719312049.233,
+            "filename": "1719312049"
+        },
+        {
+            "title": "N 個の整数 A_1,A_2,…,A_N が与えられ、N⋅(N−1)/2 個すべての非順序対 (Ai,Aj) (i<j) に対するf(A_i, A_j)の和を求める問題",
+            "link": "https://shakayami.hatenablog.com/entry/2021/01/01/044946",
+            "media": "netpage",
+            "tags": [
+                "algorithm",
+                "complexity",
+                ""
+            ],
+            "short": {
+                "en": "Computing sum of N^2 pairs",
+                "ja": "N^2 ペアから総和計算"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717254032.169,
+            "updatedAt": 1717254032.169,
+            "filename": "1717254032"
+        },
+        {
+            "title": "GOAP - References",
+            "link": "https://www.youtube.com/playlist?list=PLZWmMt_TbeYdBZKvlsRuuOubPTTfPuZot",
+            "media": "netpage",
+            "tags": [
+                "goap"
+            ],
+            "short": {
+                "en": "basic GOAP explanation videos",
+                "ja": "GOAP説明youtubeプレイリスト"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718434221.972,
+            "updatedAt": 1718434221.972,
+            "filename": "1718434221"
+        },
+        {
+            "title": "Human Demonstrations are Generalizable Knowledge for Robots",
+            "link": "https://arxiv.org/abs/2312.02419v1",
+            "media": "academic",
+            "tags": [
+                "ai",
+                "llm",
+                "robotics",
+                "humandemonstration",
+                "knowledge"
+            ],
+            "short": {
+                "en": "Get every knowledge from a video",
+                "ja": "動画から全ての知識を把握する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718326632.599,
+            "updatedAt": 1718326632.599,
+            "filename": "1718326632"
+        },
+        {
+            "title": "C++ のムーブを理解する",
+            "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
+            "media": "netpage",
+            "tags": [
+                "cpp"
+            ],
+            "short": {
+                "en": "understanding std::move()",
+                "ja": "std::move()解説"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718272402.04,
+            "updatedAt": 1718272402.04,
+            "filename": "1718272402"
+        },
+        {
+            "title": "Learning, Attentional Control, and Action Video Games",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3461277/",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "dementia"
+            ],
+            "short": {
+                "en": "Cognitive function can be improved by enhancing the ability to learn new tasks",
+                "ja": "新しい課題を学習する能力を高めることで、認知機能を向上させることができる。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720922286.789,
+            "updatedAt": 1720922286.789,
+            "filename": "1720922286"
+        },
+        {
+            "title": "コンピュータの構成と設計 第5版 上",
+            "link": "https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%A8%E8%A8%AD%E8%A8%88-%E7%AC%AC5%E7%89%88-%E4%B8%8A-%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BBL-%E3%83%98%E3%83%8D%E3%82%B7%E3%83%BC/dp/4822298426",
+            "media": "book",
+            "tags": [
+                "computerarchitecture",
+                "hardware",
+                "basics"
+            ],
+            "short": {
+                "en": "text book of computer architecture ",
+                "ja": "コンピューターアーキテクチャ教科書"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1718251738.223,
+            "updatedAt": 1718251738.223,
+            "filename": "1718251738"
+        },
+        {
+            "title": "gameaipro.com",
+            "link": "http://www.gameaipro.com/",
+            "media": "netpage",
+            "tags": [
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "Total articles of game AI",
+                "ja": "ゲームAI技術全て"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1718058851.738,
+            "updatedAt": 1718058851.738,
+            "filename": "1718058851"
+        },
+        {
             "title": "脳トレゲームは認知機能を向上させることができるのか？",
             "link": "https://www.jstage.jst.go.jp/article/hbfr/34/3/34_335/_pdf/-char/ja",
             "media": "academic",
@@ -20,170 +342,545 @@
             "filename": "1721228378"
         },
         {
-            "title": "Unity向けの簡易的なVADライブラリの紹介",
-            "link": "https://synamon.hatenablog.com/entry/vad_unity",
+            "title": "JSAI 2024 behavior economics",
+            "link": "temp",
+            "media": "presentation",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716870888.632,
+            "updatedAt": 1720017905.335,
+            "filename": "1716870888"
+        },
+        {
+            "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
+            "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
+            "media": "academic",
+            "tags": [
+                "animation",
+                "game",
+                "motion",
+                "3d",
+                "3danimation",
+                "unread"
+            ],
+            "short": {
+                "en": "motion matching for game",
+                "ja": "motion mathcing"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1717727670.767,
+            "updatedAt": 1717727670.767,
+            "filename": "1717727670"
+        },
+        {
+            "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
+            "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
             "media": "netpage",
             "tags": [
                 "unity",
-                "vae",
-                "voice"
+                "ui"
             ],
             "short": {
-                "en": "Voice Activity Detection for Unity",
-                "ja": "Unity用の音声区間検出"
+                "en": "implementing Offscreen Indicator",
+                "ja": "Offcreen Indicatorの実装"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1723433489.237,
-            "updatedAt": 1723433489.237,
-            "filename": "1723433489"
+            "createdAt": 1719449317.167,
+            "updatedAt": 1719449317.167,
+            "filename": "1719449317"
         },
         {
-            "title": "C# オブジェクト生成時の初期化順序（コンストラクタ、変数初期化子）",
-            "link": "https://qiita.com/ohke/items/10aadafc727141f83087",
+            "title": "UniBT",
+            "link": "https://github.com/yoshidan/UniBT",
+            "media": "repository",
+            "tags": [
+                "unity",
+                "behaviortree",
+                "ai",
+                "library"
+            ],
+            "short": {
+                "en": "Free Unity library for visual scripting a behavior tree",
+                "ja": "ビヘイビアツリーをビジュアルスクリプティングする無料Unityライブラリ"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717661348.5,
+            "updatedAt": 1717661348.5,
+            "filename": "1717661348"
+        },
+        {
+            "title": "Git で、ファイルを管理対象から外して、追跡をやめる方法",
+            "link": "https://www-creators.com/archives/1748",
             "media": "netpage",
             "tags": [
-                "csharp"
+                "git"
             ],
             "short": {
-                "en": "order of operations when generating class instance",
-                "ja": "クラスインスタンス生成時の実行順序"
+                "en": "how to stop tracking of git",
+                "ja": "gitの追跡を削除する方法"
             },
-            "importance": 2,
+            "importance": 3,
             "hasPage": false,
-            "createdAt": 1720791948.187,
-            "updatedAt": 1720791948.187,
-            "filename": "1720791948"
+            "createdAt": 1722566314.082,
+            "updatedAt": 1722566314.082,
+            "filename": "1722566314"
         },
         {
-            "title": "Goal-Oriented Action Planning: Ten Years of AI Programming",
-            "link": "https://www.youtube.com/watch?v=gm7K68663rA",
-            "media": "presentation",
+            "title": "さぁ、UnityのTilemapを始めよう！5/8 ~Tilemap関連のコンポーネント編~",
+            "link": "https://qiita.com/RyotaMurohoshi/items/ae46343828634a2d3321",
+            "media": "netpage",
             "tags": [
-                "goap",
-                "game",
-                "gameai",
-                "characterai"
+                "unity"
             ],
             "short": {
-                "en": "implementation explanation of GOAP",
-                "ja": "GOAPの実装説明"
+                "en": "using Tilemap component",
+                "ja": "tilemapコンポーネントの扱い"
             },
-            "importance": 5,
+            "importance": 3,
             "hasPage": false,
-            "createdAt": 1719809081.219,
-            "updatedAt": 1719809081.219,
-            "filename": "1719809081"
+            "createdAt": 1721035923.917,
+            "updatedAt": 1721035923.917,
+            "filename": "1721035923"
         },
         {
-            "title": "Unveiling Cognitive Strategies: Clustering Eye-Tracking Measures in Computerized Matrix-Reasoning Tasks",
-            "link": "https://osf.io/preprints/psyarxiv/yb237",
+            "title": "SAIDO Learning as a Cognitive Intervention for Dementia Care: A Preliminary Study",
+            "link": "https://www.jamda.com/article/S1525-8610(14)00699-9/abstract",
             "media": "academic",
             "tags": [
-                "eyetracking"
+                "dementia",
+                "cognitivetraining"
             ],
             "short": {
-                "en": "Classifying data of eye tracking for non-verbal task",
-                "ja": "非言語タスクの視線計測データの分類"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1724641833.141,
-            "updatedAt": 1724641833.141,
-            "filename": "1724641833"
-        },
-        {
-            "title": "javascriptの構文解析をしてみる",
-            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "abstractsyntaxtree",
-                "compiler"
-            ],
-            "short": {
-                "en": "I didn't have to make a JS compiler by my self...",
-                "ja": "ASTを知りました"
+                "en": "implement SAIDO learning for US patients",
+                "ja": "米国患者へのSAIDO学習の適用"
             },
             "importance": 1,
             "hasPage": false,
-            "createdAt": 1717575625.365,
-            "updatedAt": 1717575625.365,
-            "filename": "1717575625"
+            "createdAt": 1721795198.012,
+            "updatedAt": 1721795198.012,
+            "filename": "1721795198"
         },
         {
-            "title": "[Unity] 衝突判定における、IsTriggerとRigidbodyとIsKinematicのパターンを実験",
-            "link": "https://qiita.com/sensuikan1973/items/055384e1145bbbe73e40#%E3%81%BE%E3%81%A8%E3%82%81",
+            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
+            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
             "media": "netpage",
             "tags": [
-                "unity",
-                "rigidbody"
+                "python",
+                "machinelearning",
+                "unread"
             ],
             "short": {
-                "en": "behaviour of Unity collision",
-                "ja": "Unity衝突判定の仕様"
+                "en": "crazy parameters tuning total manual",
+                "ja": "すごいパラメーターチューニング総説"
             },
-            "importance": 3,
+            "importance": 5,
             "hasPage": false,
-            "createdAt": 1719409516.289,
-            "updatedAt": 1719409516.289,
-            "filename": "1719409516"
+            "createdAt": 1716772088.488,
+            "updatedAt": 1716772088.488,
+            "filename": "1716772088"
         },
         {
-            "title": "F.E.A.Rにおけるゴール指向プランニング",
-            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
-            "media": "netpage",
+            "title": "数分間のエールを",
+            "link": "https://yell-movie2024.com/",
+            "media": "entertainment",
             "tags": [
-                "goap",
-                "game",
-                "ai",
-                "gameai"
+                "movie"
             ],
             "short": {
-                "en": "explanation of GOAP",
-                "ja": "GOAPの平易解説"
+                "en": "beautiful & passionate animation movie from Bandai Namco",
+                "ja": "バンダイナムコによる美しく情熱的な「モノづくり」映画"
             },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718082768.938,
-            "updatedAt": 1718082768.938,
-            "filename": "1718082768"
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1719203402.417,
+            "updatedAt": 1719203402.417,
+            "filename": "1719203402"
         },
         {
-            "title": "AI系の研究・開発に関する情報収集元を紹介",
-            "link": "https://qiita.com/YutaroOgawa2/items/01dce7b2ffab79fc5fcc",
-            "media": "netpage",
-            "tags": [
-                "paper"
-            ],
-            "short": {
-                "en": "how to collect AI papers",
-                "ja": "松尾研のAI論文収集法"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1721487347.566,
-            "updatedAt": 1721487347.566,
-            "filename": "1721487347"
-        },
-        {
-            "title": "Telling Eyes: Linking Eye-Tracking Indicators to Affective Variables",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3582437.3582458",
+            "title": "Effects of Serious Games in Older Adults With Mild Cognitive Impairment",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38810993/",
             "media": "academic",
             "tags": [
                 "game",
-                "eyetracking",
-                "vr"
+                "seriousgame",
+                "mci",
+                "dementia",
+                "survey"
             ],
             "short": {
-                "en": "relation between confusion/frustration and eye-tracking in VR Portal",
-                "ja": "VR Portal中での混乱・イライラとアイトラッキングの相関"
+                "en": "survey: game has more cognitive improvement than CoTras",
+                "ja": "MCI(軽度認知症)にとってはCoTrasよりゲームの方が認知トレーニングになる"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720886892.371,
+            "updatedAt": 1720886892.371,
+            "filename": "1720886892"
+        },
+        {
+            "title": "The time course of learning a visual skill",
+            "link": "https://www.nature.com/articles/365250a0",
+            "media": "academic",
+            "tags": [
+                "learning",
+                "psychology"
+            ],
+            "short": {
+                "en": "first learning is generalization, but later learning is task-specific",
+                "ja": "最初の学習は汎化であるが、後の学習は課題固有である"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720924540.16,
+            "updatedAt": 1720924540.16,
+            "filename": "1720924540"
+        },
+        {
+            "title": "Unity: Order of execution for event functions",
+            "link": "https://docs.unity3d.com/Manual/ExecutionOrder.html",
+            "media": "netpage",
+            "tags": [
+                "unity"
+            ],
+            "short": {
+                "en": "life cycle order of Unity event functions",
+                "ja": "Unityのイベント関数発火順序"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1721495818.439,
+            "updatedAt": 1721495818.439,
+            "filename": "1721495818"
+        },
+        {
+            "title": "Voice Trigger System for Siri",
+            "link": "https://machinelearning.apple.com/research/voice-trigger",
+            "media": "netpage",
+            "tags": [
+                "voicetrigger",
+                "interaction",
+                "ai"
+            ],
+            "short": {
+                "en": "\"hey siri\" voice trigger",
+                "ja": "\"hey siri\" voice trigger"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1723598306.253,
-            "updatedAt": 1723598306.253,
-            "filename": "1723598306"
+            "createdAt": 1722060168.537,
+            "updatedAt": 1722060168.537,
+            "filename": "1722060168"
+        },
+        {
+            "title": "SP-EyeGAN: Generating Synthetic Eye Movement Data with Generative Adversarial Networks",
+            "link": "https://dl.acm.org/doi/10.1145/3588015.3588410",
+            "media": "academic",
+            "tags": [
+                "gan",
+                "eyetracking"
+            ],
+            "short": {
+                "en": "SOTA eye tracking data generation",
+                "ja": "SOTAアイトラッキングデータ生成"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724403171.946,
+            "updatedAt": 1724403171.946,
+            "filename": "1724403171"
+        },
+        {
+            "title": "Exploring HTN Planners through Example",
+            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "gameai",
+                "characterai",
+                "ai",
+                "game"
+            ],
+            "short": {
+                "en": "HTN full explanation by Game AI Pro",
+                "ja": "Game AI ProによるHTN完全解説"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719444162.387,
+            "updatedAt": 1719662216.299,
+            "filename": "1719444162"
+        },
+        {
+            "title": "JSAI2024 affective1",
+            "link": "e",
+            "media": "presentation",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716947183.371,
+            "updatedAt": 1720017881.247,
+            "filename": "1716947183"
+        },
+        {
+            "title": "Is it a sense of autonomy, control, or attachment? Exploring the effects of in-game customization on game enjoyment",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563215001090",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "game",
+                "psychology",
+                "character",
+                "charactercustomization"
+            ],
+            "short": {
+                "en": "SDT discussion on character customization. \"games can appeal to individuals through the senses of autonomy, control, and attachment to a character; the first two prove more critical\"",
+                "ja": "キャラクターのカスタマイズに関するSDTの議論。「ゲームは、自律性、制御性、キャラクターへの愛着といった感覚を通じて個人に訴えかけることができる。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1719201433.245,
+            "updatedAt": 1719469839.688,
+            "filename": "1719201433"
+        },
+        {
+            "title": "New conceptualizations of practice: Common principles in three paradigms suggest new concepts for training.",
+            "link": "https://psycnet.apa.org/record/1993-00369-001",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "learning"
+            ],
+            "short": {
+                "en": "General-oriented tasks need to include fewer tasks and broader variety of stimuli",
+                "ja": "一般志向のタスクは、より少ないタスクと、より多様な刺激を含む必要がある。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720924884.852,
+            "updatedAt": 1720924884.852,
+            "filename": "1720924884"
+        },
+        {
+            "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+            "link": "https://arxiv.org/abs/2312.10997",
+            "media": "academic",
+            "tags": [
+                "rag",
+                "survey"
+            ],
+            "short": {
+                "en": "survey of RAG (2024/3)",
+                "ja": "RAGのサーベイ (2024/3)"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1718009136.827,
+            "updatedAt": 1718009136.827,
+            "filename": "1718009136"
+        },
+        {
+            "title": "UnityのStart()の継承、オーバーライドのメモ",
+            "link": "https://siuncyclone.hatenablog.com/entry/2018/10/11/124547",
+            "media": "netpage",
+            "tags": [
+                "unity"
+            ],
+            "short": {
+                "en": "Start() will automatically overwritten",
+                "ja": "Start()は自動的にオーバーライドされる"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1721497841.506,
+            "updatedAt": 1721497841.506,
+            "filename": "1721497841"
+        },
+        {
+            "title": "Utilising eye-tracking data in retailing field research: A practical guide",
+            "link": "https://www.sciencedirect.com/science/article/pii/S002243592400006X",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "guide",
+                "datascience"
+            ],
+            "short": {
+                "en": "eye tracking for physical store",
+                "ja": "実店舗のためのアイトラッキング調査"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1724372289.684,
+            "updatedAt": 1724397551.237,
+            "filename": "1724372289"
+        },
+        {
+            "title": "Dementia Games: A Literature Review of Dementia-Related Serious Games",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-642-40790-1_2",
+            "media": "academic",
+            "tags": [
+                "game",
+                "dementia",
+                "seriousgame",
+                "survey"
+            ],
+            "short": {
+                "en": "2013 survey of demensia games",
+                "ja": "認知症対策ゲームの2013サーベイ論文"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720798359.263,
+            "updatedAt": 1720798359.263,
+            "filename": "1720798359"
+        },
+        {
+            "title": "Control vs. Complexity in Games: Comparing Arousal in 2D Game Prototypes",
+            "link": "https://www.researchgate.net/publication/236230118_Control_vs_complexity_in_games_Comparing_arousal_in_2D_game_prototypes",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "input",
+                "control",
+                "emotion"
+            ],
+            "short": {
+                "en": "more complex game simulation, more arousal",
+                "ja": "ゲーむ状況が複雑になるほど、arousal上昇"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720016327.948,
+            "updatedAt": 1720016327.948,
+            "filename": "1720016327"
+        },
+        {
+            "title": "JSAI2024 gameAI a",
+            "link": "t",
+            "media": "presentation",
+            "tags": [
+                "editing"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716882783.294,
+            "updatedAt": 1720017893.232,
+            "filename": "1716882783"
+        },
+        {
+            "title": "Repository and Unit of Work in Domain-Driven Design",
+            "link": "https://medium.com/@ruben.alapont/repository-and-unit-of-work-in-domain-driven-design-cc5638780dc3",
+            "media": "netpage",
+            "tags": [
+                "ddd",
+                "repositorypattern",
+                "onionarchitecture"
+            ],
+            "short": {
+                "en": "repository pattern in DDD ",
+                "ja": "ドメイン駆動設計におけるレポジトリパターン"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718186442.401,
+            "updatedAt": 1718186442.401,
+            "filename": "1718186442"
+        },
+        {
+            "title": "Curvy Digital Marketing Designs: Virtual Elements with Rounded Shapes Enhance Online Click-Through Rates",
+            "link": "https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad078/7470747?redirectedFrom=fulltext",
+            "media": "academic",
+            "tags": [
+                "design",
+                "eyetracking",
+                "ctr"
+            ],
+            "short": {
+                "en": "round shape is better than sharp shape",
+                "ja": "丸は角より良い"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724406717.207,
+            "updatedAt": 1724406717.207,
+            "filename": "1724406717"
+        },
+        {
+            "title": "UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games",
+            "link": "https://dl.acm.org/doi/10.1145/3235765.3235780",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "psychology",
+                "game",
+                "evaluation",
+                "assessment",
+                "upeq"
+            ],
+            "short": {
+                "en": "Questionnaire made by SDT",
+                "ja": "SDTに基づいた質問紙"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1720040135.002,
+            "updatedAt": 1720040135.002,
+            "filename": "1720040135"
+        },
+        {
+            "title": "Removing brakes on adult brain plasticity: from molecular to behavioral interventions",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/21068299/",
+            "media": "academic",
+            "tags": [
+                "dementia"
+            ],
+            "short": {
+                "en": "\"given appropriate training, the adult brain has the capacity for far more substantial plasticity than previously believed\"",
+                "ja": "適切な訓練を受ければ、成人の脳はこれまで信じられていたよりもはるかに大幅な可塑性を発揮する。"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1720923411.11,
+            "updatedAt": 1720923411.11,
+            "filename": "1720923411"
+        },
+        {
+            "title": "Exploring HTN Planners through Example",
+            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
+            "media": "netpage",
+            "tags": [
+                "unread"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718032796.794,
+            "updatedAt": 1718032796.794,
+            "filename": "1718032796"
         },
         {
             "title": "LLMを活用したシンボリックGame AIの構築",
@@ -209,6 +906,842 @@
             "filename": "1719217863"
         },
         {
+            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
+            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "affordance",
+                "planning"
+            ],
+            "short": {
+                "en": "thesis that attacked to affordance based planning",
+                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717451026.36,
+            "updatedAt": 1717451026.36,
+            "filename": "1717451026"
+        },
+        {
+            "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
+            "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
+            "media": "academic",
+            "tags": [
+                "game",
+                "education"
+            ],
+            "short": {
+                "en": "\"Games can increase critical thinking, support analysis and synthesis of information, reuse of knowledge in new situations\"",
+                "ja": "「ゲームは批判的思考を高め、情報の分析と統合をサポートし、新しい状況での知識の再利用を可能にする。」"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720014653.772,
+            "updatedAt": 1720014653.772,
+            "filename": "1720014653"
+        },
+        {
+            "title": "Stories from the History of Czechoslovakia, A Serious Game for Teaching History of the Czech Lands in the 20th Century – Notes on Design Concepts and Design Process",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33542-6_6",
+            "media": "academic",
+            "tags": [
+                "game",
+                "education"
+            ],
+            "short": {
+                "en": "games \"add significant value to the instructional effectiveness of different domains\"",
+                "ja": "ゲームは\"異なる領域の指導効果に大きな価値を与える\""
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720014749.434,
+            "updatedAt": 1720014749.434,
+            "filename": "1720014749"
+        },
+        {
+            "title": "東京都議会で議論されている論点はどのようなものか。どのような質問が出ているのか。",
+            "link": "https://takahiroanno2024.github.io/tokyoai-analysis/20240615-tokyo-metropolitan-assembly/",
+            "media": "netpage",
+            "tags": [
+                "nlp",
+                "clustering",
+                "topic"
+            ],
+            "short": {
+                "en": "Very proper nlp analysis",
+                "ja": "すごく上手なNLP分析"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719052982.209,
+            "updatedAt": 1719052982.209,
+            "filename": "1719052982"
+        },
+        {
+            "title": "The picture superiority effect in patients with Alzheimer’s disease and mild cognitive impairment",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763351/#:~:text=The%20results%20confirmed%20that%20the,similar%20across%20the%20three%20groups.",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "interface",
+                "ui"
+            ],
+            "short": {
+                "en": "\"aging can cause difficulties to find objects in visually complex scenes\"",
+                "ja": "\"加齢により、視覚的に複雑なシーンで対象物を見つけることが困難になることがある。\""
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1720943905.387,
+            "updatedAt": 1720943905.387,
+            "filename": "1720943905"
+        },
+        {
+            "title": "The Effect of a Narrative Intervention Program for People Living With Dementia",
+            "link": "http://dx.doi.org/10.1037/pne0000141",
+            "media": "academic",
+            "tags": [
+                "dementia"
+            ],
+            "short": {
+                "en": "give storytelling to dementia patients improve cognitive skills",
+                "ja": "認知症患者への読み聞かせは認知機能向上に有効"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1721792076.848,
+            "updatedAt": 1721792076.848,
+            "filename": "1721792076"
+        },
+        {
+            "title": "Head Firstデザインパターン 第2版",
+            "link": "https://www.oreilly.co.jp/books/9784873119762/",
+            "media": "book",
+            "tags": [
+                "designpattern",
+                "programming",
+                "coding",
+                "softwarearchitecture"
+            ],
+            "short": {
+                "en": "Much of design patterns",
+                "ja": "デザインパターンいっぱい"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719553163.347,
+            "updatedAt": 1719553163.347,
+            "filename": "1719553163"
+        },
+        {
+            "title": "「次世代医療基盤法」とは",
+            "link": "https://www8.cao.go.jp/iryou/gaiyou/pdf/seidonogaiyou.pdf",
+            "media": "netpage",
+            "tags": [
+                "medicaldata",
+                "personaldata"
+            ],
+            "short": {
+                "en": "whole explanation of The Next Generation Medical Infrastructure Act　",
+                "ja": "次世代医療基盤法の概要説明"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1720447555.297,
+            "updatedAt": 1720447555.297,
+            "filename": "1720447555"
+        },
+        {
+            "title": "Training Configuration File",
+            "link": "https://unity-technologies.github.io/ml-agents/Training-Configuration-File/",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "mlagents",
+                "game",
+                "gameai"
+            ],
+            "short": {
+                "en": "each config explanation for mlagents",
+                "ja": "mlagentsのコンフィグ各項説明"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1720656080.961,
+            "updatedAt": 1720656080.961,
+            "filename": "1720656080"
+        },
+        {
+            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "humanity",
+                "characterai"
+            ],
+            "short": {
+                "en": "キャラクターAIにおける人間らしさの文献調査",
+                "ja": "What is \"humanity\" for character AI?"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717433375.173,
+            "updatedAt": 1717433375.173,
+            "filename": "1717433375"
+        },
+        {
+            "title": "F.E.A.Rにおけるゴール指向プランニング",
+            "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai"
+            ],
+            "short": {
+                "en": "explanation of GOAP",
+                "ja": "GOAPの平易解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718082768.938,
+            "updatedAt": 1718082768.938,
+            "filename": "1718082768"
+        },
+        {
+            "title": "JavaScriptにおける連想配列のforループ操作",
+            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
+            "media": "netpage",
+            "tags": [
+                "javascript"
+            ],
+            "short": {
+                "en": "foreach of object in javascript",
+                "ja": "javascriptにおける連想配列のforeach"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1716439717.204,
+            "updatedAt": 1716439717.204,
+            "filename": "1716439717"
+        },
+        {
+            "title": "Improving User's Sense of Participation in Robot-Driven Dialogue",
+            "link": "https://arxiv.org/abs/2210.09746",
+            "media": "academic",
+            "tags": [
+                "robotics",
+                "dialogue",
+                "hci"
+            ],
+            "short": {
+                "en": "Said \"user's sense of participation in dialogue is reduced because the degree of freedom in timing and content of speech is limited\" but no evidence",
+                "ja": "「ロボットによる会話は自由度が低いので当事者感が低い」とされているが、この記述に根拠がない"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1719200109.975,
+            "updatedAt": 1719200109.975,
+            "filename": "1719200109"
+        },
+        {
+            "title": "Comparing three methods of computerised cognitive training for older adults with subclinical cognitive decline",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26674122/",
+            "media": "academic",
+            "tags": [
+                "game",
+                "dementia",
+                "seriousgame"
+            ],
+            "short": {
+                "en": "\"computerised cognitive training may offer the most benefit when incorporated into a therapeutic milieu\"",
+                "ja": "\"コンピュータを用いた認知トレーニングは、独立して行うよりトレーニングの一環に組み入れられると、最大の効果が得られる可能性がある。\""
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720928786.994,
+            "updatedAt": 1720928786.994,
+            "filename": "1720928786"
+        },
+        {
+            "title": "Emotion in Human–Computer Interaction",
+            "link": "https://www.researchgate.net/publication/242107189_Emotion_in_Human-Computer_Interaction",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "emotion",
+                "psychology",
+                "total"
+            ],
+            "short": {
+                "en": "total explanation of emotion in HCI",
+                "ja": "HCIにおける感情総説"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719069210.137,
+            "updatedAt": 1719069210.137,
+            "filename": "1719069210"
+        },
+        {
+            "title": "Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI",
+            "link": "https://dl.acm.org/doi/10.1145/2254556.2254580",
+            "media": "academic",
+            "tags": [
+                "game",
+                "hci",
+                "interface",
+                "input"
+            ],
+            "short": {
+                "en": "\"Lesson learnt with this experience suggests to avoid, when possible, the classic window/icon/mouse interaction for experimenting, obviously for appropriate tasks (i.e., not keyboard intensive, etc.), new gestures and new forms of physical commands.\"",
+                "ja": "\"この経験から得られた教訓は、可能な限り古典的なウィンドウ／アイコン／マウスのインタラクションを避け、明らかに適切なタスク（キーボードを多用しないなど）、新しいジェスチャー、新しい形式の物理的コマンドを実験することを示唆している。\""
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720006853.74,
+            "updatedAt": 1720006853.74,
+            "filename": "1720006853"
+        },
+        {
+            "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
+            "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
+            "media": "netpage",
+            "tags": [
+                "github",
+                "google",
+                "seo"
+            ],
+            "short": {
+                "en": "making a github repository hit in a google search",
+                "ja": "githubレポジトリをGoogle検索にヒットさせる"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717489073.76,
+            "updatedAt": 1717489073.76,
+            "filename": "1717489073"
+        },
+        {
+            "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
+            "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "unread",
+                "chi",
+                "metaresearch"
+            ],
+            "short": {
+                "en": "reject the search for \"solutions\"",
+                "ja": "私たちは、「解決策」の探求を明確に拒否する、さまざまな戦略を検討する。"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716811465.45,
+            "updatedAt": 1716811465.45,
+            "filename": "1716811465"
+        },
+        {
+            "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
+            "media": "academic",
+            "tags": [
+                "sdt",
+                "game",
+                "psychology",
+                "survey"
+            ],
+            "short": {
+                "en": "survey on how game researchers using SDT",
+                "ja": "ゲーム研究者がどのようにSDTを使っているのかのサーベイ"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719968029.727,
+            "updatedAt": 1719968029.727,
+            "filename": "1719968029"
+        },
+        {
+            "title": "Video game scenery analysis with eye tracking",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1875952116000021",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "game",
+                "reading"
+            ],
+            "short": {
+                "en": "methology of game user analysis by eye tracking",
+                "ja": "アイトラッキングを用いたゲームユーザー分析の方法論"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1722570664.293,
+            "updatedAt": 1722591276.335,
+            "filename": "1722570664"
+        },
+        {
+            "title": "Goal-Oriented Action Planning: Ten Years of AI Programming",
+            "link": "https://www.youtube.com/watch?v=gm7K68663rA",
+            "media": "presentation",
+            "tags": [
+                "goap",
+                "game",
+                "gameai",
+                "characterai"
+            ],
+            "short": {
+                "en": "implementation explanation of GOAP",
+                "ja": "GOAPの実装説明"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719809081.219,
+            "updatedAt": 1719809081.219,
+            "filename": "1719809081"
+        },
+        {
+            "title": "Generative Modeling of Synthetic Eye-Tracking Data: NLP-Based Approach with Recurrent Neural Networks",
+            "link": "https://www.researchgate.net/publication/346550955_Generative_Modeling_of_Synthetic_Eye-Tracking_Data_NLP-Based_Approach_with_Recurrent_Neural_Networks",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "rnn"
+            ],
+            "short": {
+                "en": "generating eye tracking data by NLP method",
+                "ja": "アイトラッキングデータをNLP手法で生成"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724400260.698,
+            "updatedAt": 1724401085.65,
+            "filename": "1724400260"
+        },
+        {
+            "title": "AI系の研究・開発に関する情報収集元を紹介",
+            "link": "https://qiita.com/YutaroOgawa2/items/01dce7b2ffab79fc5fcc",
+            "media": "netpage",
+            "tags": [
+                "paper"
+            ],
+            "short": {
+                "en": "how to collect AI papers",
+                "ja": "松尾研のAI論文収集法"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1721487347.566,
+            "updatedAt": 1721487347.566,
+            "filename": "1721487347"
+        },
+        {
+            "title": "Unity向けの簡易的なVADライブラリの紹介",
+            "link": "https://synamon.hatenablog.com/entry/vad_unity",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "vae",
+                "voice"
+            ],
+            "short": {
+                "en": "Voice Activity Detection for Unity",
+                "ja": "Unity用の音声区間検出"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1723433489.237,
+            "updatedAt": 1723433489.237,
+            "filename": "1723433489"
+        },
+        {
+            "title": "How to Use HTML to Open a Link in a New Tab",
+            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
+            "media": "netpage",
+            "tags": [
+                "html"
+            ],
+            "short": {
+                "en": "hyperlink opening new tab",
+                "ja": "新規タブを開くハイパーリンク"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716517146.142,
+            "updatedAt": 1716517146.142,
+            "filename": "1716517146"
+        },
+        {
+            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
+            "media": "academic",
+            "tags": [
+                "game",
+                "hci",
+                "input",
+                "emotion",
+                "psychology"
+            ],
+            "short": {
+                "en": "improvement of 2015 one. Kinetics vs. Mouse",
+                "ja": "2015のものの改良。Kinetics vs. Mouse"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720012012.39,
+            "updatedAt": 1720012012.39,
+            "filename": "1720012012"
+        },
+        {
+            "title": "iMotion",
+            "link": "https://www.physio-tech.co.jp/pdf/iMotions/iMotions.pdf",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "biosignal"
+            ],
+            "short": {
+                "en": "integrated software for biosignal",
+                "ja": "生体信号解統合ソフトウェア"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1716446715.223,
+            "updatedAt": 1716446715.223,
+            "filename": "1716446715"
+        },
+        {
+            "title": "Designing care environments for persons with Alzheimer's disease: visuoperceptual considerations",
+            "link": "https://www.researchgate.net/publication/231918985_Designing_care_environments_for_persons_with_Alzheimer's_disease_Visuo-perceptual_considerations",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "interface"
+            ],
+            "short": {
+                "en": "\"bright warm colors such as red, orange and yellow are best seen than others by elderly persons\"",
+                "ja": "\"赤、オレンジ、黄色などの明るい暖色は、高齢者には他の色よりもよく見える。\""
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1720943771.347,
+            "updatedAt": 1720943771.347,
+            "filename": "1720943771"
+        },
+        {
+            "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
+            "link": "https://qiita.com/hmkz/items/c635c0d309f68b5919e4",
+            "media": "netpage",
+            "tags": [
+                "academic",
+                "submission",
+                "paper"
+            ],
+            "short": {
+                "en": "taking advantage of CMT",
+                "ja": "CMT攻略"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1717304384.333,
+            "updatedAt": 1717304384.333,
+            "filename": "1717304384"
+        },
+        {
+            "title": "Effects of a Cognitive Stimulation Program in Institutionalized Patients with Dementia",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36579546/",
+            "media": "academic",
+            "tags": [
+                "dementia"
+            ],
+            "short": {
+                "en": "cognitive training improves UNDERSTANDING of language commands",
+                "ja": "認知トレーニングにより言語命令の理解を向上させる"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1721714236.167,
+            "updatedAt": 1721714236.167,
+            "filename": "1721714236"
+        },
+        {
+            "title": "Question: Reward Per Step or at End? #242",
+            "link": "https://github.com/Unity-Technologies/ml-agents/issues/242",
+            "media": "netpage",
+            "tags": [
+                "mlagents",
+                "rl",
+                "rewards"
+            ],
+            "short": {
+                "en": "better giving rewards at last, not for every single step",
+                "ja": "毎フレーム報酬を与えるより、まとめて報酬を与えたほうがいい"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720716711.97,
+            "updatedAt": 1720716711.97,
+            "filename": "1720716711"
+        },
+        {
+            "title": "ビッグデータが拓く医療AI",
+            "link": "https://www.maruzen-publishing.co.jp/item/b304316.html",
+            "media": "book",
+            "tags": [
+                "medicaldata",
+                "ethics",
+                "personaldata"
+            ],
+            "short": {
+                "en": "AI for medicine. Including ethics",
+                "ja": "医療のためのAI。倫理に関する言及含む"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720307302.984,
+            "updatedAt": 1720307302.984,
+            "filename": "1720307302"
+        },
+        {
+            "title": "C#での「?(クエスチョンマーク)」の意味",
+            "link": "https://nabelog.org/381/#toc1",
+            "media": "netpage",
+            "tags": [
+                "csharp",
+                "syntax"
+            ],
+            "short": {
+                "en": "meaning of ? in C#",
+                "ja": "C#における?の意味"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719823613.29,
+            "updatedAt": 1719823613.29,
+            "filename": "1719823613"
+        },
+        {
+            "title": "The influence of social interaction on cognitive training for schizophrenia",
+            "link": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2012.00140/full",
+            "media": "academic",
+            "tags": [
+                "cognitivetraining",
+                "languageinteraction"
+            ],
+            "short": {
+                "en": "review of social interaction for cognitive training for schizophrenia",
+                "ja": "統合失調症への認知トレーニングにおける社交的インタラクションの効果レビュー"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1721690124.405,
+            "updatedAt": 1721690124.405,
+            "filename": "1721690124"
+        },
+        {
+            "title": "ゲームスタディーインタビューズver7 吉田寛著書「デジタルゲーム研究」について鼎談",
+            "link": "https://digrajapan.org/?page_id=10028",
+            "media": "netpage",
+            "tags": [
+                "game"
+            ],
+            "short": {
+                "en": "e",
+                "ja": "e"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1721695240.425,
+            "updatedAt": 1721695240.425,
+            "filename": "1721695240"
+        },
+        {
+            "title": "新・動機づけ研究の最前線 （単行本）",
+            "link": "https://www.kitaohji.com/book/b580241.html",
+            "media": "book",
+            "tags": [
+                "psychology",
+                "motivation",
+                ""
+            ],
+            "short": {
+                "en": "Japanese text book for SDT and other motivation theories",
+                "ja": "SDTや動機に関する日本語教科書"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1719539032.467,
+            "updatedAt": 1719539032.467,
+            "filename": "1719539032"
+        },
+        {
+            "title": "What Does That ?-Block Do? Learning Latent Causal Affordances from Mario Play Traces",
+            "link": "https://cdn.aaai.org/ocs/ws/ws0315/15115-68462-1-PB.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "ai",
+                "gameai",
+                "analyze",
+                "affordance",
+                "",
+                "gameplay",
+                ""
+            ],
+            "short": {
+                "en": "Learn and cluster the affordance of mario game object",
+                "ja": "マリオのオブジェクトのアフォーダンスを学習・クラスタリングする"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718325883.113,
+            "updatedAt": 1718325883.113,
+            "filename": "1718325883"
+        },
+        {
+            "title": "Emotion Arousal Assessment Based on Multimodal Physiological Signals for Game Users",
+            "link": "https://ieeexplore.ieee.org/document/10093978",
+            "media": "academic",
+            "tags": [
+                "game",
+                "emotion",
+                "psychology",
+                "assessment",
+                "physiological",
+                "biosignal"
+            ],
+            "short": {
+                "en": "assess emotion of game users from biosignal and try get targeted emotion",
+                "ja": "生体信号からゲームプレイヤーの感情を推定し、狙った感情への誘導の試み"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1720016976.643,
+            "updatedAt": 1720016976.643,
+            "filename": "1720016976"
+        },
+        {
+            "title": "acorn",
+            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
+            "media": "repository",
+            "tags": [
+                "javascript",
+                "parser",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "Javascript parser library",
+                "ja": "Javascript parser library"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717577391.578,
+            "updatedAt": 1717577391.578,
+            "filename": "1717577391"
+        },
+        {
+            "title": "Getで始まる名前を関数につける前に読む記事",
+            "link": "https://zenn.dev/blue_jam/articles/2a347b36b43d59",
+            "media": "netpage",
+            "tags": [
+                "programming",
+                "coding"
+            ],
+            "short": {
+                "en": "Function name other than `Get`",
+                "ja": "Get以外につけるべき関数名"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719580997.086,
+            "updatedAt": 1719580997.086,
+            "filename": "1719580997"
+        },
+        {
+            "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
+            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "heartrate"
+            ],
+            "short": {
+                "en": "examine stress for player while playing game",
+                "ja": "ゲーム中のストレスを測量"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1717310157.891,
+            "updatedAt": 1717310157.891,
+            "filename": "1717310157"
+        },
+        {
+            "title": "The AI of Horizon Zero Dawn",
+            "link": "https://www.guerrilla-games.com/media/News/Files/The-AI-of-Horizon-Zero-Dawn.pdf",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "game",
+                "gameai",
+                "characterai",
+                "ai"
+            ],
+            "short": {
+                "en": "HTN implementation of Guerrilla Games",
+                "ja": "ゲリラゲームズによるHTN実装"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719312153.818,
+            "updatedAt": 1719312153.818,
+            "filename": "1719312153"
+        },
+        {
+            "title": "Cognitive Performance in Senile Dementia of the Alzheimer’s Type: The Kitchen Task Assessment",
+            "link": "https://research.aota.org/ajot/article-abstract/47/5/431/3300/Cognitive-Performance-in-Senile-Dementia-of-the?redirectedFrom=PDF",
+            "media": "academic",
+            "tags": [
+                "dementia"
+            ],
+            "short": {
+                "en": "AD patients that can be cognitively effective requires specialized training that will focus on all their four cognitive spheres: memory, planning skills, initiative and perseverance",
+                "ja": "AD患者が認知的に効果的であるためには、4つの認知領域（記憶力、計画力、自発性、忍耐力）すべてに焦点を当てた専門的なトレーニングが必要である。"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1720940369.665,
+            "updatedAt": 1720940369.665,
+            "filename": "1720940369"
+        },
+        {
+            "title": "The Effects of Home-Based Cognitive Training on Verbal Working Memory and Language Comprehension in Older Adulthood",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5550674/",
+            "media": "academic",
+            "tags": [
+                "cognitivetraining",
+                "verbalworkingmemory",
+                "dementia"
+            ],
+            "short": {
+                "en": "working memory is important for language understanding",
+                "ja": "作業記憶は言語理解に重要"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721685951.198,
+            "updatedAt": 1721685951.198,
+            "filename": "1721685951"
+        },
+        {
             "title": "The Motivational Pull of Video Games: A Self-Determination Theory Approach",
             "link": "https://link.springer.com/article/10.1007/s11031-006-9051-8",
             "media": "academic",
@@ -228,21 +1761,815 @@
             "filename": "1717240630"
         },
         {
-            "title": "GOAP - References",
-            "link": "https://www.youtube.com/playlist?list=PLZWmMt_TbeYdBZKvlsRuuOubPTTfPuZot",
-            "media": "netpage",
+            "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
+            "link": "https://pdfs.semanticscholar.org/1cb7/9ed0db0db44810af97f2e4252874212edcd8.pdf",
+            "media": "academic",
             "tags": [
-                "goap"
+                "rl",
+                "game",
+                "ai",
+                "gameai",
+                "behaviortree",
+                ""
             ],
             "short": {
-                "en": "basic GOAP explanation videos",
-                "ja": "GOAP説明youtubeプレイリスト"
+                "en": "Mixing RL and BT",
+                "ja": "強化学習とビヘイビアツリーの複合"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1718434221.972,
-            "updatedAt": 1718434221.972,
-            "filename": "1718434221"
+            "createdAt": 1718022149.816,
+            "updatedAt": 1718022149.816,
+            "filename": "1718022149"
+        },
+        {
+            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "biosignal",
+                "eeg",
+                ""
+            ],
+            "short": {
+                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
+                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1716453618.354,
+            "updatedAt": 1716453618.354,
+            "filename": "1716453618"
+        },
+        {
+            "title": "C# オブジェクト生成時の初期化順序（コンストラクタ、変数初期化子）",
+            "link": "https://qiita.com/ohke/items/10aadafc727141f83087",
+            "media": "netpage",
+            "tags": [
+                "csharp"
+            ],
+            "short": {
+                "en": "order of operations when generating class instance",
+                "ja": "クラスインスタンス生成時の実行順序"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720791948.187,
+            "updatedAt": 1720791948.187,
+            "filename": "1720791948"
+        },
+        {
+            "title": "【Unity】【エディタ拡張】ノードエディタを作るGraph Viewの基本的な使い方",
+            "link": "https://light11.hatenadiary.com/entry/2020/06/16/200750",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "unityeditor",
+                "visualscripting"
+            ],
+            "short": {
+                "en": "How to use Graph View of Unity Editor",
+                "ja": "Unity Editorでノードグラフをビジュアルスクリプティングする"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719822776.492,
+            "updatedAt": 1719822776.492,
+            "filename": "1719822776"
+        },
+        {
+            "title": "Training ML-Agents",
+            "link": "https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-ML-Agents.md#behavior-configurations",
+            "media": "netpage",
+            "tags": [
+                "mlagents",
+                "unity",
+                "rl",
+                "game",
+                "gameai",
+                ""
+            ],
+            "short": {
+                "en": "Config of Mlagents",
+                "ja": "mlagentsのコンフィグ設定"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1720614316.706,
+            "updatedAt": 1720614316.706,
+            "filename": "1720614316"
+        },
+        {
+            "title": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
+            "link": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
+            "media": "academic",
+            "tags": [
+                "eyetracking"
+            ],
+            "short": {
+                "en": "scanpath SR found stragety of Raven’s Advanced Progressive Matrices",
+                "ja": "scanpath SRでRaven’s Advanced Progressive Matrices解法戦略が分かった"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1724644453.41,
+            "updatedAt": 1724644453.41,
+            "filename": "1724644453"
+        },
+        {
+            "title": "Eye-tracking research on sensory and consumer science: A review, pitfalls and future directions",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S096399692100288X",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "consumerscience",
+                "review"
+            ],
+            "short": {
+                "en": "eye tracking studies review for food consumer science",
+                "ja": "食品消費者科学のための視線計測研究レビュー"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1724829146.405,
+            "updatedAt": 1724829146.405,
+            "filename": "1724829146"
+        },
+        {
+            "title": "Search Engines & Society -Information Quality and the Potential of AI",
+            "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
+            "media": "netpage",
+            "tags": [
+                "google",
+                "lt",
+                "searchengine"
+            ],
+            "short": {
+                "en": "Speech from Dr. Prabhakar Raghavan Senior Vice President of Google",
+                "ja": "Dr. Prabhakar Raghavan Senior Vice President of Googleの発表"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1718795206.176,
+            "updatedAt": 1718795206.176,
+            "filename": "1718795206"
+        },
+        {
+            "title": "JSAI 2024 HPE",
+            "link": "Temp",
+            "media": "academic",
+            "tags": [
+                "editing",
+                "environment"
+            ],
+            "short": {
+                "en": "Integrated environment software for ML",
+                "ja": "機械学習のスーパー環境構築ソフトウェア"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1716867669.43,
+            "updatedAt": 1716867669.43,
+            "filename": "1716867669"
+        },
+        {
+            "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
+            "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "interview"
+            ],
+            "short": {
+                "en": "Miyake vs Iwatani",
+                "ja": "三宅 vs 岩谷"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1718011100.785,
+            "updatedAt": 1718011100.785,
+            "filename": "1718011100"
+        },
+        {
+            "title": "ARMORED CORE Vの対戦AIにおける階層型ゴール指向プランニングと機体制御",
+            "link": "https://cedil.cesa.or.jp/cedil_sessions/view/591",
+            "media": "netpage",
+            "tags": [
+                "goap",
+                "game",
+                "ai",
+                "gameai",
+                "characterai",
+                "character"
+            ],
+            "short": {
+                "en": "make real-time battle action by GOAP (failed)",
+                "ja": "リアルタイムバトルアクションをGOAPによって実装しようとした（失敗）"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719217778.615,
+            "updatedAt": 1719217778.615,
+            "filename": "1719217778"
+        },
+        {
+            "title": "javascriptの構文解析をしてみる",
+            "link": "https://qiita.com/wicket/items/816c8703d23945462dfd",
+            "media": "netpage",
+            "tags": [
+                "javascript",
+                "abstractsyntaxtree",
+                "compiler"
+            ],
+            "short": {
+                "en": "I didn't have to make a JS compiler by my self...",
+                "ja": "ASTを知りました"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717575625.365,
+            "updatedAt": 1717575625.365,
+            "filename": "1717575625"
+        },
+        {
+            "title": "脳波を用いた感情分類の研究",
+            "link": "https://www.pgv.co.jp/nais-entry/case-study/202303_02",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "eeg",
+                "biosignal",
+                "survey"
+            ],
+            "short": {
+                "en": "estimate emotion from eeg survey",
+                "ja": "脳波感情推定サーベイ"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1718372074.25,
+            "updatedAt": 1718372074.25,
+            "filename": "1718372074"
+        },
+        {
+            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
+            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "バレないようにプレイヤーに迷路を攻略させる",
+                "ja": "バレないようにプレイヤーに迷路を攻略させる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717431151.73,
+            "updatedAt": 1717431151.73,
+            "filename": "1717431151"
+        },
+        {
+            "title": "Unityでのマイク録音３種盛り：レイテンシ比較",
+            "link": "https://qiita.com/TyounanMOTI/items/5306336823316b0b289c",
+            "media": "netpage",
+            "tags": [
+                "unity"
+            ],
+            "short": {
+                "en": "getting realtime data from microphone",
+                "ja": "マイクからリアルタイムにデータ取得"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1722184113.764,
+            "updatedAt": 1722184113.764,
+            "filename": "1722184113"
+        },
+        {
+            "title": "Pythonで32bitfloatのwavファイルを再生する",
+            "link": "https://qiita.com/hotstaff/items/9c886e86cec42663b3f5",
+            "media": "netpage",
+            "tags": [
+                "python",
+                "wav"
+            ],
+            "short": {
+                "en": "make float wav",
+                "ja": "float型リストからwavデータを作成する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1722244362.113,
+            "updatedAt": 1722244362.113,
+            "filename": "1722244362"
+        },
+        {
+            "title": "ヘルスデータサイエンス入門 ―医療・健康データの活用を目指して―",
+            "link": "https://www.asakura.co.jp/detail.php?book_code=12286",
+            "media": "book",
+            "tags": [
+                "medicaldata",
+                "ethics",
+                "personaldata"
+            ],
+            "short": {
+                "en": "data sciencing for medicine. Including ethics and karte",
+                "ja": "医療データサイエンス概論。倫理とカルテの言及含む"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1720305249.4,
+            "updatedAt": 1720305249.4,
+            "filename": "1720305249"
+        },
+        {
+            "title": "ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用",
+            "link": "https://gihyo.jp/book/2022/978-4-297-13234-7",
+            "media": "book",
+            "tags": [
+                "programming",
+                "design",
+                "architecture",
+                "software",
+                "softwarearchitecture"
+            ],
+            "short": {
+                "en": "Modern software architecture",
+                "ja": "モダンなソフトウェアアーキテクチャ解説書"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1717649862.924,
+            "updatedAt": 1719035491.254,
+            "filename": "1717649862"
+        },
+        {
+            "title": "[Unity] 衝突判定における、IsTriggerとRigidbodyとIsKinematicのパターンを実験",
+            "link": "https://qiita.com/sensuikan1973/items/055384e1145bbbe73e40#%E3%81%BE%E3%81%A8%E3%82%81",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "rigidbody"
+            ],
+            "short": {
+                "en": "behaviour of Unity collision",
+                "ja": "Unity衝突判定の仕様"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719409516.289,
+            "updatedAt": 1719409516.289,
+            "filename": "1719409516"
+        },
+        {
+            "title": "【Unity】ダークソウルっぽいカメラワークを作る【Cinemachine + Input System】",
+            "link": "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2022_24",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "camerawork",
+                "ui"
+            ],
+            "short": {
+                "en": "implementing lockon + camerawork system like Dark Soul",
+                "ja": "ダークソウル式のロックオン + カメラワークシステムの実装"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719419334.166,
+            "updatedAt": 1719419334.166,
+            "filename": "1719419334"
+        },
+        {
+            "title": "Introducing EVG: An Emotion Evoking Game",
+            "link": "https://link.springer.com/chapter/10.1007/11821830_23",
+            "media": "academic",
+            "tags": [
+                "emotion",
+                "game",
+                "facial"
+            ],
+            "short": {
+                "en": "Experiment of controling user's emotion",
+                "ja": "プレイヤーの感情をコントロールする実験"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1720015294.43,
+            "updatedAt": 1720015294.43,
+            "filename": "1720015294"
+        },
+        {
+            "title": "【注意喚起】Azure OpenAI Serviceのファインチューニングは、月$2,160かかる!",
+            "link": "https://note.com/brave_quince241/n/n5f594619c3b7",
+            "media": "netpage",
+            "tags": [
+                "finetuning",
+                "chatgpt",
+                "azure"
+            ],
+            "short": {
+                "en": "fine tuning Azure GPT is super expensive",
+                "ja": "Azure GPTのファインチューニングはめっちゃ高い"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1721204233.789,
+            "updatedAt": 1721204233.789,
+            "filename": "1721204233"
+        },
+        {
+            "title": "Android 版のビルド、および実行手順",
+            "link": "https://www.monobitengine.com/doc/mun/contents/Platform/Build_Android.htm",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "smartphone",
+                "android"
+            ],
+            "short": {
+                "en": "build and deploy Unity app for Android",
+                "ja": "UnityアプリのAndroidへのビルド・デプロイ手順"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1719472212.578,
+            "updatedAt": 1719472212.578,
+            "filename": "1719472212"
+        },
+        {
+            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
+            "link": "https://zenn.dev/yurukei20/articles/",
+            "media": "book",
+            "tags": [
+                "html"
+            ],
+            "short": {
+                "en": "showing markdown in html",
+                "ja": "markdownをhtmlで表示"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716365855.63,
+            "updatedAt": 1716365855.63,
+            "filename": "markdownwriting"
+        },
+        {
+            "title": "Eye Tracking to Evaluate the User eXperience (UX): Literature Review",
+            "link": "https://www.researchgate.net/publication/361335432_Eye_Tracking_to_Evaluate_the_User_eXperience_UX_Literature_Review",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "ux"
+            ],
+            "short": {
+                "en": "systematic review for eyetracking. poor insights",
+                "ja": "アイトラッキングのシステマティカルレビュー。洞察が乏しい"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1724304946.382,
+            "updatedAt": 1724304963.393,
+            "filename": "1724304963"
+        },
+        {
+            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
+            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
+            "media": "netpage",
+            "tags": [
+                "html",
+                "css"
+            ],
+            "short": {
+                "en": "resizable table column by drag",
+                "ja": "ドラッグで幅変更可能なテーブルCSS"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1716516123.083,
+            "updatedAt": 1716516123.083,
+            "filename": "1716516123"
+        },
+        {
+            "title": "「今日のメシどうする？」問題から学ぶ、階層型タスクネットワーク",
+            "link": "https://morikatron.ai/2019/12/gdm37_htn/",
+            "media": "netpage",
+            "tags": [
+                "htn",
+                "game",
+                "characterai",
+                "gameai",
+                "ai",
+                ""
+            ],
+            "short": {
+                "en": "plain japanese explanation of HTN",
+                "ja": "HTNの平易日本語解説"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719311443.315,
+            "updatedAt": 1719311443.315,
+            "filename": "1719311443"
+        },
+        {
+            "title": "Different Cognitive Task Designs Using Eye Tracking",
+            "link": "https://ieeexplore.ieee.org/document/9234529",
+            "media": "academic",
+            "tags": [
+                "game",
+                "eyetracking",
+                "ux",
+                "seriousgame"
+            ],
+            "short": {
+                "en": "adding game object enhance motivation but no learning difference",
+                "ja": "ゲームオブジェクトを追加することでモチベーションは高まるが、学習効果に違いはない"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1723773326.311,
+            "updatedAt": 1723773326.311,
+            "filename": "1723773326"
+        },
+        {
+            "title": "強化学習でポケモンをプレイする",
+            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
+            "media": "netpage",
+            "tags": [
+                "rl"
+            ],
+            "short": {
+                "en": "explain RL for Pokemon",
+                "ja": "ポケモン強化学習解説記事"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1718009273.334,
+            "updatedAt": 1718009273.334,
+            "filename": "1718009273"
+        },
+        {
+            "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
+            "link": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
+            "media": "netpage",
+            "tags": [
+                "vscode",
+                "shortcut"
+            ],
+            "short": {
+                "en": "Shortcut for VSCode",
+                "ja": "VSCodeショートカット"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1719668399.88,
+            "updatedAt": 1719668399.88,
+            "filename": "1719668399"
+        },
+        {
+            "title": "Developing Serious Games Specifically Adapted to People Suffering from Alzheimer",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33687-4_21",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "game",
+                "seriousgame"
+            ],
+            "short": {
+                "en": "guideline for making alzheimer game",
+                "ja": "アルツハイマー対策ゲームのためのガイドライン"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1720939345.901,
+            "updatedAt": 1720939345.901,
+            "filename": "1720939345"
+        },
+        {
+            "title": "Permission denied to github-actions[bot]",
+            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
+            "media": "netpage",
+            "tags": [
+                "githubaction"
+            ],
+            "short": {
+                "en": "give github action a permission to commit",
+                "ja": "github actionにコミット権限を与える"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1716514732.013,
+            "updatedAt": 1716514732.013,
+            "filename": "1716514732"
+        },
+        {
+            "title": "Review of Eye Tracking Metrics Involved in Emotional and Cognitive Processes",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33729950/",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "emotion",
+                "psychology",
+                "review"
+            ],
+            "short": {
+                "en": "review of relationship between eye tracking metrics and \"visual attention,\" \"arousal\" and \"cognitive workload\"",
+                "ja": "視線計測と「注意」「覚醒度」「認知的負荷」の相関関係レビュー"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1724982475.755,
+            "updatedAt": 1724982475.755,
+            "filename": "1724982475"
+        },
+        {
+            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
+            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
+            "media": "repository",
+            "tags": [
+                "academic",
+                "writing"
+            ],
+            "short": {
+                "en": "All resources of academic writing",
+                "ja": "アカデミックライティングの文献一覧"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717319233.885,
+            "updatedAt": 1717319233.885,
+            "filename": "1717319233"
+        },
+        {
+            "title": "Git でデフォルトのリモートを変更する方法",
+            "link": "https://gotohayato.com/content/114/",
+            "media": "netpage",
+            "tags": [
+                "git"
+            ],
+            "short": {
+                "en": "change default remote",
+                "ja": "デフォルトリモート変更"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1719712551.736,
+            "updatedAt": 1719712551.736,
+            "filename": "1719712551"
+        },
+        {
+            "title": "Investigating the Elusive Role of Level Design",
+            "link": "https://ieeexplore.ieee.org/document/9231624",
+            "media": "academic",
+            "tags": [
+                "game",
+                "leveldesign",
+                "survey"
+            ],
+            "short": {
+                "en": "Survey the definition and role of \"level designer\"",
+                "ja": "「レベルデザイナー」の定義・役割を巡るサーベイ"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1717659810.606,
+            "updatedAt": 1717659810.606,
+            "filename": "1717659810"
+        },
+        {
+            "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
+            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "affective",
+                "game"
+            ],
+            "short": {
+                "en": "propose a new approach to game design based on several high-level design heuristics: assist me, challenge me and emote me (ACE)",
+                "ja": "アシスト・ミー、チャレンジ・ミー、エモーション・ミー（ACE）というハイレベルなデザイン・ヒューリスティックに基づくゲームデザインの新しいアプローチを提案する。"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1717430302.77,
+            "updatedAt": 1717430302.77,
+            "filename": "1717430302"
+        },
+        {
+            "title": "健康医療データの用語集 匿名化/匿名加工",
+            "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
+            "media": "netpage",
+            "tags": [
+                "medicaldata",
+                "personaldata"
+            ],
+            "short": {
+                "ja": "「匿名加工情報」は医療情報も加工、「仮名加工情報」は医療情報を加工しない",
+                "en": "difference of Anonymization and pseudonymization"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1720446218.77,
+            "updatedAt": 1720446218.77,
+            "filename": "1720446218"
+        },
+        {
+            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
+            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "characterai"
+            ],
+            "short": {
+                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
+                "ja": "Teammate AI in cooperative games letting human players play active roles"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1717432837.278,
+            "updatedAt": 1717432837.278,
+            "filename": "1717432837"
+        },
+        {
+            "title": "Sketch2Map: A Game Map Design Support System Allowing Quick Hand Sketch Prototyping",
+            "link": "https://ieee-cog.org/2020/papers/paper_213.pdf",
+            "media": "academic",
+            "tags": [
+                "gan",
+                "ai",
+                "game",
+                "assist"
+            ],
+            "short": {
+                "en": "Using GAN for transforming hand-writed sketch to 3D map",
+                "ja": "GANを使って手書きスケッチから3Dマップを生成"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1717660259.095,
+            "updatedAt": 1717660259.095,
+            "filename": "1717660259"
+        },
+        {
+            "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
+            "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "vr"
+            ],
+            "short": {
+                "en": "enabling tactile in VR by balloons",
+                "ja": "VR内の触覚を風船で実現"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1717938927.016,
+            "updatedAt": 1717938927.016,
+            "filename": "1717938927"
+        },
+        {
+            "title": "‘Kitchen and cooking,’ a serious game for mild cognitive impairment and Alzheimer’s disease: a pilot study",
+            "link": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2015.00024/full",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "game",
+                "seriousgame",
+                "cognitivetraining"
+            ],
+            "short": {
+                "en": "improvement by game",
+                "ja": "ゲームによる改善"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1721275637.837,
+            "updatedAt": 1721275637.837,
+            "filename": "1721275637"
+        },
+        {
+            "title": "Telling Eyes: Linking Eye-Tracking Indicators to Affective Variables",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3582437.3582458",
+            "media": "academic",
+            "tags": [
+                "game",
+                "eyetracking",
+                "vr"
+            ],
+            "short": {
+                "en": "relation between confusion/frustration and eye-tracking in VR Portal",
+                "ja": "VR Portal中での混乱・イライラとアイトラッキングの相関"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1723598306.253,
+            "updatedAt": 1723598306.253,
+            "filename": "1723598306"
         },
         {
             "title": "Primary school students’ attitude towards gesture based interaction",
@@ -283,251 +2610,59 @@
             "filename": "1721473573"
         },
         {
-            "title": "JSAI2024 gameAI a",
-            "link": "t",
-            "media": "presentation",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716882783.294,
-            "updatedAt": 1720017893.232,
-            "filename": "1716882783"
-        },
-        {
-            "title": "PromiseによるJavaScript非同期処理レシピ集",
-            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
+            "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
+            "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
             "media": "netpage",
             "tags": [
-                "javascript",
-                "async",
-                "promose"
-            ],
-            "short": {
-                "en": "totally how to use promise",
-                "ja": "promiseの使い方総説"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1716445032.427,
-            "updatedAt": 1716445032.427,
-            "filename": "1716445032"
-        },
-        {
-            "title": "人間プレイヤを活躍させる協力型ゲームの味方AI",
-            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/18233/1/I-IKEDA-K0405-8.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "characterai"
-            ],
-            "short": {
-                "en": "特定の意図を持ったプレイヤエージェントをサポートさせるキャラクターAI",
-                "ja": "Teammate AI in cooperative games letting human players play active roles"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717432837.278,
-            "updatedAt": 1717432837.278,
-            "filename": "1717432837"
-        },
-        {
-            "title": "C#での「?(クエスチョンマーク)」の意味",
-            "link": "https://nabelog.org/381/#toc1",
-            "media": "netpage",
-            "tags": [
-                "csharp",
-                "syntax"
-            ],
-            "short": {
-                "en": "meaning of ? in C#",
-                "ja": "C#における?の意味"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719823613.29,
-            "updatedAt": 1719823613.29,
-            "filename": "1719823613"
-        },
-        {
-            "title": "数分間のエールを",
-            "link": "https://yell-movie2024.com/",
-            "media": "entertainment",
-            "tags": [
-                "movie"
-            ],
-            "short": {
-                "en": "beautiful & passionate animation movie from Bandai Namco",
-                "ja": "バンダイナムコによる美しく情熱的な「モノづくり」映画"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1719203402.417,
-            "updatedAt": 1719203402.417,
-            "filename": "1719203402"
-        },
-        {
-            "title": "Dementia Games: A Literature Review of Dementia-Related Serious Games",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-642-40790-1_2",
-            "media": "academic",
-            "tags": [
-                "game",
-                "dementia",
-                "seriousgame",
-                "survey"
-            ],
-            "short": {
-                "en": "2013 survey of demensia games",
-                "ja": "認知症対策ゲームの2013サーベイ論文"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720798359.263,
-            "updatedAt": 1720798359.263,
-            "filename": "1720798359"
-        },
-        {
-            "title": "Emotion Arousal Assessment Based on Multimodal Physiological Signals for Game Users",
-            "link": "https://ieeexplore.ieee.org/document/10093978",
-            "media": "academic",
-            "tags": [
-                "game",
-                "emotion",
-                "psychology",
-                "assessment",
-                "physiological",
-                "biosignal"
-            ],
-            "short": {
-                "en": "assess emotion of game users from biosignal and try get targeted emotion",
-                "ja": "生体信号からゲームプレイヤーの感情を推定し、狙った感情への誘導の試み"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1720016976.643,
-            "updatedAt": 1720016976.643,
-            "filename": "1720016976"
-        },
-        {
-            "title": "The AI of Horizon Zero Dawn",
-            "link": "https://www.guerrilla-games.com/media/News/Files/The-AI-of-Horizon-Zero-Dawn.pdf",
-            "media": "netpage",
-            "tags": [
-                "htn",
-                "game",
+                "goap",
                 "gameai",
                 "characterai",
-                "ai"
+                "game"
             ],
             "short": {
-                "en": "HTN implementation of Guerrilla Games",
-                "ja": "ゲリラゲームズによるHTN実装"
+                "en": "GOAP explanation in Tomb Raider",
+                "ja": "Tomb RaiderにおけるGOAP"
             },
             "importance": 3,
             "hasPage": false,
-            "createdAt": 1719312153.818,
-            "updatedAt": 1719312153.818,
-            "filename": "1719312153"
+            "createdAt": 1719312672.778,
+            "updatedAt": 1719312672.778,
+            "filename": "1719312672"
         },
         {
-            "title": "Developing Serious Games Specifically Adapted to People Suffering from Alzheimer",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33687-4_21",
+            "title": "Unveiling Cognitive Strategies: Clustering Eye-Tracking Measures in Computerized Matrix-Reasoning Tasks",
+            "link": "https://osf.io/preprints/psyarxiv/yb237",
             "media": "academic",
             "tags": [
-                "dementia",
-                "game",
-                "seriousgame"
+                "eyetracking"
             ],
             "short": {
-                "en": "guideline for making alzheimer game",
-                "ja": "アルツハイマー対策ゲームのためのガイドライン"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1720939345.901,
-            "updatedAt": 1720939345.901,
-            "filename": "1720939345"
-        },
-        {
-            "title": "ちょうぜつソフトウェア設計入門――PHPで理解するオブジェクト指向の活用",
-            "link": "https://gihyo.jp/book/2022/978-4-297-13234-7",
-            "media": "book",
-            "tags": [
-                "programming",
-                "design",
-                "architecture",
-                "software",
-                "softwarearchitecture"
-            ],
-            "short": {
-                "en": "Modern software architecture",
-                "ja": "モダンなソフトウェアアーキテクチャ解説書"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1717649862.924,
-            "updatedAt": 1719035491.254,
-            "filename": "1717649862"
-        },
-        {
-            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
-            "media": "academic",
-            "tags": [
-                "game",
-                "hci",
-                "input",
-                "emotion",
-                "psychology"
-            ],
-            "short": {
-                "en": "improvement of 2015 one. Kinetics vs. Mouse",
-                "ja": "2015のものの改良。Kinetics vs. Mouse"
+                "en": "Classifying data of eye tracking for non-verbal task",
+                "ja": "非言語タスクの視線計測データの分類"
             },
             "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720012012.39,
-            "updatedAt": 1720012012.39,
-            "filename": "1720012012"
+            "hasPage": false,
+            "createdAt": 1724641833.141,
+            "updatedAt": 1724641833.141,
+            "filename": "1724641833"
         },
         {
-            "title": "Permission denied to github-actions[bot]",
-            "link": "https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot",
+            "title": "Benefits of embedding custom fonts",
+            "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
             "media": "netpage",
             "tags": [
-                "githubaction"
+                "powerpoint",
+                "microsoft"
             ],
             "short": {
-                "en": "give github action a permission to commit",
-                "ja": "github actionにコミット権限を与える"
+                "en": "Save powerpoints with fonts",
+                "ja": "フォント付きでパワポを保存する"
             },
-            "importance": 1,
+            "importance": 3,
             "hasPage": false,
-            "createdAt": 1716514732.013,
-            "updatedAt": 1716514732.013,
-            "filename": "1716514732"
-        },
-        {
-            "title": "強化学習でポケモンをプレイする",
-            "link": "https://qiita.com/tsugar/items/b4682e2e95db23c79f69",
-            "media": "netpage",
-            "tags": [
-                "rl"
-            ],
-            "short": {
-                "en": "explain RL for Pokemon",
-                "ja": "ポケモン強化学習解説記事"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718009273.334,
-            "updatedAt": 1718009273.334,
-            "filename": "1718009273"
+            "createdAt": 1716707379.166,
+            "updatedAt": 1716707379.166,
+            "filename": "1716707379"
         },
         {
             "title": "Eight Ways Videogames Generate Emotion",
@@ -549,452 +2684,42 @@
             "filename": "1717396187"
         },
         {
-            "title": "Improvisational Robot Tool Use Using Affordance Based Planning",
-            "link": "https://www.proquest.com/docview/2830105263/abstract/7C77AB4019B64794PQ/1?accountid=14357&sourcetype=Dissertations%20&%20Theses",
-            "media": "academic",
-            "tags": [
-                "robotics",
-                "affordance",
-                "planning"
-            ],
-            "short": {
-                "en": "thesis that attacked to affordance based planning",
-                "ja": "アフォーダンスを利用したプラニングについて取り組んだ卒論"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717451026.36,
-            "updatedAt": 1717451026.36,
-            "filename": "1717451026"
-        },
-        {
-            "title": "論文の読み方",
-            "link": "https://speakerdeck.com/kaityo256/how-to-survey",
+            "title": "PromiseによるJavaScript非同期処理レシピ集",
+            "link": "https://sbfl.net/blog/2019/11/04/promise-cookbook/",
             "media": "netpage",
             "tags": [
-                "paper",
-                "skill",
-                "academic",
+                "javascript",
+                "async",
+                "promose"
+            ],
+            "short": {
+                "en": "totally how to use promise",
+                "ja": "promiseの使い方総説"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1716445032.427,
+            "updatedAt": 1716445032.427,
+            "filename": "1716445032"
+        },
+        {
+            "title": "Assessment of Cognitive Training & Social Interaction in People with Mild to Moderate Dementia: A Pilot Study",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/07317115.2019.1590489",
+            "media": "academic",
+            "tags": [
+                "dementia",
+                "cognitivetraining",
                 "reading"
             ],
             "short": {
-                "en": "Read mainly the introduction and get a comprehensive view of the field",
-                "ja": "主にイントロダクションを読んで分野の包括的な位置付けを把握する"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1717673521.473,
-            "updatedAt": 1717673521.473,
-            "filename": "1717673521"
-        },
-        {
-            "title": "Reading Aloud and Arithmetic Calculation Improve Frontal Function of People With Dementia",
-            "link": "https://academic.oup.com/biomedgerontology/article/60/3/380/630607bygueston24July2024",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "cognitivetraining"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1721795817.882,
-            "updatedAt": 1721795817.882,
-            "filename": "1721795817"
-        },
-        {
-            "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
-            "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "ui"
-            ],
-            "short": {
-                "en": "implementing Offscreen Indicator",
-                "ja": "Offcreen Indicatorの実装"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719449317.167,
-            "updatedAt": 1719449317.167,
-            "filename": "1719449317"
-        },
-        {
-            "title": "Mixed Deep Reinforcement Learning-behavior Tree for Intelligent Agents Design",
-            "link": "https://pdfs.semanticscholar.org/1cb7/9ed0db0db44810af97f2e4252874212edcd8.pdf",
-            "media": "academic",
-            "tags": [
-                "rl",
-                "game",
-                "ai",
-                "gameai",
-                "behaviortree",
-                ""
-            ],
-            "short": {
-                "en": "Mixing RL and BT",
-                "ja": "強化学習とビヘイビアツリーの複合"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718022149.816,
-            "updatedAt": 1718022149.816,
-            "filename": "1718022149"
-        },
-        {
-            "title": "【注意喚起】Azure OpenAI Serviceのファインチューニングは、月$2,160かかる!",
-            "link": "https://note.com/brave_quince241/n/n5f594619c3b7",
-            "media": "netpage",
-            "tags": [
-                "finetuning",
-                "chatgpt",
-                "azure"
-            ],
-            "short": {
-                "en": "fine tuning Azure GPT is super expensive",
-                "ja": "Azure GPTのファインチューニングはめっちゃ高い"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1721204233.789,
-            "updatedAt": 1721204233.789,
-            "filename": "1721204233"
-        },
-        {
-            "title": "iMotion",
-            "link": "https://www.physio-tech.co.jp/pdf/iMotions/iMotions.pdf",
-            "media": "netpage",
-            "tags": [
-                "psychology",
-                "biosignal"
-            ],
-            "short": {
-                "en": "integrated software for biosignal",
-                "ja": "生体信号解統合ソフトウェア"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716446715.223,
-            "updatedAt": 1716446715.223,
-            "filename": "1716446715"
-        },
-        {
-            "title": "UnityのStart()の継承、オーバーライドのメモ",
-            "link": "https://siuncyclone.hatenablog.com/entry/2018/10/11/124547",
-            "media": "netpage",
-            "tags": [
-                "unity"
-            ],
-            "short": {
-                "en": "Start() will automatically overwritten",
-                "ja": "Start()は自動的にオーバーライドされる"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1721497841.506,
-            "updatedAt": 1721497841.506,
-            "filename": "1721497841"
-        },
-        {
-            "title": "JSAI2024 affective1",
-            "link": "e",
-            "media": "presentation",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716947183.371,
-            "updatedAt": 1720017881.247,
-            "filename": "1716947183"
-        },
-        {
-            "title": "N 個の整数 A_1,A_2,…,A_N が与えられ、N⋅(N−1)/2 個すべての非順序対 (Ai,Aj) (i<j) に対するf(A_i, A_j)の和を求める問題",
-            "link": "https://shakayami.hatenablog.com/entry/2021/01/01/044946",
-            "media": "netpage",
-            "tags": [
-                "algorithm",
-                "complexity",
-                ""
-            ],
-            "short": {
-                "en": "Computing sum of N^2 pairs",
-                "ja": "N^2 ペアから総和計算"
+                "en": "Social interaction improves cognitive training for dementia",
+                "ja": "社交的インタラクションは認知症にとって認知トレーニングの質を向上させる"
             },
             "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717254032.169,
-            "updatedAt": 1717254032.169,
-            "filename": "1717254032"
-        },
-        {
-            "title": "Eye Tracking to Evaluate the User eXperience (UX): Literature Review",
-            "link": "https://www.researchgate.net/publication/361335432_Eye_Tracking_to_Evaluate_the_User_eXperience_UX_Literature_Review",
-            "media": "academic",
-            "tags": [
-                "eyetracking",
-                "ux"
-            ],
-            "short": {
-                "en": "systematic review for eyetracking. poor insights",
-                "ja": "アイトラッキングのシステマティカルレビュー。洞察が乏しい"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1724304946.382,
-            "updatedAt": 1724304963.393,
-            "filename": "1724304963"
-        },
-        {
-            "title": "The picture superiority effect in patients with Alzheimer’s disease and mild cognitive impairment",
-            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763351/#:~:text=The%20results%20confirmed%20that%20the,similar%20across%20the%20three%20groups.",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "interface",
-                "ui"
-            ],
-            "short": {
-                "en": "\"aging can cause difficulties to find objects in visually complex scenes\"",
-                "ja": "\"加齢により、視覚的に複雑なシーンで対象物を見つけることが困難になることがある。\""
-            },
-            "importance": 2,
             "hasPage": true,
-            "createdAt": 1720943905.387,
-            "updatedAt": 1720943905.387,
-            "filename": "1720943905"
-        },
-        {
-            "title": "UniBT",
-            "link": "https://github.com/yoshidan/UniBT",
-            "media": "repository",
-            "tags": [
-                "unity",
-                "behaviortree",
-                "ai",
-                "library"
-            ],
-            "short": {
-                "en": "Free Unity library for visual scripting a behavior tree",
-                "ja": "ビヘイビアツリーをビジュアルスクリプティングする無料Unityライブラリ"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717661348.5,
-            "updatedAt": 1717661348.5,
-            "filename": "1717661348"
-        },
-        {
-            "title": "The influence of social interaction on cognitive training for schizophrenia",
-            "link": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2012.00140/full",
-            "media": "academic",
-            "tags": [
-                "cognitivetraining",
-                "languageinteraction"
-            ],
-            "short": {
-                "en": "review of social interaction for cognitive training for schizophrenia",
-                "ja": "統合失調症への認知トレーニングにおける社交的インタラクションの効果レビュー"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1721690124.405,
-            "updatedAt": 1721690124.405,
-            "filename": "1721690124"
-        },
-        {
-            "title": "Unityでのマイク録音３種盛り：レイテンシ比較",
-            "link": "https://qiita.com/TyounanMOTI/items/5306336823316b0b289c",
-            "media": "netpage",
-            "tags": [
-                "unity"
-            ],
-            "short": {
-                "en": "getting realtime data from microphone",
-                "ja": "マイクからリアルタイムにデータ取得"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1722184113.764,
-            "updatedAt": 1722184113.764,
-            "filename": "1722184113"
-        },
-        {
-            "title": "コンピュータの構成と設計 第5版 上",
-            "link": "https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%A8%E8%A8%AD%E8%A8%88-%E7%AC%AC5%E7%89%88-%E4%B8%8A-%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BBL-%E3%83%98%E3%83%8D%E3%82%B7%E3%83%BC/dp/4822298426",
-            "media": "book",
-            "tags": [
-                "computerarchitecture",
-                "hardware",
-                "basics"
-            ],
-            "short": {
-                "en": "text book of computer architecture ",
-                "ja": "コンピューターアーキテクチャ教科書"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1718251738.223,
-            "updatedAt": 1718251738.223,
-            "filename": "1718251738"
-        },
-        {
-            "title": "ゲーム AI の原点『パックマン』は いかにして生み出されたのか？： 岩谷 徹インタビュー",
-            "link": "https://www.jstage.jst.go.jp/article/jjsai/34/1/34_86/_pdf/-char/ja",
-            "media": "academic",
-            "tags": [
-                "interview"
-            ],
-            "short": {
-                "en": "Miyake vs Iwatani",
-                "ja": "三宅 vs 岩谷"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1718011100.785,
-            "updatedAt": 1718011100.785,
-            "filename": "1718011100"
-        },
-        {
-            "title": "Curvy Digital Marketing Designs: Virtual Elements with Rounded Shapes Enhance Online Click-Through Rates",
-            "link": "https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad078/7470747?redirectedFrom=fulltext",
-            "media": "academic",
-            "tags": [
-                "design",
-                "eyetracking",
-                "ctr"
-            ],
-            "short": {
-                "en": "round shape is better than sharp shape",
-                "ja": "丸は角より良い"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1724406717.207,
-            "updatedAt": 1724406717.207,
-            "filename": "1724406717"
-        },
-        {
-            "title": "【Windows版】VS Code キーボードショートカット一覧 （オススメ付き）",
-            "link": "https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b",
-            "media": "netpage",
-            "tags": [
-                "vscode",
-                "shortcut"
-            ],
-            "short": {
-                "en": "Shortcut for VSCode",
-                "ja": "VSCodeショートカット"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719668399.88,
-            "updatedAt": 1719668399.88,
-            "filename": "1719668399"
-        },
-        {
-            "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
-            "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
-            "media": "repository",
-            "tags": [
-                "academic",
-                "writing"
-            ],
-            "short": {
-                "en": "All resources of academic writing",
-                "ja": "アカデミックライティングの文献一覧"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717319233.885,
-            "updatedAt": 1717319233.885,
-            "filename": "1717319233"
-        },
-        {
-            "title": "【Unity】ダークソウルっぽいカメラワークを作る【Cinemachine + Input System】",
-            "link": "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2022_24",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "camerawork",
-                "ui"
-            ],
-            "short": {
-                "en": "implementing lockon + camerawork system like Dark Soul",
-                "ja": "ダークソウル式のロックオン + カメラワークシステムの実装"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719419334.166,
-            "updatedAt": 1719419334.166,
-            "filename": "1719419334"
-        },
-        {
-            "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
-            "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
-            "media": "netpage",
-            "tags": [
-                "rendering",
-                "graphics"
-            ],
-            "short": {
-                "en": "japanese explanation of rendering pipeline",
-                "ja": "レンダリングパイプラインの概要説明"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719465110.884,
-            "updatedAt": 1719465110.884,
-            "filename": "1719465110"
-        },
-        {
-            "title": "ゲームスタディーインタビューズver7 吉田寛著書「デジタルゲーム研究」について鼎談",
-            "link": "https://digrajapan.org/?page_id=10028",
-            "media": "netpage",
-            "tags": [
-                "game"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1721695240.425,
-            "updatedAt": 1721695240.425,
-            "filename": "1721695240"
-        },
-        {
-            "title": "What Does That ?-Block Do? Learning Latent Causal Affordances from Mario Play Traces",
-            "link": "https://cdn.aaai.org/ocs/ws/ws0315/15115-68462-1-PB.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "ai",
-                "gameai",
-                "analyze",
-                "affordance",
-                "",
-                "gameplay",
-                ""
-            ],
-            "short": {
-                "en": "Learn and cluster the affordance of mario game object",
-                "ja": "マリオのオブジェクトのアフォーダンスを学習・クラスタリングする"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718325883.113,
-            "updatedAt": 1718325883.113,
-            "filename": "1718325883"
+            "createdAt": 1721748611.123,
+            "updatedAt": 1722591368.103,
+            "filename": "1721748611"
         },
         {
             "title": "Human Problem Solving: Sokoban Case Study",
@@ -1016,65 +2741,39 @@
             "filename": "1724652524"
         },
         {
-            "title": "Video game scenery analysis with eye tracking",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1875952116000021",
-            "media": "academic",
+            "title": "【Git】同じコンフリクト解消を繰り返している人に教えたい「git rerere」",
+            "link": "https://qiita.com/_ken_/items/64856e91e062b325590f",
+            "media": "netpage",
             "tags": [
-                "eyetracking",
-                "game",
-                "reading"
+                "git"
             ],
             "short": {
-                "en": "methology of game user analysis by eye tracking",
-                "ja": "アイトラッキングを用いたゲームユーザー分析の方法論"
+                "en": "reusing conflict resolve",
+                "ja": "コンフリクト解消の再利用"
             },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1722570664.293,
-            "updatedAt": 1722591276.335,
-            "filename": "1722570664"
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1720756464.725,
+            "updatedAt": 1720756464.725,
+            "filename": "1720756464"
         },
         {
-            "title": "Head Firstデザインパターン 第2版",
-            "link": "https://www.oreilly.co.jp/books/9784873119762/",
-            "media": "book",
+            "title": "Enumerable.Reverse メソッドでループ順を反転",
+            "link": "https://www.curict.com/item/20/20d21b4.html",
+            "media": "netpage",
             "tags": [
-                "designpattern",
-                "programming",
-                "coding",
-                "softwarearchitecture"
+                "csharp",
+                "list"
             ],
             "short": {
-                "en": "Much of design patterns",
-                "ja": "デザインパターンいっぱい"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719553163.347,
-            "updatedAt": 1719553163.347,
-            "filename": "1719553163"
-        },
-        {
-            "title": "Dynamic Motion Matching: Design and Implementation of a Context-Aware Animation System for Games",
-            "link": "https://www.worldscientific.com/doi/10.1142/S1793351X22400086",
-            "media": "academic",
-            "tags": [
-                "animation",
-                "game",
-                "motion",
-                "3d",
-                "3danimation",
-                "unread"
-            ],
-            "short": {
-                "en": "motion matching for game",
-                "ja": "motion mathcing"
+                "en": "C#: How to iterate List from backwards",
+                "ja": "C#: リストを逆順にイテレートする"
             },
             "importance": 3,
-            "hasPage": true,
-            "createdAt": 1717727670.767,
-            "updatedAt": 1717727670.767,
-            "filename": "1717727670"
+            "hasPage": false,
+            "createdAt": 1719710332.345,
+            "updatedAt": 1719710332.345,
+            "filename": "1719710332"
         },
         {
             "title": "クロムハウンズにおける 人工知能開発から見るゲームAIの展望",
@@ -1097,1701 +2796,22 @@
             "filename": "1719312965"
         },
         {
-            "title": "Anti-Solutionist Strategies: Seriously Silly Design Fiction",
-            "link": "https://www.researchgate.net/publication/301931154_Anti-Solutionist_Strategies_Seriously_Silly_Design_Fiction",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "unread",
-                "chi",
-                "metaresearch"
-            ],
-            "short": {
-                "en": "reject the search for \"solutions\"",
-                "ja": "私たちは、「解決策」の探求を明確に拒否する、さまざまな戦略を検討する。"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1716811465.45,
-            "updatedAt": 1716811465.45,
-            "filename": "1716811465"
-        },
-        {
-            "title": "査読ガチャは甘え――トップAI会議で使われる査読割当てシステムToronto Paper Matching Systemを攻略してキミも超ウルトラ高度AI人材になろう！",
-            "link": "https://qiita.com/hmkz/items/c635c0d309f68b5919e4",
+            "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
+            "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
             "media": "netpage",
             "tags": [
-                "academic",
-                "submission",
-                "paper"
+                "rendering",
+                "graphics"
             ],
             "short": {
-                "en": "taking advantage of CMT",
-                "ja": "CMT攻略"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1717304384.333,
-            "updatedAt": 1717304384.333,
-            "filename": "1717304384"
-        },
-        {
-            "title": "Search Engines & Society -Information Quality and the Potential of AI",
-            "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
-            "media": "netpage",
-            "tags": [
-                "google",
-                "lt",
-                "searchengine"
-            ],
-            "short": {
-                "en": "Speech from Dr. Prabhakar Raghavan Senior Vice President of Google",
-                "ja": "Dr. Prabhakar Raghavan Senior Vice President of Googleの発表"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1718795206.176,
-            "updatedAt": 1718795206.176,
-            "filename": "1718795206"
-        },
-        {
-            "title": "Effects of Serious Games in Older Adults With Mild Cognitive Impairment",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/38810993/",
-            "media": "academic",
-            "tags": [
-                "game",
-                "seriousgame",
-                "mci",
-                "dementia",
-                "survey"
-            ],
-            "short": {
-                "en": "survey: game has more cognitive improvement than CoTras",
-                "ja": "MCI(軽度認知症)にとってはCoTrasよりゲームの方が認知トレーニングになる"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720886892.371,
-            "updatedAt": 1720886892.371,
-            "filename": "1720886892"
-        },
-        {
-            "title": "Stories from the History of Czechoslovakia, A Serious Game for Teaching History of the Czech Lands in the 20th Century – Notes on Design Concepts and Design Process",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-642-33542-6_6",
-            "media": "academic",
-            "tags": [
-                "game",
-                "education"
-            ],
-            "short": {
-                "en": "games \"add significant value to the instructional effectiveness of different domains\"",
-                "ja": "ゲームは\"異なる領域の指導効果に大きな価値を与える\""
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1720014749.434,
-            "updatedAt": 1720014749.434,
-            "filename": "1720014749"
-        },
-        {
-            "title": "@super_bonochin ‘s tweet",
-            "link": "https://x.com/super_bonochin/status/1800888263751946330",
-            "media": "netpage",
-            "tags": [
-                "llm"
-            ],
-            "short": {
-                "en": "llm for system is for take fussy input and connect to rule-base",
-                "ja": "LLMはファジー入力をルールベースに繋げるためにつかうもの"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718317361.522,
-            "updatedAt": 1718317361.522,
-            "filename": "1718317361"
-        },
-        {
-            "title": "SAIDO Learning as a Cognitive Intervention for Dementia Care: A Preliminary Study",
-            "link": "https://www.jamda.com/article/S1525-8610(14)00699-9/abstract",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "cognitivetraining"
-            ],
-            "short": {
-                "en": "implement SAIDO learning for US patients",
-                "ja": "米国患者へのSAIDO学習の適用"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1721795198.012,
-            "updatedAt": 1721795198.012,
-            "filename": "1721795198"
-        },
-        {
-            "title": "JavaScriptにおける連想配列のforループ操作",
-            "link": "https://qiita.com/wifeofvillon/items/15359535a834832e08ea",
-            "media": "netpage",
-            "tags": [
-                "javascript"
-            ],
-            "short": {
-                "en": "foreach of object in javascript",
-                "ja": "javascriptにおける連想配列のforeach"
+                "en": "japanese explanation of rendering pipeline",
+                "ja": "レンダリングパイプラインの概要説明"
             },
             "importance": 4,
             "hasPage": false,
-            "createdAt": 1716439717.204,
-            "updatedAt": 1716439717.204,
-            "filename": "1716439717"
-        },
-        {
-            "title": "機械学習のパラメータチューニングを「これでもか！」というくらい丁寧に解説",
-            "link": "https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359",
-            "media": "netpage",
-            "tags": [
-                "python",
-                "machinelearning",
-                "unread"
-            ],
-            "short": {
-                "en": "crazy parameters tuning total manual",
-                "ja": "すごいパラメーターチューニング総説"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1716772088.488,
-            "updatedAt": 1716772088.488,
-            "filename": "1716772088"
-        },
-        {
-            "title": "東京都議会で議論されている論点はどのようなものか。どのような質問が出ているのか。",
-            "link": "https://takahiroanno2024.github.io/tokyoai-analysis/20240615-tokyo-metropolitan-assembly/",
-            "media": "netpage",
-            "tags": [
-                "nlp",
-                "clustering",
-                "topic"
-            ],
-            "short": {
-                "en": "Very proper nlp analysis",
-                "ja": "すごく上手なNLP分析"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719052982.209,
-            "updatedAt": 1719052982.209,
-            "filename": "1719052982"
-        },
-        {
-            "title": "脳波を用いた感情分類の研究",
-            "link": "https://www.pgv.co.jp/nais-entry/case-study/202303_02",
-            "media": "netpage",
-            "tags": [
-                "psychology",
-                "eeg",
-                "biosignal",
-                "survey"
-            ],
-            "short": {
-                "en": "estimate emotion from eeg survey",
-                "ja": "脳波感情推定サーベイ"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718372074.25,
-            "updatedAt": 1718372074.25,
-            "filename": "1718372074"
-        },
-        {
-            "title": "Different Cognitive Task Designs Using Eye Tracking",
-            "link": "https://ieeexplore.ieee.org/document/9234529",
-            "media": "academic",
-            "tags": [
-                "game",
-                "eyetracking",
-                "ux",
-                "seriousgame"
-            ],
-            "short": {
-                "en": "adding game object enhance motivation but no learning difference",
-                "ja": "ゲームオブジェクトを追加することでモチベーションは高まるが、学習効果に違いはない"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1723773326.311,
-            "updatedAt": 1723773326.311,
-            "filename": "1723773326"
-        },
-        {
-            "title": "The Effect of a Narrative Intervention Program for People Living With Dementia",
-            "link": "http://dx.doi.org/10.1037/pne0000141",
-            "media": "academic",
-            "tags": [
-                "dementia"
-            ],
-            "short": {
-                "en": "give storytelling to dementia patients improve cognitive skills",
-                "ja": "認知症患者への読み聞かせは認知機能向上に有効"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1721792076.848,
-            "updatedAt": 1721792076.848,
-            "filename": "1721792076"
-        },
-        {
-            "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
-            "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "biosignal",
-                "heartrate"
-            ],
-            "short": {
-                "en": "examine stress for player while playing game",
-                "ja": "ゲーム中のストレスを測量"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1717310157.891,
-            "updatedAt": 1717310157.891,
-            "filename": "1717310157"
-        },
-        {
-            "title": "Is it a sense of autonomy, control, or attachment? Exploring the effects of in-game customization on game enjoyment",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563215001090",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "game",
-                "psychology",
-                "character",
-                "charactercustomization"
-            ],
-            "short": {
-                "en": "SDT discussion on character customization. \"games can appeal to individuals through the senses of autonomy, control, and attachment to a character; the first two prove more critical\"",
-                "ja": "キャラクターのカスタマイズに関するSDTの議論。「ゲームは、自律性、制御性、キャラクターへの愛着といった感覚を通じて個人に訴えかけることができる。"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1719201433.245,
-            "updatedAt": 1719469839.688,
-            "filename": "1719201433"
-        },
-        {
-            "title": "Git でデフォルトのリモートを変更する方法",
-            "link": "https://gotohayato.com/content/114/",
-            "media": "netpage",
-            "tags": [
-                "git"
-            ],
-            "short": {
-                "en": "change default remote",
-                "ja": "デフォルトリモート変更"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719712551.736,
-            "updatedAt": 1719712551.736,
-            "filename": "1719712551"
-        },
-        {
-            "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
-            "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
-            "media": "netpage",
-            "tags": [
-                "github",
-                "google",
-                "seo"
-            ],
-            "short": {
-                "en": "making a github repository hit in a google search",
-                "ja": "githubレポジトリをGoogle検索にヒットさせる"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717489073.76,
-            "updatedAt": 1717489073.76,
-            "filename": "1717489073"
-        },
-        {
-            "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
-            "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
-            "media": "academic",
-            "tags": [
-                "game",
-                "education"
-            ],
-            "short": {
-                "en": "\"Games can increase critical thinking, support analysis and synthesis of information, reuse of knowledge in new situations\"",
-                "ja": "「ゲームは批判的思考を高め、情報の分析と統合をサポートし、新しい状況での知識の再利用を可能にする。」"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1720014653.772,
-            "updatedAt": 1720014653.772,
-            "filename": "1720014653"
-        },
-        {
-            "title": "【1月23日追記】12月23日、24日に発生しました障害に関するご報告",
-            "link": "https://medium.com/skeb-jp/report-36b5608aa867",
-            "media": "netpage",
-            "tags": [
-                "cloud",
-                "container"
-            ],
-            "short": {
-                "en": "move from Heroku in 18 hours",
-                "ja": "Herokuから18時間で脱出したskeb事例"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1718437369.331,
-            "updatedAt": 1718437369.331,
-            "filename": "1718437369"
-        },
-        {
-            "title": "Question: Reward Per Step or at End? #242",
-            "link": "https://github.com/Unity-Technologies/ml-agents/issues/242",
-            "media": "netpage",
-            "tags": [
-                "mlagents",
-                "rl",
-                "rewards"
-            ],
-            "short": {
-                "en": "better giving rewards at last, not for every single step",
-                "ja": "毎フレーム報酬を与えるより、まとめて報酬を与えたほうがいい"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1720716711.97,
-            "updatedAt": 1720716711.97,
-            "filename": "1720716711"
-        },
-        {
-            "title": "Comparing three methods of computerised cognitive training for older adults with subclinical cognitive decline",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26674122/",
-            "media": "academic",
-            "tags": [
-                "game",
-                "dementia",
-                "seriousgame"
-            ],
-            "short": {
-                "en": "\"computerised cognitive training may offer the most benefit when incorporated into a therapeutic milieu\"",
-                "ja": "\"コンピュータを用いた認知トレーニングは、独立して行うよりトレーニングの一環に組み入れられると、最大の効果が得られる可能性がある。\""
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1720928786.994,
-            "updatedAt": 1720928786.994,
-            "filename": "1720928786"
-        },
-        {
-            "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
-            "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
-            "media": "academic",
-            "tags": [
-                "game",
-                "characterai"
-            ],
-            "short": {
-                "en": "バレないようにプレイヤーに迷路を攻略させる",
-                "ja": "バレないようにプレイヤーに迷路を攻略させる"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717431151.73,
-            "updatedAt": 1717431151.73,
-            "filename": "1717431151"
-        },
-        {
-            "title": "Sketch2Map: A Game Map Design Support System Allowing Quick Hand Sketch Prototyping",
-            "link": "https://ieee-cog.org/2020/papers/paper_213.pdf",
-            "media": "academic",
-            "tags": [
-                "gan",
-                "ai",
-                "game",
-                "assist"
-            ],
-            "short": {
-                "en": "Using GAN for transforming hand-writed sketch to 3D map",
-                "ja": "GANを使って手書きスケッチから3Dマップを生成"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717660259.095,
-            "updatedAt": 1717660259.095,
-            "filename": "1717660259"
-        },
-        {
-            "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
-            "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
-            "media": "netpage",
-            "tags": [
-                "game",
-                "gameai",
-                "characterai",
-                "htn"
-            ],
-            "short": {
-                "en": "HTN in LEFT ALIVE (Square Enix)",
-                "ja": "HTN in LEFT ALIVE (Square Enix)"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1719312049.233,
-            "updatedAt": 1719312049.233,
-            "filename": "1719312049"
-        },
-        {
-            "title": "Investigating the Elusive Role of Level Design",
-            "link": "https://ieeexplore.ieee.org/document/9231624",
-            "media": "academic",
-            "tags": [
-                "game",
-                "leveldesign",
-                "survey"
-            ],
-            "short": {
-                "en": "Survey the definition and role of \"level designer\"",
-                "ja": "「レベルデザイナー」の定義・役割を巡るサーベイ"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1717659810.606,
-            "updatedAt": 1717659810.606,
-            "filename": "1717659810"
-        },
-        {
-            "title": "HTMLのtableの列幅をドラッグで変えられるようにする雑な方法",
-            "link": "https://qiita.com/mifumi323/items/3406d4c0d9a3269cca9b",
-            "media": "netpage",
-            "tags": [
-                "html",
-                "css"
-            ],
-            "short": {
-                "en": "resizable table column by drag",
-                "ja": "ドラッグで幅変更可能なテーブルCSS"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716516123.083,
-            "updatedAt": 1716516123.083,
-            "filename": "1716516123"
-        },
-        {
-            "title": "Wiimote and Kinect: gestural user interfaces add a natural third dimension to HCI",
-            "link": "https://dl.acm.org/doi/10.1145/2254556.2254580",
-            "media": "academic",
-            "tags": [
-                "game",
-                "hci",
-                "interface",
-                "input"
-            ],
-            "short": {
-                "en": "\"Lesson learnt with this experience suggests to avoid, when possible, the classic window/icon/mouse interaction for experimenting, obviously for appropriate tasks (i.e., not keyboard intensive, etc.), new gestures and new forms of physical commands.\"",
-                "ja": "\"この経験から得られた教訓は、可能な限り古典的なウィンドウ／アイコン／マウスのインタラクションを避け、明らかに適切なタスク（キーボードを多用しないなど）、新しいジェスチャー、新しい形式の物理的コマンドを実験することを示唆している。\""
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1720006853.74,
-            "updatedAt": 1720006853.74,
-            "filename": "1720006853"
-        },
-        {
-            "title": "C++ のムーブを理解する",
-            "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
-            "media": "netpage",
-            "tags": [
-                "cpp"
-            ],
-            "short": {
-                "en": "understanding std::move()",
-                "ja": "std::move()解説"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1718272402.04,
-            "updatedAt": 1718272402.04,
-            "filename": "1718272402"
-        },
-        {
-            "title": "How to Use HTML to Open a Link in a New Tab",
-            "link": "https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/",
-            "media": "netpage",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "hyperlink opening new tab",
-                "ja": "新規タブを開くハイパーリンク"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716517146.142,
-            "updatedAt": 1716517146.142,
-            "filename": "1716517146"
-        },
-        {
-            "title": "Self-Determination Theory — I Choose You!: The Limitations of Viewing Motivation in HCI Research Through the Lens of a Single Theory",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3505270.3558361",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "psychology",
-                "game",
-                "hci"
-            ],
-            "short": {
-                "en": "criticism against thoughtless usage of SDT. And list of alternatives ",
-                "ja": "思考停止SDT使用への批判、および代替案リスト"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719488748.564,
-            "updatedAt": 1719488748.564,
-            "filename": "1719488748"
-        },
-        {
-            "title": "Control vs. Complexity in Games: Comparing Arousal in 2D Game Prototypes",
-            "link": "https://www.researchgate.net/publication/236230118_Control_vs_complexity_in_games_Comparing_arousal_in_2D_game_prototypes",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "input",
-                "control",
-                "emotion"
-            ],
-            "short": {
-                "en": "more complex game simulation, more arousal",
-                "ja": "ゲーむ状況が複雑になるほど、arousal上昇"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1720016327.948,
-            "updatedAt": 1720016327.948,
-            "filename": "1720016327"
-        },
-        {
-            "title": "Enumerable.Reverse メソッドでループ順を反転",
-            "link": "https://www.curict.com/item/20/20d21b4.html",
-            "media": "netpage",
-            "tags": [
-                "csharp",
-                "list"
-            ],
-            "short": {
-                "en": "C#: How to iterate List from backwards",
-                "ja": "C#: リストを逆順にイテレートする"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719710332.345,
-            "updatedAt": 1719710332.345,
-            "filename": "1719710332"
-        },
-        {
-            "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "game",
-                "psychology",
-                "survey"
-            ],
-            "short": {
-                "en": "survey on how game researchers using SDT",
-                "ja": "ゲーム研究者がどのようにSDTを使っているのかのサーベイ"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719968029.727,
-            "updatedAt": 1719968029.727,
-            "filename": "1719968029"
-        },
-        {
-            "title": "JSAI 2024 behavior economics",
-            "link": "temp",
-            "media": "presentation",
-            "tags": [
-                "editing"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 1,
-            "hasPage": true,
-            "createdAt": 1716870888.632,
-            "updatedAt": 1720017905.335,
-            "filename": "1716870888"
-        },
-        {
-            "title": "【Unity】【エディタ拡張】ノードエディタを作るGraph Viewの基本的な使い方",
-            "link": "https://light11.hatenadiary.com/entry/2020/06/16/200750",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "unityeditor",
-                "visualscripting"
-            ],
-            "short": {
-                "en": "How to use Graph View of Unity Editor",
-                "ja": "Unity Editorでノードグラフをビジュアルスクリプティングする"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719822776.492,
-            "updatedAt": 1719822776.492,
-            "filename": "1719822776"
-        },
-        {
-            "title": "コンピューターゲームプレイヤにおける人間らしさの調査",
-            "link": "https://dspace.jaist.ac.jp/dspace/bitstream/10119/16084/1/24547.pdf",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "humanity",
-                "characterai"
-            ],
-            "short": {
-                "en": "キャラクターAIにおける人間らしさの文献調査",
-                "ja": "What is \"humanity\" for character AI?"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717433375.173,
-            "updatedAt": 1717433375.173,
-            "filename": "1717433375"
-        },
-        {
-            "title": "Android 版のビルド、および実行手順",
-            "link": "https://www.monobitengine.com/doc/mun/contents/Platform/Build_Android.htm",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "smartphone",
-                "android"
-            ],
-            "short": {
-                "en": "build and deploy Unity app for Android",
-                "ja": "UnityアプリのAndroidへのビルド・デプロイ手順"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1719472212.578,
-            "updatedAt": 1719472212.578,
-            "filename": "1719472212"
-        },
-        {
-            "title": "Improving User's Sense of Participation in Robot-Driven Dialogue",
-            "link": "https://arxiv.org/abs/2210.09746",
-            "media": "academic",
-            "tags": [
-                "robotics",
-                "dialogue",
-                "hci"
-            ],
-            "short": {
-                "en": "Said \"user's sense of participation in dialogue is reduced because the degree of freedom in timing and content of speech is limited\" but no evidence",
-                "ja": "「ロボットによる会話は自由度が低いので当事者感が低い」とされているが、この記述に根拠がない"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1719200109.975,
-            "updatedAt": 1719200109.975,
-            "filename": "1719200109"
-        },
-        {
-            "title": "Can a serious game-based cognitive training attenuate cognitive decline related to Alzheimer’s disease? Protocol for a randomized controlled trial",
-            "link": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04131-7",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "game",
-                "seriousgame",
-                "cognitive",
-                "training"
-            ],
-            "short": {
-                "en": "improve targeted ability",
-                "ja": "狙った能力を向上させる"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1721271544.731,
-            "updatedAt": 1721271544.731,
-            "filename": "1721271544"
-        },
-        {
-            "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
-            "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "vr"
-            ],
-            "short": {
-                "en": "enabling tactile in VR by balloons",
-                "ja": "VR内の触覚を風船で実現"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1717938927.016,
-            "updatedAt": 1717938927.016,
-            "filename": "1717938927"
-        },
-        {
-            "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
-            "link": "https://arxiv.org/abs/2312.10997",
-            "media": "academic",
-            "tags": [
-                "rag",
-                "survey"
-            ],
-            "short": {
-                "en": "survey of RAG (2024/3)",
-                "ja": "RAGのサーベイ (2024/3)"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1718009136.827,
-            "updatedAt": 1718009136.827,
-            "filename": "1718009136"
-        },
-        {
-            "title": "さぁ、UnityのTilemapを始めよう！5/8 ~Tilemap関連のコンポーネント編~",
-            "link": "https://qiita.com/RyotaMurohoshi/items/ae46343828634a2d3321",
-            "media": "netpage",
-            "tags": [
-                "unity"
-            ],
-            "short": {
-                "en": "using Tilemap component",
-                "ja": "tilemapコンポーネントの扱い"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1721035923.917,
-            "updatedAt": 1721035923.917,
-            "filename": "1721035923"
-        },
-        {
-            "title": "Designing care environments for persons with Alzheimer's disease: visuoperceptual considerations",
-            "link": "https://www.researchgate.net/publication/231918985_Designing_care_environments_for_persons_with_Alzheimer's_disease_Visuo-perceptual_considerations",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "interface"
-            ],
-            "short": {
-                "en": "\"bright warm colors such as red, orange and yellow are best seen than others by elderly persons\"",
-                "ja": "\"赤、オレンジ、黄色などの明るい暖色は、高齢者には他の色よりもよく見える。\""
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1720943771.347,
-            "updatedAt": 1720943771.347,
-            "filename": "1720943771"
-        },
-        {
-            "title": "Utilising eye-tracking data in retailing field research: A practical guide",
-            "link": "https://www.sciencedirect.com/science/article/pii/S002243592400006X",
-            "media": "academic",
-            "tags": [
-                "eyetracking",
-                "guide",
-                "datascience"
-            ],
-            "short": {
-                "en": "eye tracking for physical store",
-                "ja": "実店舗のためのアイトラッキング調査"
-            },
-            "importance": 2,
-            "hasPage": true,
-            "createdAt": 1724372289.684,
-            "updatedAt": 1724397551.237,
-            "filename": "1724372289"
-        },
-        {
-            "title": "Eye-tracking research on sensory and consumer science: A review, pitfalls and future directions",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S096399692100288X",
-            "media": "academic",
-            "tags": [
-                "eyetracking",
-                "consumerscience",
-                "review"
-            ],
-            "short": {
-                "en": "eye tracking studies review for food consumer science",
-                "ja": "食品消費者科学のための視線計測研究レビュー"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1724829146.405,
-            "updatedAt": 1724829146.405,
-            "filename": "1724829146"
-        },
-        {
-            "title": "UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games",
-            "link": "https://dl.acm.org/doi/10.1145/3235765.3235780",
-            "media": "academic",
-            "tags": [
-                "sdt",
-                "psychology",
-                "game",
-                "evaluation",
-                "assessment",
-                "upeq"
-            ],
-            "short": {
-                "en": "Questionnaire made by SDT",
-                "ja": "SDTに基づいた質問紙"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1720040135.002,
-            "updatedAt": 1720040135.002,
-            "filename": "1720040135"
-        },
-        {
-            "title": "Assessment of Cognitive Training & Social Interaction in People with Mild to Moderate Dementia: A Pilot Study",
-            "link": "https://www.tandfonline.com/doi/full/10.1080/07317115.2019.1590489",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "cognitivetraining",
-                "reading"
-            ],
-            "short": {
-                "en": "Social interaction improves cognitive training for dementia",
-                "ja": "社交的インタラクションは認知症にとって認知トレーニングの質を向上させる"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1721748611.123,
-            "updatedAt": 1722591368.103,
-            "filename": "1721748611"
-        },
-        {
-            "title": "ARMORED CORE Vの対戦AIにおける階層型ゴール指向プランニングと機体制御",
-            "link": "https://cedil.cesa.or.jp/cedil_sessions/view/591",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "game",
-                "ai",
-                "gameai",
-                "characterai",
-                "character"
-            ],
-            "short": {
-                "en": "make real-time battle action by GOAP (failed)",
-                "ja": "リアルタイムバトルアクションをGOAPによって実装しようとした（失敗）"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719217778.615,
-            "updatedAt": 1719217778.615,
-            "filename": "1719217778"
-        },
-        {
-            "title": "Pythonで32bitfloatのwavファイルを再生する",
-            "link": "https://qiita.com/hotstaff/items/9c886e86cec42663b3f5",
-            "media": "netpage",
-            "tags": [
-                "python",
-                "wav"
-            ],
-            "short": {
-                "en": "make float wav",
-                "ja": "float型リストからwavデータを作成する"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1722244362.113,
-            "updatedAt": 1722244362.113,
-            "filename": "1722244362"
-        },
-        {
-            "title": "Generative Modeling of Synthetic Eye-Tracking Data: NLP-Based Approach with Recurrent Neural Networks",
-            "link": "https://www.researchgate.net/publication/346550955_Generative_Modeling_of_Synthetic_Eye-Tracking_Data_NLP-Based_Approach_with_Recurrent_Neural_Networks",
-            "media": "academic",
-            "tags": [
-                "eyetracking",
-                "rnn"
-            ],
-            "short": {
-                "en": "generating eye tracking data by NLP method",
-                "ja": "アイトラッキングデータをNLP手法で生成"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1724400260.698,
-            "updatedAt": 1724401085.65,
-            "filename": "1724400260"
-        },
-        {
-            "title": "「次世代医療基盤法」とは",
-            "link": "https://www8.cao.go.jp/iryou/gaiyou/pdf/seidonogaiyou.pdf",
-            "media": "netpage",
-            "tags": [
-                "medicaldata",
-                "personaldata"
-            ],
-            "short": {
-                "en": "whole explanation of The Next Generation Medical Infrastructure Act　",
-                "ja": "次世代医療基盤法の概要説明"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1720447555.297,
-            "updatedAt": 1720447555.297,
-            "filename": "1720447555"
-        },
-        {
-            "title": "Learning, Attentional Control, and Action Video Games",
-            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3461277/",
-            "media": "netpage",
-            "tags": [
-                "game",
-                "dementia"
-            ],
-            "short": {
-                "en": "Cognitive function can be improved by enhancing the ability to learn new tasks",
-                "ja": "新しい課題を学習する能力を高めることで、認知機能を向上させることができる。"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720922286.789,
-            "updatedAt": 1720922286.789,
-            "filename": "1720922286"
-        },
-        {
-            "title": "健康医療データの用語集 匿名化/匿名加工",
-            "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
-            "media": "netpage",
-            "tags": [
-                "medicaldata",
-                "personaldata"
-            ],
-            "short": {
-                "ja": "「匿名加工情報」は医療情報も加工、「仮名加工情報」は医療情報を加工しない",
-                "en": "difference of Anonymization and pseudonymization"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1720446218.77,
-            "updatedAt": 1720446218.77,
-            "filename": "1720446218"
-        },
-        {
-            "title": "Database for an emotion recognition system based on EEG signals and various computer games – GAMEEMO",
-            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1746809420301075",
-            "media": "academic",
-            "tags": [
-                "game",
-                "psychology",
-                "biosignal",
-                "eeg",
-                ""
-            ],
-            "short": {
-                "en": "EEG data playing 4 games. Has good emotion psychology overview at introduction. Games selected arbitrarily.",
-                "ja": "4ゲームのEEG（脳波）データ。感情心理学の良い概説あり。ゲームは恣意的に選ばれている"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1716453618.354,
-            "updatedAt": 1716453618.354,
-            "filename": "1716453618"
-        },
-        {
-            "title": "Getで始まる名前を関数につける前に読む記事",
-            "link": "https://zenn.dev/blue_jam/articles/2a347b36b43d59",
-            "media": "netpage",
-            "tags": [
-                "programming",
-                "coding"
-            ],
-            "short": {
-                "en": "Function name other than `Get`",
-                "ja": "Get以外につけるべき関数名"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719580997.086,
-            "updatedAt": 1719580997.086,
-            "filename": "1719580997"
-        },
-        {
-            "title": "Exploring HTN Planners through Example",
-            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
-            "media": "netpage",
-            "tags": [
-                "unread"
-            ],
-            "short": {
-                "en": "e",
-                "ja": "e"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718032796.794,
-            "updatedAt": 1718032796.794,
-            "filename": "1718032796"
-        },
-        {
-            "title": "Unity: Order of execution for event functions",
-            "link": "https://docs.unity3d.com/Manual/ExecutionOrder.html",
-            "media": "netpage",
-            "tags": [
-                "unity"
-            ],
-            "short": {
-                "en": "life cycle order of Unity event functions",
-                "ja": "Unityのイベント関数発火順序"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1721495818.439,
-            "updatedAt": 1721495818.439,
-            "filename": "1721495818"
-        },
-        {
-            "title": "JSAI 2024 HPE",
-            "link": "Temp",
-            "media": "academic",
-            "tags": [
-                "editing",
-                "environment"
-            ],
-            "short": {
-                "en": "Integrated environment software for ML",
-                "ja": "機械学習のスーパー環境構築ソフトウェア"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1716867669.43,
-            "updatedAt": 1716867669.43,
-            "filename": "1716867669"
-        },
-        {
-            "title": "Jeff Orkin - Goal-Oriented Action Planning (GOAP)",
-            "link": "https://web.archive.org/web/20230713022726/https://alumni.media.mit.edu/~jorkin/goap.html",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "game",
-                "gameai",
-                "characterai"
-            ],
-            "short": {
-                "en": "games and resources for GOAP",
-                "ja": "GOAPを実装しているゲーム、GOAPをまとめているリソースまとめ"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1719312319.293,
-            "updatedAt": 1719312319.293,
-            "filename": "1719312319"
-        },
-        {
-            "title": "acorn",
-            "link": "https://github.com/acornjs/acorn?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library",
-            "media": "repository",
-            "tags": [
-                "javascript",
-                "parser",
-                "abstractsyntaxtree",
-                "compiler"
-            ],
-            "short": {
-                "en": "Javascript parser library",
-                "ja": "Javascript parser library"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1717577391.578,
-            "updatedAt": 1717577391.578,
-            "filename": "1717577391"
-        },
-        {
-            "title": "Training ML-Agents",
-            "link": "https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-ML-Agents.md#behavior-configurations",
-            "media": "netpage",
-            "tags": [
-                "mlagents",
-                "unity",
-                "rl",
-                "game",
-                "gameai",
-                ""
-            ],
-            "short": {
-                "en": "Config of Mlagents",
-                "ja": "mlagentsのコンフィグ設定"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1720614316.706,
-            "updatedAt": 1720614316.706,
-            "filename": "1720614316"
-        },
-        {
-            "title": "「今日のメシどうする？」問題から学ぶ、階層型タスクネットワーク",
-            "link": "https://morikatron.ai/2019/12/gdm37_htn/",
-            "media": "netpage",
-            "tags": [
-                "htn",
-                "game",
-                "characterai",
-                "gameai",
-                "ai",
-                ""
-            ],
-            "short": {
-                "en": "plain japanese explanation of HTN",
-                "ja": "HTNの平易日本語解説"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719311443.315,
-            "updatedAt": 1719311443.315,
-            "filename": "1719311443"
-        },
-        {
-            "title": "Human Demonstrations are Generalizable Knowledge for Robots",
-            "link": "https://arxiv.org/abs/2312.02419v1",
-            "media": "academic",
-            "tags": [
-                "ai",
-                "llm",
-                "robotics",
-                "humandemonstration",
-                "knowledge"
-            ],
-            "short": {
-                "en": "Get every knowledge from a video",
-                "ja": "動画から全ての知識を把握する"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718326632.599,
-            "updatedAt": 1718326632.599,
-            "filename": "1718326632"
-        },
-        {
-            "title": "Introducing EVG: An Emotion Evoking Game",
-            "link": "https://link.springer.com/chapter/10.1007/11821830_23",
-            "media": "academic",
-            "tags": [
-                "emotion",
-                "game",
-                "facial"
-            ],
-            "short": {
-                "en": "Experiment of controling user's emotion",
-                "ja": "プレイヤーの感情をコントロールする実験"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1720015294.43,
-            "updatedAt": 1720015294.43,
-            "filename": "1720015294"
-        },
-        {
-            "title": "ビッグデータが拓く医療AI",
-            "link": "https://www.maruzen-publishing.co.jp/item/b304316.html",
-            "media": "book",
-            "tags": [
-                "medicaldata",
-                "ethics",
-                "personaldata"
-            ],
-            "short": {
-                "en": "AI for medicine. Including ethics",
-                "ja": "医療のためのAI。倫理に関する言及含む"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720307302.984,
-            "updatedAt": 1720307302.984,
-            "filename": "1720307302"
-        },
-        {
-            "title": "New conceptualizations of practice: Common principles in three paradigms suggest new concepts for training.",
-            "link": "https://psycnet.apa.org/record/1993-00369-001",
-            "media": "academic",
-            "tags": [
-                "psychology",
-                "learning"
-            ],
-            "short": {
-                "en": "General-oriented tasks need to include fewer tasks and broader variety of stimuli",
-                "ja": "一般志向のタスクは、より少ないタスクと、より多様な刺激を含む必要がある。"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720924884.852,
-            "updatedAt": 1720924884.852,
-            "filename": "1720924884"
-        },
-        {
-            "title": "Affective Videogames and Modes of Affective Gaming: Assist Me, Challenge Me, Emote Me",
-            "link": "https://www.researchgate.net/profile/Alan-Dix/publication/221217377_Affective_Videogames_and_Modes_of_Affective_Gaming_Assist_Me_Challenge_Me_Emote_Me_ACE/links/5631e14808ae0530378d37be/Affective-Videogames-and-Modes-of-Affective-Gaming-Assist-Me-Challenge-Me-Emote-Me-ACE.pdf",
-            "media": "academic",
-            "tags": [
-                "psychology",
-                "affective",
-                "game"
-            ],
-            "short": {
-                "en": "propose a new approach to game design based on several high-level design heuristics: assist me, challenge me and emote me (ACE)",
-                "ja": "アシスト・ミー、チャレンジ・ミー、エモーション・ミー（ACE）というハイレベルなデザイン・ヒューリスティックに基づくゲームデザインの新しいアプローチを提案する。"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1717430302.77,
-            "updatedAt": 1717430302.77,
-            "filename": "1717430302"
-        },
-        {
-            "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "game",
-                "emotion",
-                "psychology"
-            ],
-            "short": {
-                "en": "emotional difference between mouse input and Kinect input",
-                "ja": "マウス入力とジェスチャ入力の感情的差異"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720005797.937,
-            "updatedAt": 1720005797.937,
-            "filename": "1720005797"
-        },
-        {
-            "title": "Cognitive Performance in Senile Dementia of the Alzheimer’s Type: The Kitchen Task Assessment",
-            "link": "https://research.aota.org/ajot/article-abstract/47/5/431/3300/Cognitive-Performance-in-Senile-Dementia-of-the?redirectedFrom=PDF",
-            "media": "academic",
-            "tags": [
-                "dementia"
-            ],
-            "short": {
-                "en": "AD patients that can be cognitively effective requires specialized training that will focus on all their four cognitive spheres: memory, planning skills, initiative and perseverance",
-                "ja": "AD患者が認知的に効果的であるためには、4つの認知領域（記憶力、計画力、自発性、忍耐力）すべてに焦点を当てた専門的なトレーニングが必要である。"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1720940369.665,
-            "updatedAt": 1720940369.665,
-            "filename": "1720940369"
-        },
-        {
-            "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
-            "link": "https://zenn.dev/yurukei20/articles/",
-            "media": "book",
-            "tags": [
-                "html"
-            ],
-            "short": {
-                "en": "showing markdown in html",
-                "ja": "markdownをhtmlで表示"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716365855.63,
-            "updatedAt": 1716365855.63,
-            "filename": "markdownwriting"
-        },
-        {
-            "title": "Exploring HTN Planners through Example",
-            "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
-            "media": "netpage",
-            "tags": [
-                "htn",
-                "gameai",
-                "characterai",
-                "ai",
-                "game"
-            ],
-            "short": {
-                "en": "HTN full explanation by Game AI Pro",
-                "ja": "Game AI ProによるHTN完全解説"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719444162.387,
-            "updatedAt": 1719662216.299,
-            "filename": "1719444162"
-        },
-        {
-            "title": "Emotion in Human–Computer Interaction",
-            "link": "https://www.researchgate.net/publication/242107189_Emotion_in_Human-Computer_Interaction",
-            "media": "academic",
-            "tags": [
-                "hci",
-                "emotion",
-                "psychology",
-                "total"
-            ],
-            "short": {
-                "en": "total explanation of emotion in HCI",
-                "ja": "HCIにおける感情総説"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719069210.137,
-            "updatedAt": 1719069210.137,
-            "filename": "1719069210"
-        },
-        {
-            "title": "Repository and Unit of Work in Domain-Driven Design",
-            "link": "https://medium.com/@ruben.alapont/repository-and-unit-of-work-in-domain-driven-design-cc5638780dc3",
-            "media": "netpage",
-            "tags": [
-                "ddd",
-                "repositorypattern",
-                "onionarchitecture"
-            ],
-            "short": {
-                "en": "repository pattern in DDD ",
-                "ja": "ドメイン駆動設計におけるレポジトリパターン"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1718186442.401,
-            "updatedAt": 1718186442.401,
-            "filename": "1718186442"
-        },
-        {
-            "title": "Effects of a Cognitive Stimulation Program in Institutionalized Patients with Dementia",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/36579546/",
-            "media": "academic",
-            "tags": [
-                "dementia"
-            ],
-            "short": {
-                "en": "cognitive training improves UNDERSTANDING of language commands",
-                "ja": "認知トレーニングにより言語命令の理解を向上させる"
-            },
-            "importance": 1,
-            "hasPage": false,
-            "createdAt": 1721714236.167,
-            "updatedAt": 1721714236.167,
-            "filename": "1721714236"
-        },
-        {
-            "title": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
-            "link": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
-            "media": "academic",
-            "tags": [
-                "eyetracking"
-            ],
-            "short": {
-                "en": "scanpath SR found stragety of Raven’s Advanced Progressive Matrices",
-                "ja": "scanpath SRでRaven’s Advanced Progressive Matrices解法戦略が分かった"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1724644453.41,
-            "updatedAt": 1724644453.41,
-            "filename": "1724644453"
-        },
-        {
-            "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
-            "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
-            "media": "netpage",
-            "tags": [
-                "goap",
-                "gameai",
-                "characterai",
-                "game"
-            ],
-            "short": {
-                "en": "GOAP explanation in Tomb Raider",
-                "ja": "Tomb RaiderにおけるGOAP"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1719312672.778,
-            "updatedAt": 1719312672.778,
-            "filename": "1719312672"
-        },
-        {
-            "title": "Git で、ファイルを管理対象から外して、追跡をやめる方法",
-            "link": "https://www-creators.com/archives/1748",
-            "media": "netpage",
-            "tags": [
-                "git"
-            ],
-            "short": {
-                "en": "how to stop tracking of git",
-                "ja": "gitの追跡を削除する方法"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1722566314.082,
-            "updatedAt": 1722566314.082,
-            "filename": "1722566314"
-        },
-        {
-            "title": "Training Configuration File",
-            "link": "https://unity-technologies.github.io/ml-agents/Training-Configuration-File/",
-            "media": "netpage",
-            "tags": [
-                "unity",
-                "mlagents",
-                "game",
-                "gameai"
-            ],
-            "short": {
-                "en": "each config explanation for mlagents",
-                "ja": "mlagentsのコンフィグ各項説明"
-            },
-            "importance": 4,
-            "hasPage": false,
-            "createdAt": 1720656080.961,
-            "updatedAt": 1720656080.961,
-            "filename": "1720656080"
-        },
-        {
-            "title": "Removing brakes on adult brain plasticity: from molecular to behavioral interventions",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/21068299/",
-            "media": "academic",
-            "tags": [
-                "dementia"
-            ],
-            "short": {
-                "en": "\"given appropriate training, the adult brain has the capacity for far more substantial plasticity than previously believed\"",
-                "ja": "適切な訓練を受ければ、成人の脳はこれまで信じられていたよりもはるかに大幅な可塑性を発揮する。"
-            },
-            "importance": 4,
-            "hasPage": true,
-            "createdAt": 1720923411.11,
-            "updatedAt": 1720923411.11,
-            "filename": "1720923411"
-        },
-        {
-            "title": "新・動機づけ研究の最前線 （単行本）",
-            "link": "https://www.kitaohji.com/book/b580241.html",
-            "media": "book",
-            "tags": [
-                "psychology",
-                "motivation",
-                ""
-            ],
-            "short": {
-                "en": "Japanese text book for SDT and other motivation theories",
-                "ja": "SDTや動機に関する日本語教科書"
-            },
-            "importance": 5,
-            "hasPage": true,
-            "createdAt": 1719539032.467,
-            "updatedAt": 1719539032.467,
-            "filename": "1719539032"
-        },
-        {
-            "title": "The time course of learning a visual skill",
-            "link": "https://www.nature.com/articles/365250a0",
-            "media": "academic",
-            "tags": [
-                "learning",
-                "psychology"
-            ],
-            "short": {
-                "en": "first learning is generalization, but later learning is task-specific",
-                "ja": "最初の学習は汎化であるが、後の学習は課題固有である"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720924540.16,
-            "updatedAt": 1720924540.16,
-            "filename": "1720924540"
-        },
-        {
-            "title": "gameaipro.com",
-            "link": "http://www.gameaipro.com/",
-            "media": "netpage",
-            "tags": [
-                "game",
-                "ai",
-                "gameai"
-            ],
-            "short": {
-                "en": "Total articles of game AI",
-                "ja": "ゲームAI技術全て"
-            },
-            "importance": 5,
-            "hasPage": false,
-            "createdAt": 1718058851.738,
-            "updatedAt": 1718058851.738,
-            "filename": "1718058851"
-        },
-        {
-            "title": "Voice Trigger System for Siri",
-            "link": "https://machinelearning.apple.com/research/voice-trigger",
-            "media": "netpage",
-            "tags": [
-                "voicetrigger",
-                "interaction",
-                "ai"
-            ],
-            "short": {
-                "en": "\"hey siri\" voice trigger",
-                "ja": "\"hey siri\" voice trigger"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1722060168.537,
-            "updatedAt": 1722060168.537,
-            "filename": "1722060168"
-        },
-        {
-            "title": "ヘルスデータサイエンス入門 ―医療・健康データの活用を目指して―",
-            "link": "https://www.asakura.co.jp/detail.php?book_code=12286",
-            "media": "book",
-            "tags": [
-                "medicaldata",
-                "ethics",
-                "personaldata"
-            ],
-            "short": {
-                "en": "data sciencing for medicine. Including ethics and karte",
-                "ja": "医療データサイエンス概論。倫理とカルテの言及含む"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1720305249.4,
-            "updatedAt": 1720305249.4,
-            "filename": "1720305249"
-        },
-        {
-            "title": "The Effects of Home-Based Cognitive Training on Verbal Working Memory and Language Comprehension in Older Adulthood",
-            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5550674/",
-            "media": "academic",
-            "tags": [
-                "cognitivetraining",
-                "verbalworkingmemory",
-                "dementia"
-            ],
-            "short": {
-                "en": "working memory is important for language understanding",
-                "ja": "作業記憶は言語理解に重要"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1721685951.198,
-            "updatedAt": 1721685951.198,
-            "filename": "1721685951"
-        },
-        {
-            "title": "【Git】同じコンフリクト解消を繰り返している人に教えたい「git rerere」",
-            "link": "https://qiita.com/_ken_/items/64856e91e062b325590f",
-            "media": "netpage",
-            "tags": [
-                "git"
-            ],
-            "short": {
-                "en": "reusing conflict resolve",
-                "ja": "コンフリクト解消の再利用"
-            },
-            "importance": 2,
-            "hasPage": false,
-            "createdAt": 1720756464.725,
-            "updatedAt": 1720756464.725,
-            "filename": "1720756464"
-        },
-        {
-            "title": "SP-EyeGAN: Generating Synthetic Eye Movement Data with Generative Adversarial Networks",
-            "link": "https://dl.acm.org/doi/10.1145/3588015.3588410",
-            "media": "academic",
-            "tags": [
-                "gan",
-                "eyetracking"
-            ],
-            "short": {
-                "en": "SOTA eye tracking data generation",
-                "ja": "SOTAアイトラッキングデータ生成"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1724403171.946,
-            "updatedAt": 1724403171.946,
-            "filename": "1724403171"
-        },
-        {
-            "title": "Benefits of embedding custom fonts",
-            "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
-            "media": "netpage",
-            "tags": [
-                "powerpoint",
-                "microsoft"
-            ],
-            "short": {
-                "en": "Save powerpoints with fonts",
-                "ja": "フォント付きでパワポを保存する"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1716707379.166,
-            "updatedAt": 1716707379.166,
-            "filename": "1716707379"
-        },
-        {
-            "title": "‘Kitchen and cooking,’ a serious game for mild cognitive impairment and Alzheimer’s disease: a pilot study",
-            "link": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2015.00024/full",
-            "media": "academic",
-            "tags": [
-                "dementia",
-                "game",
-                "seriousgame",
-                "cognitivetraining"
-            ],
-            "short": {
-                "en": "improvement by game",
-                "ja": "ゲームによる改善"
-            },
-            "importance": 3,
-            "hasPage": true,
-            "createdAt": 1721275637.837,
-            "updatedAt": 1721275637.837,
-            "filename": "1721275637"
-        },
-        {
-            "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
-            "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
-            "media": "netpage",
-            "tags": [
-                "javascript",
-                "random"
-            ],
-            "short": {
-                "en": "Seeded random generator by JavaScript",
-                "ja": "JavaScriptでシード生成乱数クラス"
-            },
-            "importance": 3,
-            "hasPage": false,
-            "createdAt": 1717488367.253,
-            "updatedAt": 1717488367.253,
-            "filename": "1717488367"
+            "createdAt": 1719465110.884,
+            "updatedAt": 1719465110.884,
+            "filename": "1719465110"
         },
         {
             "title": "A Review of Affective Design towards Video Games",
