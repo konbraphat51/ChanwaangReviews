@@ -1132,6 +1132,25 @@
             "filename": "1717433375"
         },
         {
+            "title": "主観感情推定の研究動向",
+            "link": "https://www.jstage.jst.go.jp/article/jjsai/36/1/36_13/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "emotion",
+                "review"
+            ],
+            "short": {
+                "en": "review for sensing emotion 2021",
+                "ja": "感情計測のレビュー2021"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1725010164.84,
+            "updatedAt": 1725010164.84,
+            "filename": "1725010164"
+        },
+        {
             "title": "F.E.A.Rにおけるゴール指向プランニング",
             "link": "https://www.slideshare.net/slideshow/y-miyake-igdaaiseminar2nd2007210/36655381",
             "media": "netpage",
