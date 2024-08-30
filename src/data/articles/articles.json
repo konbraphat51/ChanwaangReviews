@@ -677,6 +677,24 @@
             "filename": "1720924884"
         },
         {
+            "title": "Using games to understand the mind",
+            "link": "https://www.nature.com/articles/s41562-024-01878-9",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology"
+            ],
+            "short": {
+                "en": "possibility of new psychologic research by games",
+                "ja": "ゲームにより可能になる新しい心理学研究"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1724988971.948,
+            "updatedAt": 1724988971.948,
+            "filename": "1724988971"
+        },
+        {
             "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
             "link": "https://arxiv.org/abs/2312.10997",
             "media": "academic",
