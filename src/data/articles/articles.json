@@ -1382,6 +1382,23 @@
             "filename": "1724400260"
         },
         {
+            "title": "LineRenderer",
+            "link": "https://docs.unity3d.com/ScriptReference/LineRenderer.html",
+            "media": "netpage",
+            "tags": [
+                "unity"
+            ],
+            "short": {
+                "en": "drawing line in unity",
+                "ja": "unityで線を描く"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1725072957.466,
+            "updatedAt": 1725072957.466,
+            "filename": "1725072957"
+        },
+        {
             "title": "AI系の研究・開発に関する情報収集元を紹介",
             "link": "https://qiita.com/YutaroOgawa2/items/01dce7b2ffab79fc5fcc",
             "media": "netpage",
