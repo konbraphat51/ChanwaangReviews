@@ -2719,6 +2719,27 @@
             "filename": "1721473573"
         },
         {
+            "title": "Visual Perception and Performance: An Eye Tracking Study",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3588015.3588424",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "psychology",
+                "biosignal",
+                "pupil",
+                "difficulty"
+            ],
+            "short": {
+                "en": "pupil can be a metrics of perceived task complexity",
+                "ja": "瞳孔は「認知的難易度」の指標になりうる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1725247643.175,
+            "updatedAt": 1725247643.175,
+            "filename": "1725247643"
+        },
+        {
             "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
             "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
             "media": "netpage",
