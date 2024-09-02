@@ -1322,6 +1322,24 @@
             "filename": "1716811465"
         },
         {
+            "title": "Tool and object affordances: An ecological eye-tracking study",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0278262619302039",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "affordance"
+            ],
+            "short": {
+                "en": "tool affordance is from griping part",
+                "ja": "取っ手の部分から道具のアフォーダンスが始まる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1725242531.628,
+            "updatedAt": 1725242531.628,
+            "filename": "1725242531"
+        },
+        {
             "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
             "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
             "media": "academic",
