@@ -938,6 +938,24 @@
             "filename": "1718032796"
         },
         {
+            "title": "PyGazeAnalyser",
+            "link": "https://github.com/esdalmaijer/PyGazeAnalyser",
+            "media": "repository",
+            "tags": [
+                "eyetracking",
+                "python"
+            ],
+            "short": {
+                "en": "python open-source library for eye tracking",
+                "ja": "アイトラッキング用Pythonオープンソースライブラリ"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1725261105.931,
+            "updatedAt": 1725261105.931,
+            "filename": "1725261105"
+        },
+        {
             "title": "LLMを活用したシンボリックGame AIの構築",
             "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1I4OS31a04/_article/-char/ja",
             "media": "academic",
