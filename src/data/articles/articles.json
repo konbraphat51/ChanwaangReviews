@@ -2584,6 +2584,23 @@
             "filename": "1717430302"
         },
         {
+            "title": "Deep Reinforcement Learning, a textbook: Tabular Value-Based Reinforcement Learning",
+            "link": "https://arxiv.org/pdf/2201.02135",
+            "media": "book",
+            "tags": [
+                "rl"
+            ],
+            "short": {
+                "en": "classic reinforcement learning explanation",
+                "ja": "古典的な強化学習の説明"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1725599327.321,
+            "updatedAt": 1725599327.321,
+            "filename": "1725599327"
+        },
+        {
             "title": "Getで始まる名前を関数につける前に読む記事",
             "link": "https://zenn.dev/blue_jam/articles/2a347b36b43d59",
             "media": "netpage",
