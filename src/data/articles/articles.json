@@ -655,6 +655,23 @@
             "filename": "1723773326"
         },
         {
+            "title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers",
+            "link": "https://arxiv.org/abs/2409.04109",
+            "media": "academic",
+            "tags": [
+                "llm"
+            ],
+            "short": {
+                "en": "LLM has better novel research idea than experts",
+                "ja": "専門家よりLLMの方が新規性のある研究アイデアを出せる"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1725969164.804,
+            "updatedAt": 1725969164.804,
+            "filename": "1725969164"
+        },
+        {
             "title": "【1月23日追記】12月23日、24日に発生しました障害に関するご報告",
             "link": "https://medium.com/skeb-jp/report-36b5608aa867",
             "media": "netpage",
