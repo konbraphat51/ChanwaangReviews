@@ -1939,6 +1939,24 @@
             "filename": "1720924884"
         },
         {
+            "title": "音声認識の勢力図が変わる！？GoogleとMicrosoftの音声認識APIの比較",
+            "link": "https://www.bewith.net/gemba-driven/article/digital/entry-249.html",
+            "media": "netpage",
+            "tags": [
+                "cloud",
+                "speech2text"
+            ],
+            "short": {
+                "en": "comparison of speech to text of Azure/GCP",
+                "ja": "Azure/GCPの書き起こし比較"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1726316734.592,
+            "updatedAt": 1726316734.592,
+            "filename": "1726316734"
+        },
+        {
             "title": "主観感情推定の研究動向",
             "link": "https://www.jstage.jst.go.jp/article/jjsai/36/1/36_13/_pdf/-char/ja",
             "media": "academic",
