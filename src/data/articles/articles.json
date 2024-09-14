@@ -1071,6 +1071,25 @@
             "filename": "1722184113"
         },
         {
+            "title": "【吉田寛】ゲーム研究とは 「遊び」？「メディア」？「芸術」？ ゲームの本質について考える",
+            "link": "https://www.youtube.com/live/_MAF7W0vreo?si=ZZB7est4VRpOQ29K",
+            "media": "presentation",
+            "tags": [
+                "game",
+                "gamestudies",
+                "reading"
+            ],
+            "short": {
+                "en": "The essence of game",
+                "ja": "ゲームの本質"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1726210281.236,
+            "updatedAt": 1726210281.236,
+            "filename": "1726210281"
+        },
+        {
             "title": "【Unity】ダークソウルっぽいカメラワークを作る【Cinemachine + Input System】",
             "link": "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2022_24",
             "media": "netpage",
@@ -1918,6 +1937,24 @@
             "createdAt": 1720924884.852,
             "updatedAt": 1720924884.852,
             "filename": "1720924884"
+        },
+        {
+            "title": "音声認識の勢力図が変わる！？GoogleとMicrosoftの音声認識APIの比較",
+            "link": "https://www.bewith.net/gemba-driven/article/digital/entry-249.html",
+            "media": "netpage",
+            "tags": [
+                "cloud",
+                "speech2text"
+            ],
+            "short": {
+                "en": "comparison of speech to text of Azure/GCP",
+                "ja": "Azure/GCPの書き起こし比較"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1726316734.592,
+            "updatedAt": 1726316734.592,
+            "filename": "1726316734"
         },
         {
             "title": "主観感情推定の研究動向",
