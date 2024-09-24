@@ -394,6 +394,23 @@
             "filename": "1724829146"
         },
         {
+            "title": "心理学研究法 (放送大学)",
+            "link": "https://www.amazon.co.jp/%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%B3%95-%E6%94%BE%E9%80%81%E5%A4%A7%E5%AD%A6%E6%95%99%E6%9D%90-%E4%B8%89%E6%B5%A6-%E9%BA%BB%E5%AD%90/dp/4595321775/ref=asc_df_4595321775/?tag=jpgo-22&linkCode=df0&hvadid=707555096339&hvpos=&hvnetw=g&hvrand=13540659214487931778&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20636&hvtargid=pla-896027205304&psc=1&mcid=1dc04df90e883e15be1791860430e64c&th=1&psc=1&gad_source=1",
+            "media": "book",
+            "tags": [
+                "psychology"
+            ],
+            "short": {
+                "en": "introduction to research methods of psychology",
+                "ja": "心理学研究法の放送大講義"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1727177176.836,
+            "updatedAt": 1727177176.836,
+            "filename": "1727177176"
+        },
+        {
             "title": "Android 版のビルド、および実行手順",
             "link": "https://www.monobitengine.com/doc/mun/contents/Platform/Build_Android.htm",
             "media": "netpage",
