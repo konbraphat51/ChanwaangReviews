@@ -2436,6 +2436,24 @@
             "filename": "1720005797"
         },
         {
+            "title": "つい、やってしまう体験の考え方 | note",
+            "link": "https://note.com/hitomi_0123/n/nab1dd64df393",
+            "media": "netpage",
+            "tags": [
+                "affordance",
+                "nintendo"
+            ],
+            "short": {
+                "en": "summary of Nintendo's designer's affordance concept",
+                "ja": "任天堂デザイナーのアフォーダンス論の要約"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1727942184.019,
+            "updatedAt": 1727942184.019,
+            "filename": "1727942184"
+        },
+        {
             "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
             "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
             "media": "netpage",
