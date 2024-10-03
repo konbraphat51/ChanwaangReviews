@@ -1393,6 +1393,24 @@
             "filename": "1716870888"
         },
         {
+            "title": "エンジニア向け一流デザインまとめ",
+            "link": "https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0",
+            "media": "netpage",
+            "tags": [
+                "ui",
+                "design"
+            ],
+            "short": {
+                "en": "good UI designs",
+                "ja": "良いUIデザイン集"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1727924036.479,
+            "updatedAt": 1727924036.479,
+            "filename": "1727924036"
+        },
+        {
             "title": "Self-Determination Theory — I Choose You!: The Limitations of Viewing Motivation in HCI Research Through the Lens of a Single Theory",
             "link": "https://dl.acm.org/doi/abs/10.1145/3505270.3558361",
             "media": "academic",
