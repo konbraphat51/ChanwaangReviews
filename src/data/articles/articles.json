@@ -1133,6 +1133,25 @@
             "filename": "1724644453"
         },
         {
+            "title": "A Cognitivist Theory of Affordances for Games",
+            "link": "https://dl.digra.org/index.php/dl/article/view/687/687",
+            "media": "academic",
+            "tags": [
+                "game",
+                "affordance",
+                "psychology"
+            ],
+            "short": {
+                "en": "general affordance theory for game",
+                "ja": "ゲームのための汎用アフォーダンス理論"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1727936387.503,
+            "updatedAt": 1727936387.503,
+            "filename": "1727936387"
+        },
+        {
             "title": "音声認識の勢力図が変わる！？GoogleとMicrosoftの音声認識APIの比較",
             "link": "https://www.bewith.net/gemba-driven/article/digital/entry-249.html",
             "media": "netpage",
