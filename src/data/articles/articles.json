@@ -172,6 +172,26 @@
             "filename": "1720040135"
         },
         {
+            "title": "A game attention model for efficient bit rate allocation in cloud gaming",
+            "link": "https://link.springer.com/article/10.1007/s00530-014-0381-1",
+            "media": "academic",
+            "tags": [
+                "attention",
+                "psychology",
+                "game",
+                "e"
+            ],
+            "short": {
+                "en": "decrease bitrate of cloud gaming based on attention",
+                "ja": "注意に即してクラウドゲーミングのビットレートを節約する"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1728027926.983,
+            "updatedAt": 1728027926.983,
+            "filename": "1728027926"
+        },
+        {
             "title": "Search Engines & Society -Information Quality and the Potential of AI",
             "link": "https://www.u-tokyo.ac.jp/focus/en/events/z1701_00042.html",
             "media": "netpage",
