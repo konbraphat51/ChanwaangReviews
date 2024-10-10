@@ -1553,6 +1553,25 @@
             "filename": "1721795198"
         },
         {
+            "title": "Eye-Tracking Feature Extraction for Biometric Machine Learning",
+            "link": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2021.796895/full#B22",
+            "media": "academic",
+            "tags": [
+                "eyetracking",
+                "ml",
+                "review"
+            ],
+            "short": {
+                "en": "eye tracking data used for machine learning",
+                "ja": "機械学習に視線計測データを用いた例"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1728544915.74,
+            "updatedAt": 1728544915.74,
+            "filename": "1728544915"
+        },
+        {
             "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
             "link": "https://arxiv.org/abs/2312.10997",
             "media": "academic",
