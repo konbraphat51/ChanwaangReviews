@@ -2222,6 +2222,24 @@
             "filename": "1720940369"
         },
         {
+            "title": "ゲーム学の国際的動向",
+            "link": "https://www.jstage.jst.go.jp/article/itej/60/4/60_4_491/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "game",
+                "fun"
+            ],
+            "short": {
+                "en": "what is fun game? from Baba",
+                "ja": "馬場による「面白さ」に関する整理"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1728629811.691,
+            "updatedAt": 1728629811.691,
+            "filename": "1728629811"
+        },
+        {
             "title": "JSAI 2024 HPE",
             "link": "Temp",
             "media": "academic",
