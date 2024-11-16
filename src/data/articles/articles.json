@@ -1951,6 +1951,25 @@
             "filename": "1719200109"
         },
         {
+            "title": "「ピカチュウ」にこめられた感情",
+            "link": "https://www.jstage.jst.go.jp/article/onseikenkyu/8/1/8_KJ00007631375/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "emotion",
+                "emotionrecognition",
+                "voice"
+            ],
+            "short": {
+                "en": "It's difficult for human to recognize emotion from just voice tone",
+                "ja": "人間にとって発音だけから感情を知るのは難しい"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1731743938.306,
+            "updatedAt": 1731743938.306,
+            "filename": "1731743938"
+        },
+        {
             "title": "エンジニア向け一流デザインまとめ",
             "link": "https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0",
             "media": "netpage",
