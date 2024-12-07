@@ -2302,6 +2302,25 @@
             "filename": "1725261105"
         },
         {
+            "title": "Human-Computer Interaction",
+            "link": "https://www.researchgate.net/publication/224927543_Human-Computer_Interaction",
+            "media": "academic",
+            "tags": [
+                "hci",
+                "review",
+                "textbook"
+            ],
+            "short": {
+                "en": "where to cite from about HCI terms",
+                "ja": "HCI用語についてはここから引用する"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1733542699.311,
+            "updatedAt": 1733542699.311,
+            "filename": "1733542699"
+        },
+        {
             "title": "Tool and object affordances: An ecological eye-tracking study",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0278262619302039",
             "media": "academic",
