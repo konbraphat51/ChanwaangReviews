@@ -129,6 +129,24 @@
             "filename": "1722244362"
         },
         {
+            "title": "心理学研究法 補訂版 (有斐閣アルマ)",
+            "link": "https://www.amazon.co.jp/%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%B3%95-%E8%A3%9C%E8%A8%82%E7%89%88-%E6%9C%89%E6%96%90%E9%96%A3%E3%82%A2%E3%83%AB%E3%83%9E-%E9%AB%98%E9%87%8E-%E9%99%BD%E5%A4%AA%E9%83%8E/dp/4641220867",
+            "media": "book",
+            "tags": [
+                "psychology",
+                "research"
+            ],
+            "short": {
+                "en": "methodology to research psychology ",
+                "ja": "心理学研究手法"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1734669472.008,
+            "updatedAt": 1734669472.008,
+            "filename": "1734669472"
+        },
+        {
             "title": "Review of Eye Tracking Metrics Involved in Emotional and Cognitive Processes",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33729950/",
             "media": "academic",
