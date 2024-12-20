@@ -94,6 +94,24 @@
             "filename": "1719712551"
         },
         {
+            "title": "【OpenAI】o1が\"意図的にユーザーを騙す\"ことがあるという報告について",
+            "link": "https://qiita.com/ikeda_yasuhiro/items/917f0c3c13f0120e87da",
+            "media": "netpage",
+            "tags": [
+                "llm",
+                "prompt"
+            ],
+            "short": {
+                "en": "deceptive GPT o1",
+                "ja": "o1がユーザー騙して生き残ろうとしている"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1734674371.284,
+            "updatedAt": 1734674371.284,
+            "filename": "1734674371"
+        },
+        {
             "title": "Unityでのマイク録音３種盛り：レイテンシ比較",
             "link": "https://qiita.com/TyounanMOTI/items/5306336823316b0b289c",
             "media": "netpage",
