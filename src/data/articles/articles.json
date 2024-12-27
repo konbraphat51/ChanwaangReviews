@@ -165,6 +165,24 @@
             "filename": "1734669472"
         },
         {
+            "title": "Pythonさえ分かればDjangoでWebアプリは作れる",
+            "link": "https://qiita.com/pythonista/items/19613663ef7bb3c57d4f",
+            "media": "netpage",
+            "tags": [
+                "python",
+                "django"
+            ],
+            "short": {
+                "en": "django quick start",
+                "ja": "djangoクイックスタート"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1735320599.111,
+            "updatedAt": 1735320599.111,
+            "filename": "1735320599"
+        },
+        {
             "title": "Review of Eye Tracking Metrics Involved in Emotional and Cognitive Processes",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33729950/",
             "media": "academic",
