@@ -2753,6 +2753,25 @@
             "filename": "1718022149"
         },
         {
+            "title": "PythonでGUIアプリの作成",
+            "link": "https://qiita.com/_dakc_/items/e69e2d240a00ff08d10e",
+            "media": "netpage",
+            "tags": [
+                "python",
+                "eel",
+                "gui"
+            ],
+            "short": {
+                "en": "Using eel for HTML GUI is super efficient",
+                "ja": "PythonでHTML GUIを使うときはeelを使え"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1735394821.81,
+            "updatedAt": 1735394821.81,
+            "filename": "1735394821"
+        },
+        {
             "title": "Effects of Serious Games in Older Adults With Mild Cognitive Impairment",
             "link": "https://pubmed.ncbi.nlm.nih.gov/38810993/",
             "media": "academic",
