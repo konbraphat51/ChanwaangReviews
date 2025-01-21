@@ -1391,6 +1391,23 @@
             "filename": "1724406717"
         },
         {
+            "title": "項目反応理論(IRT)の考え方と実践",
+            "link": "https://www.jstage.jst.go.jp/article/arepj/58/0/58_321/_pdf",
+            "media": "academic",
+            "tags": [
+                "irt,tutorial,psychology"
+            ],
+            "short": {
+                "en": "Tutorial for Item Response Theory",
+                "ja": "項目反応理論チュートリアル"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1737443676.243,
+            "updatedAt": 1737443676.243,
+            "filename": "1737443676"
+        },
+        {
             "title": "Reading Aloud and Arithmetic Calculation Improve Frontal Function of People With Dementia",
             "link": "https://academic.oup.com/biomedgerontology/article/60/3/380/630607bygueston24July2024",
             "media": "academic",
