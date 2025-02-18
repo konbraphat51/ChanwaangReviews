@@ -1209,6 +1209,23 @@
             "filename": "1718325883"
         },
         {
+            "title": "script要素のJavaScript読み込みパターンについて",
+            "link": "https://zenn.dev/oreo2990/articles/a93d3b1088c2fc",
+            "media": "netpage",
+            "tags": [
+                "javascript"
+            ],
+            "short": {
+                "en": "execution order of JavaScript source",
+                "ja": "JavaScriptコードの実行順序"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1739869934.973,
+            "updatedAt": 1739869934.973,
+            "filename": "1739869934"
+        },
+        {
             "title": "C++ のムーブを理解する",
             "link": "https://zenn.dev/mafafa/articles/cba24383d46900",
             "media": "netpage",
