@@ -2710,6 +2710,25 @@
             "filename": "1720656080"
         },
         {
+            "title": "Reactの基礎【JSX編】",
+            "link": "https://zenn.dev/web_tips/articles/330b10817b24f2",
+            "media": "netpage",
+            "tags": [
+                "react",
+                "cdn",
+                "jsx"
+            ],
+            "short": {
+                "en": "use JSX in CDN React",
+                "ja": "CDN ReactでJSXを使用する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1739924031.881,
+            "updatedAt": 1739924031.881,
+            "filename": "1739924031"
+        },
+        {
             "title": "健康医療データの用語集 匿名化/匿名加工",
             "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
             "media": "netpage",
