@@ -2823,6 +2823,24 @@
             "filename": "1734669472"
         },
         {
+            "title": "正真正銘のReactだけの不純物なしでReact入門",
+            "link": "https://sbfl.net/blog/2019/02/20/react-only-tutorial/",
+            "media": "netpage",
+            "tags": [
+                "react",
+                "jsx"
+            ],
+            "short": {
+                "en": "using JSX file in CDN React",
+                "ja": "CDN ReactでJSXファイルを作成する。"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1740021708.674,
+            "updatedAt": 1740021708.674,
+            "filename": "1740021708"
+        },
+        {
             "title": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
             "link": "A novel method for analyzing sequential eye movements reveals strategic influence on Raven’s Advanced Progressive Matrices",
             "media": "academic",
