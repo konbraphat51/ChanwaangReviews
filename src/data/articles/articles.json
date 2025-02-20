@@ -757,6 +757,25 @@
             "filename": "1716811465"
         },
         {
+            "title": "Towards Creative Evolutionary Systems with Interactive Genetic Algorithm",
+            "link": "https://typeset.io/pdf/towards-creative-evolutionary-systems-with-interactive-4asjvf45x7.pdf",
+            "media": "academic",
+            "tags": [
+                "design",
+                "ga",
+                "r"
+            ],
+            "short": {
+                "en": "genetic algorithm for artistic design",
+                "ja": "芸術デザインのための遺伝的アルゴリズム"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1740043056.734,
+            "updatedAt": 1740043056.734,
+            "filename": "1740043056"
+        },
+        {
             "title": "新・動機づけ研究の最前線 （単行本）",
             "link": "https://www.kitaohji.com/book/b580241.html",
             "media": "book",
