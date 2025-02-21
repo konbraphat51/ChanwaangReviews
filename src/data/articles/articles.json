@@ -1411,6 +1411,23 @@
             "filename": "1721714236"
         },
         {
+            "title": "PDF Explained",
+            "link": "https://www.oreilly.com/library/view/pdf-explained/9781449321581/",
+            "media": "book",
+            "tags": [
+                "pdf"
+            ],
+            "short": {
+                "en": "explains structure of PDF. Builds PDF from scratch manually",
+                "ja": "PDF仕様解説。PDFを手書きで作成する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1740122387.501,
+            "updatedAt": 1740122387.501,
+            "filename": "1740122387"
+        },
+        {
             "title": "[Unity] 衝突判定における、IsTriggerとRigidbodyとIsKinematicのパターンを実験",
             "link": "https://qiita.com/sensuikan1973/items/055384e1145bbbe73e40#%E3%81%BE%E3%81%A8%E3%82%81",
             "media": "netpage",
