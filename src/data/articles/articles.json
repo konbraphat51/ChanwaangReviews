@@ -2104,6 +2104,23 @@
             "filename": "1731743938"
         },
         {
+            "title": "詳細PDF入門 ー 実装して学ぼう！PDFファイルの構造とその書き方読み方",
+            "link": "https://itchyny.hatenablog.com/entry/2015/09/16/100000#%E3%81%BE%E3%81%88%E3%81%8C%E3%81%8D",
+            "media": "netpage",
+            "tags": [
+                "pdf"
+            ],
+            "short": {
+                "en": "Plain and precise explaination of PDF",
+                "ja": "PDFの平易で十分な説明"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1740320448.611,
+            "updatedAt": 1740320448.611,
+            "filename": "1740320448"
+        },
+        {
             "title": "Eye-tracking research on sensory and consumer science: A review, pitfalls and future directions",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S096399692100288X",
             "media": "academic",
