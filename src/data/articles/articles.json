@@ -3131,6 +3131,23 @@
             "filename": "1722184113"
         },
         {
+            "title": "[wsl2] ディスク容量が満タンで困った！＞＜でも、Optimize-VHDなんて存在しないとき",
+            "link": "https://qiita.com/siruku6/items/c91a40d460095013540d",
+            "media": "netpage",
+            "tags": [
+                "docker"
+            ],
+            "short": {
+                "en": "make docker memory a lot lighter",
+                "ja": "Dockerの容量を劇的軽減"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1740758083.734,
+            "updatedAt": 1740758083.734,
+            "filename": "1740758083"
+        },
+        {
             "title": "LLMを活用したシンボリックGame AIの構築",
             "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1I4OS31a04/_article/-char/ja",
             "media": "academic",
