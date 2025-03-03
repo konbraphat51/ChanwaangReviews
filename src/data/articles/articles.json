@@ -3456,6 +3456,23 @@
             "filename": "1719312672"
         },
         {
+            "title": "PDF 1.7",
+            "link": "https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf",
+            "media": "netpage",
+            "tags": [
+                "pdf"
+            ],
+            "short": {
+                "en": "pdf spec",
+                "ja": "PDF仕様書"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1741011617.42,
+            "updatedAt": 1741011625.877,
+            "filename": "1741011625"
+        },
+        {
             "title": "Reading Aloud and Arithmetic Calculation Improve Frontal Function of People With Dementia",
             "link": "https://academic.oup.com/biomedgerontology/article/60/3/380/630607bygueston24July2024",
             "media": "academic",
