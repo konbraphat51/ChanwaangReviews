@@ -2018,6 +2018,23 @@
             "filename": "1720943905"
         },
         {
+            "title": "Class and Style Bindings",
+            "link": "https://v2.vuejs.org/v2/guide/class-and-style?redirect=true",
+            "media": "netpage",
+            "tags": [
+                "vue"
+            ],
+            "short": {
+                "en": "dynamically changing html class",
+                "ja": "動的にHTMLクラスを変更する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1742225145.964,
+            "updatedAt": 1742225145.964,
+            "filename": "1742225145"
+        },
+        {
             "title": "Unity向けの簡易的なVADライブラリの紹介",
             "link": "https://synamon.hatenablog.com/entry/vad_unity",
             "media": "netpage",
