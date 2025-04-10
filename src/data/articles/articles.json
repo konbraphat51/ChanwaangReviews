@@ -3638,6 +3638,23 @@
             "filename": "1720924540"
         },
         {
+            "title": "They’re Programmed to Work — What Happens If They Stop? | Hardly Working - Total Refusal | Op-Docs",
+            "link": "https://www.youtube.com/watch?v=m32Mp-OuGVg",
+            "media": "entertainment",
+            "tags": [
+                "game"
+            ],
+            "short": {
+                "en": "A beautiful video shown by Catherine Hansen's class",
+                "ja": "NPC"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1744268920.246,
+            "updatedAt": 1744268920.246,
+            "filename": "1744268920"
+        },
+        {
             "title": "Vite ってよく聞くけど何なんですか？ あれは",
             "link": "https://zenn.dev/comm_vue_nuxt/articles/what-is-vite",
             "media": "netpage",
