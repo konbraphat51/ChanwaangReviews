@@ -1831,6 +1831,25 @@
             "filename": "1718317361"
         },
         {
+            "title": "NICGAR: A Niching Genetic Algorithm to mine a diverse set of interesting quantitative association rules",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0020025516302146?via%3Dihub",
+            "media": "academic",
+            "tags": [
+                "geneticalgorithm",
+                "datamining",
+                "niching"
+            ],
+            "short": {
+                "en": "Datamine logical tendency in big data by niching genetic algorithm",
+                "ja": "ニッチング遺伝的アルゴリズムによるビッグデータの論理的傾向のデータマイニング"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1744431383.121,
+            "updatedAt": 1744431383.121,
+            "filename": "1744431383"
+        },
+        {
             "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
             "link": "https://zenn.dev/yurukei20/articles/",
             "media": "book",
