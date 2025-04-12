@@ -2150,6 +2150,24 @@
             "filename": "1719312153"
         },
         {
+            "title": "[2023-07-25] 好みを学習して支援するデザイン支援システム（産総研AIセミナー）",
+            "link": "https://speakerdeck.com/yuki_koyama/aist-ai-seminar-preferential-bayesian-optimization?slide=12",
+            "media": "presentation",
+            "tags": [
+                "bayesianoptimization",
+                "design"
+            ],
+            "short": {
+                "en": "Crowd in the loop",
+                "ja": "Crowd in the loop"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1744432285.416,
+            "updatedAt": 1744432285.416,
+            "filename": "1744432285"
+        },
+        {
             "title": "A Cognitivist Theory of Affordances for Games",
             "link": "https://dl.digra.org/index.php/dl/article/view/687/687",
             "media": "academic",
