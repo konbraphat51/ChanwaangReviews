@@ -2751,6 +2751,26 @@
             "filename": "1728544915"
         },
         {
+            "title": "Metric Clustering From Triplet Comparisons",
+            "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10735326",
+            "media": "academic",
+            "tags": [
+                "tripletcomparisos",
+                "clustering",
+                "similarity",
+                "metric"
+            ],
+            "short": {
+                "en": "Clustering by triplet comparisons",
+                "ja": "三点比較法でクラスタリング"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1744623161.214,
+            "updatedAt": 1744623161.214,
+            "filename": "1744623161"
+        },
+        {
             "title": "The Relation of Attention Between Player Profiles: A Study on the Eye-Tracking and Profile BrainHex",
             "link": "https://link.springer.com/chapter/10.1007/978-3-319-94619-1_43",
             "media": "academic",
