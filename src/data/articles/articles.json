@@ -1793,6 +1793,25 @@
             "filename": "1719052982"
         },
         {
+            "title": "Automatic Construction of Multi-faceted User Profiles using Text Clustering and its Application to Expert Recommendation and Filtering Problems",
+            "link": "https://arxiv.org/abs/2401.10634",
+            "media": "academic",
+            "tags": [
+                "recommender",
+                "multifaceted",
+                "clustering"
+            ],
+            "short": {
+                "en": "cluster the user's multifaceting",
+                "ja": "ユーザーのマルチ嗜好をクラスタリングする"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1744597491.651,
+            "updatedAt": 1744597491.651,
+            "filename": "1744597491"
+        },
+        {
             "title": "Exploring HTN Planners through Example",
             "link": "https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf",
             "media": "netpage",
