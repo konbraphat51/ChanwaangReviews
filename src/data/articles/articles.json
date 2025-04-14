@@ -1209,6 +1209,23 @@
             "filename": "1719069210"
         },
         {
+            "title": "Leveraging Multi-Faceted User Preferences for Improving Click-Through Rate Predictions",
+            "link": "https://dl.acm.org/doi/10.1145/3460231.3473899",
+            "media": "academic",
+            "tags": [
+                "recommender"
+            ],
+            "short": {
+                "en": "recommend diverse information",
+                "ja": "多様な情報を推薦する"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1744599443.799,
+            "updatedAt": 1744599443.799,
+            "filename": "1744599443"
+        },
+        {
             "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
             "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
             "media": "academic",
