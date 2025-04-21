@@ -1406,6 +1406,23 @@
             "filename": "1721275637"
         },
         {
+            "title": "gitのremote urlを変更する(レポジトリ移行時)",
+            "link": "https://qiita.com/minoringo/items/917e325892733e0d606e",
+            "media": "netpage",
+            "tags": [
+                "git"
+            ],
+            "short": {
+                "en": "git remote set-url origin {new url}",
+                "ja": "git remote set-url origin {new url}"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1745223359.148,
+            "updatedAt": 1745223359.148,
+            "filename": "1745223359"
+        },
+        {
             "title": "2D迷路における行動選択の予測と自然なプレイヤ誘導への応用",
             "link": "https://dspace.jaist.ac.jp/dspace/handle/10119/18210",
             "media": "academic",
