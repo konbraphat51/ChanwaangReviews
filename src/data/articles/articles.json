@@ -3879,6 +3879,24 @@
             "filename": "1717319233"
         },
         {
+            "title": "情報推薦システム入門 -理論と実践-",
+            "link": "https://www.amazon.co.jp/%E6%83%85%E5%A0%B1%E6%8E%A8%E8%96%A6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A5%E9%96%80-%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-Dietmar-Jannach/dp/4320122968",
+            "media": "book",
+            "tags": [
+                "preference",
+                "recommender"
+            ],
+            "short": {
+                "en": "Recommender system introduction",
+                "ja": "推薦システム概論"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1745223322.735,
+            "updatedAt": 1745223322.735,
+            "filename": "1745223322"
+        },
+        {
             "title": "ゲーム学の国際的動向",
             "link": "https://www.jstage.jst.go.jp/article/itej/60/4/60_4_491/_pdf/-char/ja",
             "media": "academic",
