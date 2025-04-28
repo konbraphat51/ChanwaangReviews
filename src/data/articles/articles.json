@@ -328,13 +328,13 @@
                 "recommender"
             ],
             "short": {
-                "en": "TBD",
-                "ja": "TBD"
+                "en": "vector-based recommendation",
+                "ja": "ベクトルベース推薦"
             },
             "importance": 3,
             "hasPage": true,
             "createdAt": 1745475577.158,
-            "updatedAt": 1745475816.358,
+            "updatedAt": 1745822375.328,
             "filename": "1745475577"
         },
         {
