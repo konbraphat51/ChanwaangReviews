@@ -3768,13 +3768,13 @@
                 "recommender"
             ],
             "short": {
-                "en": "Recommender system introduction",
-                "ja": "推薦システム概論"
+                "en": "focus on document recommendation",
+                "ja": "書類推薦に注目していた"
             },
-            "importance": 3,
+            "importance": 1,
             "hasPage": true,
             "createdAt": 1745223322.735,
-            "updatedAt": 1745223322.735,
+            "updatedAt": 1745822558.377,
             "filename": "1745223322"
         },
         {
