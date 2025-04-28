@@ -1509,6 +1509,23 @@
             "filename": "1727924036"
         },
         {
+            "title": "Single-shot Embedding Dimension Search in Recommender System",
+            "link": "https://arxiv.org/pdf/2204.03281",
+            "media": "academic",
+            "tags": [
+                "recommender"
+            ],
+            "short": {
+                "en": "reducing dimentions for large data in WeChat",
+                "ja": "WeChatの高次元削減"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1745881425.357,
+            "updatedAt": 1745881425.357,
+            "filename": "1745881425"
+        },
+        {
             "title": "Automatic Construction of Multi-faceted User Profiles using Text Clustering and its Application to Expert Recommendation and Filtering Problems",
             "link": "https://arxiv.org/abs/2401.10634",
             "media": "academic",
