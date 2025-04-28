@@ -3358,13 +3358,13 @@
                 ""
             ],
             "short": {
-                "en": "RSO: learn preference from pairwise feedback",
-                "ja": "RSO: ペア比較から嗜好学習"
+                "en": "RSO: learn preference from pairwise feedback for LLM",
+                "ja": "RSO: ペア比較から嗜好学習してLLMを強化する"
             },
             "importance": 3,
             "hasPage": true,
             "createdAt": 1744805835.145,
-            "updatedAt": 1744805835.145,
+            "updatedAt": 1745880501.356,
             "filename": "1744805835"
         },
         {
