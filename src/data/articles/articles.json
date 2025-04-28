@@ -3867,6 +3867,23 @@
             "filename": "1718009273"
         },
         {
+            "title": "Active learning for adaptive surrogate model improvement in high-dimensional problems",
+            "link": "https://link.springer.com/article/10.1007/s00158-024-03816-9",
+            "media": "academic",
+            "tags": [
+                "activelearning"
+            ],
+            "short": {
+                "en": "actively creating subspace",
+                "ja": "オンライン学習で次元削減を行う"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1745880195.155,
+            "updatedAt": 1745880195.155,
+            "filename": "1745880195"
+        },
+        {
             "title": "Comparing Game Input Modalities: A Study for the Evaluation of Player Experience by Measuring Self Reported Emotional States and Learning Outcomes",
             "link": "https://link.springer.com/chapter/10.1007/978-3-319-40216-1_23",
             "media": "academic",
