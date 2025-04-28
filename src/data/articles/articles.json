@@ -2837,13 +2837,13 @@
                 ""
             ],
             "short": {
-                "en": "TBD",
-                "ja": "TBD"
+                "en": "content-based: neighborhood, model-base. collaboration: neighborhood, model-based, latent factor. knowledge-based. hybrid. evaluation.",
+                "ja": "内容ベース（近傍、モデルベース）、協調フィルタリング（近傍、モデルベース、潜在因子）、知識ベース、ハイブリッド型、評価"
             },
             "importance": 3,
-            "hasPage": false,
+            "hasPage": true,
             "createdAt": 1745475486.572,
-            "updatedAt": 1745475486.572,
+            "updatedAt": 1745804955.924,
             "filename": "1745475486"
         },
         {
