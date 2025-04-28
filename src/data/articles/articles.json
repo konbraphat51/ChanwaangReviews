@@ -1702,13 +1702,13 @@
                 "recommender"
             ],
             "short": {
-                "en": "recommend diverse information",
-                "ja": "多様な情報を推薦する"
+                "en": "recommend diverse information from clicking",
+                "ja": "クリック率から多様な情報を推薦する"
             },
             "importance": 4,
             "hasPage": true,
             "createdAt": 1744599443.799,
-            "updatedAt": 1744599443.799,
+            "updatedAt": 1745880316.506,
             "filename": "1744599443"
         },
         {
