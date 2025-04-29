@@ -4164,6 +4164,26 @@
             "filename": "1719217778"
         },
         {
+            "title": "Interactive Treemaps in News Recommender Systems",
+            "link": "https://www.semanticscholar.org/paper/NewsViz%3A-Depicting-and-Controlling-Preference-Using-Kunkel-Schwenger/b91e40b1ac5fee5bb3fcdf9b29c6814ed4ad37dc",
+            "media": "academic",
+            "tags": [
+                "recommender",
+                "filterbubble",
+                "preference",
+                "interface"
+            ],
+            "short": {
+                "ja": "より高いユーザーコントロールとバイアス認知を、ニュース推薦システムにおけるインタラクティブなツリーマップによって実現",
+                "en": "Earned Improved User Control and Bias Awareness by Employing Interactive Treemaps in News Recommendation"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1745948769.069,
+            "updatedAt": 1745948769.069,
+            "filename": "1745948769"
+        },
+        {
             "title": "新・動機づけ研究の最前線 （単行本）",
             "link": "https://www.kitaohji.com/book/b580241.html",
             "media": "book",
