@@ -1677,6 +1677,24 @@
             "filename": "1719449317"
         },
         {
+            "title": "Multidimensional Thresholding for Individual-Level Preference Elicitation",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1098301524000810",
+            "media": "academic",
+            "tags": [
+                "preference",
+                "utility"
+            ],
+            "short": {
+                "en": "analysing individual preference based on deterministic multiattribute utility theory",
+                "ja": "決定論的多属性効用理論に基づいて個人の嗜好を分析"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1745905370.601,
+            "updatedAt": 1745905370.601,
+            "filename": "1745905370"
+        },
+        {
             "title": "@super_bonochin ‘s tweet",
             "link": "https://x.com/super_bonochin/status/1800888263751946330",
             "media": "netpage",
