@@ -3309,6 +3309,24 @@
             "filename": "1721714236"
         },
         {
+            "title": "Preference Construction: A Bayesian Interactive Preference Elicitation Framework Based on Monte Carlo Tree Search",
+            "link": "https://arxiv.org/abs/2503.15150",
+            "media": "academic",
+            "tags": [
+                "baysian",
+                "preference"
+            ],
+            "short": {
+                "en": "Bayesian preferece modeling for 6-8 dimentions",
+                "ja": "6-8次元のベイズ嗜好モデリング"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1745904447.571,
+            "updatedAt": 1745904447.571,
+            "filename": "1745904447"
+        },
+        {
             "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
             "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
             "media": "netpage",
