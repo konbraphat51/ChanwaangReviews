@@ -2699,6 +2699,23 @@
             "filename": "1718058851"
         },
         {
+            "title": "A filter feature selection for high-dimensional data",
+            "link": "https://journals.sagepub.com/doi/pdf/10.1177/17483026231184171",
+            "media": "academic",
+            "tags": [
+                "highdimension"
+            ],
+            "short": {
+                "en": "Selecting valid parameters from high dimension data",
+                "ja": "高次元データから有効なパラメータを選択"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1745930078.242,
+            "updatedAt": 1745930078.242,
+            "filename": "1745930078"
+        },
+        {
             "title": "Repository and Unit of Work in Domain-Driven Design",
             "link": "https://medium.com/@ruben.alapont/repository-and-unit-of-work-in-domain-driven-design-cc5638780dc3",
             "media": "netpage",
