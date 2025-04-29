@@ -576,6 +576,25 @@
             "filename": "1718082768"
         },
         {
+            "title": "Dynamic Ridge Plot Sliders: Supporting Users’ Understanding of the Item Space Structure and Feature Dependencies in Interactive Recommender Systems",
+            "link": "https://www.semanticscholar.org/paper/Dynamic-Ridge-Plot-Sliders%3A-Supporting-Users'-of-in-Suchmann-Kr%C3%A4mer/543854b5128e15cf38cfb2ddabda24c0f1efa77f",
+            "media": "academic",
+            "tags": [
+                "preference",
+                "recommender",
+                ""
+            ],
+            "short": {
+                "en": "Doing (supporting users’ understanding of item space structure and feature dependencies) by (introducing dynamic ridge plot sliders that visualize item distributions and utility in recommender systems)",
+                "ja": "Doing（インタラクティブ推薦システムにおけるアイテム空間の構造と特徴依存性の理解を支援する）by（アイテム分布と効用を視覚化する動的リッジプロットスライダーの導入）"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1745939769.781,
+            "updatedAt": 1745939769.781,
+            "filename": "1745939769"
+        },
+        {
             "title": "数分間のエールを",
             "link": "https://yell-movie2024.com/",
             "media": "entertainment",
