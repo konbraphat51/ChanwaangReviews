@@ -1660,6 +1660,25 @@
             "filename": "1720015294"
         },
         {
+            "title": "分散共分散行列の魅力",
+            "link": "https://zenn.dev/asap/articles/2269cd74c5ddc2",
+            "media": "netpage",
+            "tags": [
+                "covariancematrix",
+                "statistics",
+                "linearalgebra"
+            ],
+            "short": {
+                "en": "easy and sufficient explanation of covariance matrix",
+                "ja": "分散共分散行列のすごく良い解説"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1746384835.423,
+            "updatedAt": 1746384835.423,
+            "filename": "1746384835"
+        },
+        {
             "title": "Android 版のビルド、および実行手順",
             "link": "https://www.monobitengine.com/doc/mun/contents/Platform/Build_Android.htm",
             "media": "netpage",
