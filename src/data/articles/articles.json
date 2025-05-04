@@ -3589,6 +3589,23 @@
             "filename": "1744805835"
         },
         {
+            "title": "Bayesian Optimization for a Better Dessert",
+            "link": "https://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/46507.pdf",
+            "media": "academic",
+            "tags": [
+                "bayesianoptimization"
+            ],
+            "short": {
+                "en": "Earned Highly Rated and Personalized Cookie Recipes by Applying Bayesian Optimization with Mixed-Initiative Human Input and Transfer Learning",
+                "ja": "人間の入力と転移学習を混合したベイズ最適化を適用することで、高評価でパーソナライズされたクッキーレシピを獲得"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1746399792.111,
+            "updatedAt": 1746399792.111,
+            "filename": "1746399792"
+        },
+        {
             "title": "Unveiling Cognitive Strategies: Clustering Eye-Tracking Measures in Computerized Matrix-Reasoning Tasks",
             "link": "https://osf.io/preprints/psyarxiv/yb237",
             "media": "academic",
