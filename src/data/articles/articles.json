@@ -936,6 +936,24 @@
             "filename": "1728544915"
         },
         {
+            "title": "ガウス過程回帰に基づく個人的・集団的嗜好分布の効率的な推定",
+            "link": "https://proceedings-of-deim.github.io/DEIM2022/papers/C33-3.pdf",
+            "media": "academic",
+            "tags": [
+                "gaussianprocessregression",
+                "preference"
+            ],
+            "short": {
+                "en": "estimate preference by GPR, matching individual to collective",
+                "ja": "クラスタに個人に嗜好を当てはめるガウス過程回帰による嗜好モデリング"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1746399281.172,
+            "updatedAt": 1746399281.172,
+            "filename": "1746399281"
+        },
+        {
             "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
             "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
             "media": "academic",
