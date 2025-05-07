@@ -152,6 +152,24 @@
             "filename": "1725010164"
         },
         {
+            "title": "Falsehoods Programmers Believe About Names",
+            "link": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
+            "media": "netpage",
+            "tags": [
+                "ui",
+                "name"
+            ],
+            "short": {
+                "en": "what NOT to do to handle people's names",
+                "ja": "人名を扱う時にするべきでないこと"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1746577018.392,
+            "updatedAt": 1746577018.392,
+            "filename": "1746577018"
+        },
+        {
             "title": "Towards Creative Evolutionary Systems with Interactive Genetic Algorithm",
             "link": "https://typeset.io/pdf/towards-creative-evolutionary-systems-with-interactive-4asjvf45x7.pdf",
             "media": "academic",
