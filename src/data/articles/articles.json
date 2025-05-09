@@ -3327,6 +3327,26 @@
             "filename": "1716517146"
         },
         {
+            "title": "Interactive Multi-Objective Inverse Groundwater Modeling — Formulation and Addressing User Fatigue",
+            "link": "https://ascelibrary.org/doi/abs/10.1061/40856%28200%29115",
+            "media": "academic",
+            "tags": [
+                "geneticalgorithm",
+                "interactive",
+                "generticalgorithm",
+                "multiobjective"
+            ],
+            "short": {
+                "en": "Earned Improved Plausibility and Predictive Accuracy by Integrating Expert Interaction with Multi-Objective Genetic Algorithm",
+                "ja": "専門家との対話と多目的遺伝的アルゴリズムの統合による妥当性と予測精度の向上"
+            },
+            "importance": 1,
+            "hasPage": true,
+            "createdAt": 1746807817.203,
+            "updatedAt": 1746807817.203,
+            "filename": "1746807817"
+        },
+        {
             "title": "Head Firstデザインパターン 第2版",
             "link": "https://www.oreilly.co.jp/books/9784873119762/",
             "media": "book",
