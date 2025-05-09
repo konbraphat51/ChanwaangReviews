@@ -4202,6 +4202,28 @@
             "filename": "1724641833"
         },
         {
+            "title": "Interactive Multifactorial Evolutionary Optimization Algorithm with Multidimensional Preference Surrogate Models for Personalized Recommendation",
+            "link": "https://www.mdpi.com/2076-3417/13/4/2243",
+            "media": "academic",
+            "tags": [
+                "geneticalgorithm",
+                "interactivegeneticalgorithm",
+                "preference",
+                "recommendation",
+                "recommender",
+                "multifaceted"
+            ],
+            "short": {
+                "en": "Earned Substantial Gains in Recommendation Diversity and Novelty by Multifactorial Evolutionary Optimization with Deep Learning-based Multidimensional Surrogates",
+                "ja": "Multifactorial Evolutionary Optimization with Deep Learning-based Multidimensional Surrogates によって多様性と新規性の向上を実現"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1746806370.477,
+            "updatedAt": 1746806370.477,
+            "filename": "1746806370"
+        },
+        {
             "title": "Bayesian Optimization in a Billion Dimensions via Random Embeddings",
             "link": "https://arxiv.org/pdf/1301.1942",
             "media": "academic",
