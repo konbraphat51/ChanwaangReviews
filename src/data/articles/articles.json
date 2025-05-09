@@ -873,6 +873,24 @@
             "filename": "1720040135"
         },
         {
+            "title": "Combating User Fatigue in iGAs: Partial Ordering, Support Vector Machines, and Synthetic Fitne",
+            "link": "https://dl.acm.org/doi/10.1145/1068009.1068228",
+            "media": "academic",
+            "tags": [
+                "geneticalgorithm",
+                "interactivegeneticalgorithm"
+            ],
+            "short": {
+                "ja": "部分順序とSVMによる代理適応度の合成でユーザ評価回数を大幅削減",
+                "en": "Earned Substantial User Evaluation Reduction by Synthesizing Surrogate Fitness via Partial Ordering and SVMs"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1746819159.47,
+            "updatedAt": 1746819159.47,
+            "filename": "1746819159"
+        },
+        {
             "title": "項目反応理論(IRT)の考え方と実践",
             "link": "https://www.jstage.jst.go.jp/article/arepj/58/0/58_321/_pdf",
             "media": "academic",
