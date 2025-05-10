@@ -1246,6 +1246,26 @@
             "filename": "1720716711"
         },
         {
+            "title": "K-means cluster interactive algorithm-based evolutionary approach for solving bilevel multi-objective programming problems",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1110016821003409",
+            "media": "academic",
+            "tags": [
+                "kmeans",
+                "clustering",
+                "interactivegeneticalgorithm",
+                "geneticalgorithm"
+            ],
+            "short": {
+                "en": "Earned Improved Solution Accuracy and Efficiency by Integrating K-means Clustering with Evolutionary Algorithms",
+                "ja": "K-meansクラスタリングと進化的アルゴリズムの統合による解法で得られる精度と効率の向上"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1746879055.736,
+            "updatedAt": 1746879055.736,
+            "filename": "1746879055"
+        },
+        {
             "title": "Preference Construction: A Bayesian Interactive Preference Elicitation Framework Based on Monte Carlo Tree Search",
             "link": "https://arxiv.org/abs/2503.15150",
             "media": "academic",
