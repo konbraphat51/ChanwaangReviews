@@ -1753,6 +1753,26 @@
             "filename": "1744623161"
         },
         {
+            "title": "Evolving Random Forest for Preference Learning",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-16549-3_26",
+            "media": "academic",
+            "tags": [
+                "geneticalgorithm",
+                "randomforest",
+                "preference",
+                "preferencelearning"
+            ],
+            "short": {
+                "en": "Earned Accurate Preference Prediction by Evolving Random Forests via Grammatical Evolution",
+                "ja": "文法進化によるランダムフォレスト進化で高精度な選好予測を実現"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1746882990.454,
+            "updatedAt": 1746882990.454,
+            "filename": "1746882990"
+        },
+        {
             "title": "Video game scenery analysis with eye tracking",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S1875952116000021",
             "media": "academic",
