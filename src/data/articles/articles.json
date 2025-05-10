@@ -1371,7 +1371,8 @@
             "media": "academic",
             "tags": [
                 "geneticalgorithm",
-                "interactivegeneticalgorithm"
+                "interactivegeneticalgorithm",
+                "estimationdistributionalgorithm"
             ],
             "short": {
                 "en": "Earned Improved Search Efficiency and Fitness Prediction Accuracy by Similarity-Based Preference Modeling within EDA Framework",
@@ -1380,7 +1381,7 @@
             "importance": 4,
             "hasPage": true,
             "createdAt": 1746805449.567,
-            "updatedAt": 1746908755.78,
+            "updatedAt": 1746909818.769,
             "filename": "1746805449"
         },
         {
