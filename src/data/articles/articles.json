@@ -4260,6 +4260,23 @@
             "filename": "1724641833"
         },
         {
+            "title": "Q&R: A Two-Stage Approach toward Interactive Recommendation",
+            "link": "https://www.semanticscholar.org/paper/Q%26R%3A-A-Two-Stage-Approach-toward-Interactive-Christakopoulou-Beutel/2610b45131f31a7c58b0cd6a8fce21c02ba014be",
+            "media": "academic",
+            "tags": [
+                "recommender"
+            ],
+            "short": {
+                "ja": "得られた効果: トピック質問生成と応答の分離およびニューラル系列モデルによるYouTubeでの対話型レコメンデーション最適化",
+                "en": "Earned Improved User Engagement and Recommendation Quality by Factoring User Interaction into Question Generation and Response using Neural Sequential Models"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1746879733.1,
+            "updatedAt": 1746879733.1,
+            "filename": "1746879733"
+        },
+        {
             "title": "Interactive Multifactorial Evolutionary Optimization Algorithm with Multidimensional Preference Surrogate Models for Personalized Recommendation",
             "link": "https://www.mdpi.com/2076-3417/13/4/2243",
             "media": "academic",
