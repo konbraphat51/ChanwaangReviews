@@ -4357,6 +4357,26 @@
             "filename": "1720928786"
         },
         {
+            "title": "Personalized Search Inspired Fast Interactive Estimation of Distribution Algorithm and Its Application",
+            "link": "https://ieeexplore.ieee.org/document/7833058",
+            "media": "academic",
+            "tags": [
+                "bayesian",
+                "preference",
+                "estimationdistributionalgorithm",
+                ""
+            ],
+            "short": {
+                "en": "Earned Superior Search Efficiency and Lower User Fatigue by Integrating Naive Bayesian Domain Knowledge with Interactive EDAs",
+                "ja": "ナイーブベイズ型ドメイン知識と対話型EDAの統合により、優れた検索効率とユーザー疲労の軽減を獲得"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1746909842.607,
+            "updatedAt": 1746909842.607,
+            "filename": "1746909842"
+        },
+        {
             "title": "Just Sort It! A Simple and Effective Approach to Active Preference Learning",
             "link": "https://infoscience.epfl.ch/server/api/core/bitstreams/ad864667-6f63-4b2b-9737-c1ee878c229f/content",
             "media": "academic",
