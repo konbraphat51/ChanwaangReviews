@@ -4270,7 +4270,7 @@
                 "ja": "得られた効果: トピック質問生成と応答の分離およびニューラル系列モデルによるYouTubeでの対話型レコメンデーション最適化",
                 "en": "Earned Improved User Engagement and Recommendation Quality by Factoring User Interaction into Question Generation and Response using Neural Sequential Models"
             },
-            "importance": 3,
+            "importance": 1,
             "hasPage": true,
             "createdAt": 1746879733.1,
             "updatedAt": 1746879733.1,
