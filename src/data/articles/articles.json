@@ -223,6 +223,24 @@
             "filename": "1718009136"
         },
         {
+            "title": "scalable machine learning and deep learning ",
+            "link": "https://id2223kth.github.io/schedule_2019/",
+            "media": "netpage",
+            "tags": [
+                "deeplearning",
+                "neuralnetwork"
+            ],
+            "short": {
+                "en": "deep learning courses in KTH",
+                "ja": "KTHの深層学習講義資料"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1746921925.917,
+            "updatedAt": 1746921925.917,
+            "filename": "1746921925"
+        },
+        {
             "title": "Cognitive Performance in Senile Dementia of the Alzheimer’s Type: The Kitchen Task Assessment",
             "link": "https://research.aota.org/ajot/article-abstract/47/5/431/3300/Cognitive-Performance-in-Senile-Dementia-of-the?redirectedFrom=PDF",
             "media": "academic",
