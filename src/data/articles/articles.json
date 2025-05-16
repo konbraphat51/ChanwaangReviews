@@ -292,6 +292,24 @@
             "filename": "1716947183"
         },
         {
+            "title": "リンク/ボタン/フォームをより良くするHTML・CSS 17選",
+            "link": "https://ics.media/entry/221208/",
+            "media": "netpage",
+            "tags": [
+                "css",
+                "design"
+            ],
+            "short": {
+                "en": "17 Good design CSS",
+                "ja": "良いCSS例集"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1747387650.083,
+            "updatedAt": 1747387650.083,
+            "filename": "1747387650"
+        },
+        {
             "title": "GDC 2015: Chris Conway - \"Goal-Oriented Action Planning: Ten Years Old and No Fear!\"",
             "link": "https://archive.org/details/GDC2015Conway2/GDC2015-Conway2/page/n37/mode/2up",
             "media": "netpage",
