@@ -57,6 +57,25 @@
             "filename": "1721473573"
         },
         {
+            "title": "How Organisers Understand and Promote Participants’ Creativity in Game Jams",
+            "link": "https://dl.acm.org/doi/10.1145/3472688.3472690",
+            "media": "academic",
+            "tags": [
+                "gamedesign",
+                "creativity",
+                "qualitative"
+            ],
+            "short": {
+                "ja": "27名のゲームジャム主催者に対するオンラインアンケート調査に基づき、創造性研究の4つの主要な側面（新規性、リスクテイキング、組み合わせの創造性、創造性の制約）を指針とした演繹的なテーマ分析を行うことによって、主催者が参加者の創造性をどのように理解し促進しているかについての洞察を得ました",
+                "en": "Insights into how organisers understand and promote participants’ creativity in game jams were gained by conducting a deductive thematic analysis of online survey responses from 27 game jam organisers, guided by four key aspects of creativity research: novelty, risk-taking, combinational creativity, and creativity constraints"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1747885346.359,
+            "updatedAt": 1747885346.359,
+            "filename": "1747885346"
+        },
+        {
             "title": "PDF 1.7",
             "link": "https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf",
             "media": "netpage",
