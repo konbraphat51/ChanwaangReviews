@@ -1486,6 +1486,25 @@
             "filename": "1724641833"
         },
         {
+            "title": "A method to formalise game design praxis ",
+            "link": "https://ieeexplore.ieee.org/document/10585409/",
+            "media": "academic",
+            "tags": [
+                "gamedesign",
+                "interview",
+                ""
+            ],
+            "short": {
+                "en": "Game designer take balance of permanence and change",
+                "ja": "ゲームデザイナーは安定性と変化のバランスをとる"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1747897342.517,
+            "updatedAt": 1747897342.517,
+            "filename": "1747897342"
+        },
+        {
             "title": "Falsehoods Programmers Believe About Names",
             "link": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
             "media": "netpage",
