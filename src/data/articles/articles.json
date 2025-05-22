@@ -2387,6 +2387,25 @@
             "filename": "1744268920"
         },
         {
+            "title": "The efect of educational game design process on students’ creativity",
+            "link": "https://slejournal.springeropen.com/articles/10.1186/s40561-022-00188-9",
+            "media": "academic",
+            "tags": [
+                "education",
+                "gamedesign",
+                "game"
+            ],
+            "short": {
+                "en": "game designing improve children creativity",
+                "ja": "ゲームデザインは子供の創造性を高める"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1747895509.863,
+            "updatedAt": 1747895509.863,
+            "filename": "1747895509"
+        },
+        {
             "title": "Active learning for adaptive surrogate model improvement in high-dimensional problems",
             "link": "https://link.springer.com/article/10.1007/s00158-024-03816-9",
             "media": "academic",
