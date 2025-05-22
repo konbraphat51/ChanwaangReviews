@@ -4119,6 +4119,25 @@
             "filename": "1731743938"
         },
         {
+            "title": "Software Development Processes for Games: A Systematic Literature Review",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-662-43896-1_16",
+            "media": "academic",
+            "tags": [
+                "game",
+                "engineering",
+                "review"
+            ],
+            "short": {
+                "en": "literature review for game engineering",
+                "ja": "ゲーム開発プロセスの総説論文"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1747894526.513,
+            "updatedAt": 1747894526.513,
+            "filename": "1747894526"
+        },
+        {
             "title": "Human Problem Solving: Sokoban Case Study",
             "link": "https://www.fi.muni.cz/adaptivelearning/documents/sokoban.pdf",
             "media": "academic",
