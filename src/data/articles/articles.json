@@ -3992,6 +3992,24 @@
             "filename": "1739924031"
         },
         {
+            "title": "Software Engineering Challenges in Game Development",
+            "link": "https://ieeexplore.ieee.org/document/5070627",
+            "media": "academic",
+            "tags": [
+                "game",
+                "engineering"
+            ],
+            "short": {
+                "en": "what problems game devs have and what they are doing",
+                "ja": "ゲーム開発者に何の問題があり、どのように対処しているか"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1747894705.64,
+            "updatedAt": 1747894705.64,
+            "filename": "1747894705"
+        },
+        {
             "title": "Use a C# style guide for clean and scalable game code (Unity 6 edition)",
             "link": "https://unity.com/resources/c-sharp-style-guide-unity-6",
             "media": "netpage",
