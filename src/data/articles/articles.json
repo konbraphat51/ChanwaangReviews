@@ -809,6 +809,25 @@
             "filename": "1746277840"
         },
         {
+            "title": "Chakra UI",
+            "link": "https://chakra-ui.com/",
+            "media": "netpage",
+            "tags": [
+                "react",
+                "ui",
+                "css"
+            ],
+            "short": {
+                "en": "Chakra UI",
+                "ja": "Chakra UI"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1749748171.954,
+            "updatedAt": 1749748171.954,
+            "filename": "1749748171"
+        },
+        {
             "title": "健康医療データの用語集 匿名化/匿名加工",
             "link": "https://www.jpma.or.jp/information/evaluation/results/allotment/kenkou_iryou_data/detail_06.html",
             "media": "netpage",
