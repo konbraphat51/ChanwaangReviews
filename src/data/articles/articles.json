@@ -1987,6 +1987,25 @@
             "filename": "1746277782"
         },
         {
+            "title": "Semantic UI",
+            "link": "https://react.semantic-ui.com/elements/button/",
+            "media": "netpage",
+            "tags": [
+                "react",
+                "ui",
+                "css"
+            ],
+            "short": {
+                "en": "Semantic UI",
+                "ja": "Semantic UI"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1749778466.172,
+            "updatedAt": 1749778466.172,
+            "filename": "1749778466"
+        },
+        {
             "title": "Visual Affordance and Function Understanding: A Survey",
             "link": "https://arxiv.org/pdf/1807.06775",
             "media": "academic",
