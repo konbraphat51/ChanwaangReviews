@@ -2409,6 +2409,25 @@
             "filename": "1726076083"
         },
         {
+            "title": "visx gallery",
+            "link": "https://airbnb.io/visx/gallery",
+            "media": "netpage",
+            "tags": [
+                "react",
+                "css",
+                "ui"
+            ],
+            "short": {
+                "en": "Visx",
+                "ja": "Visx"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1749778379.666,
+            "updatedAt": 1749778385.294,
+            "filename": "1749778385"
+        },
+        {
             "title": "Interactive Multifactorial Evolutionary Optimization Algorithm with Multidimensional Preference Surrogate Models for Personalized Recommendation",
             "link": "https://www.mdpi.com/2076-3417/13/4/2243",
             "media": "academic",
