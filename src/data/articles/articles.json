@@ -3903,6 +3903,23 @@
             "filename": "1742225145"
         },
         {
+            "title": "効果量(effect size)のはなし",
+            "link": "https://tjo.hatenablog.com/entry/2014/02/24/192655",
+            "media": "netpage",
+            "tags": [
+                "statistics"
+            ],
+            "short": {
+                "en": "how to decide sample size",
+                "ja": "サンプルサイズの決め方"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1750023006.923,
+            "updatedAt": 1750023006.923,
+            "filename": "1750023006"
+        },
+        {
             "title": "Use a C# style guide for clean and scalable game code (Unity 6 edition)",
             "link": "https://unity.com/resources/c-sharp-style-guide-unity-6",
             "media": "netpage",
