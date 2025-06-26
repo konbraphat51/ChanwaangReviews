@@ -1735,6 +1735,23 @@
             "filename": "1721748611"
         },
         {
+            "title": "Gemini CLI の簡単チュートリアル",
+            "link": "https://zenn.dev/schroneko/articles/gemini-cli-tutorial",
+            "media": "netpage",
+            "tags": [
+                "geminicli"
+            ],
+            "short": {
+                "en": "Japanese Gemini-CLI manual",
+                "ja": "日本語Gemini-CLIマニュアル"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1750914169.633,
+            "updatedAt": 1750914169.633,
+            "filename": "1750914169"
+        },
+        {
             "title": "JSAI 2024 HPE",
             "link": "Temp",
             "media": "academic",
