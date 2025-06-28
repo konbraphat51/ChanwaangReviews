@@ -4575,6 +4575,26 @@
             "filename": "1728026185"
         },
         {
+            "title": "Unraveling Player's Insights: A Comparative Analysis of Topic Modeling Techniques on Game Reviews and Video Game Developers' Perspectives",
+            "link": "https://ieeexplore.ieee.org/document/10552436",
+            "media": "academic",
+            "tags": [
+                "interview",
+                "game",
+                "nlp",
+                "ux"
+            ],
+            "short": {
+                "en": "NLP analysis of game reviews",
+                "ja": "ゲームレビューを自然言語処理"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1751121968.694,
+            "updatedAt": 1751121968.694,
+            "filename": "1751121968"
+        },
+        {
             "title": "A Cognitivist Theory of Affordances for Games",
             "link": "https://dl.digra.org/index.php/dl/article/view/687/687",
             "media": "academic",
