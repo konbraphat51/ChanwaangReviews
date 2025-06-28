@@ -882,6 +882,23 @@
             "filename": "1721685951"
         },
         {
+            "title": "ベイズ推論による機械学習入門",
+            "link": "https://www.jstage.jst.go.jp/article/jrsj/40/10/40_40_857/_pdf",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1751126482.436,
+            "updatedAt": 1751126482.436,
+            "filename": "1751126482"
+        },
+        {
             "title": "The picture superiority effect in patients with Alzheimer’s disease and mild cognitive impairment",
             "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763351/#:~:text=The%20results%20confirmed%20that%20the,similar%20across%20the%20three%20groups.",
             "media": "academic",
