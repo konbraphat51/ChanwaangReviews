@@ -58,6 +58,23 @@
             "filename": "1716446715"
         },
         {
+            "title": "Games Versus Reality? How Game Designers Deal with Current Topics of Geography Education",
+            "link": "https://www.mdpi.com/2414-4088/5/11/70",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1751124560.86,
+            "updatedAt": 1751124560.86,
+            "filename": "1751124560"
+        },
+        {
             "title": "Falsehoods Programmers Believe About Names",
             "link": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
             "media": "netpage",
