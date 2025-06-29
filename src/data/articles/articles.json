@@ -305,6 +305,23 @@
             "filename": "1735394821"
         },
         {
+            "title": "The 4th Dimension for Scaling Model Size",
+            "link": "https://arxiv.org/pdf/2506.18233",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1751240721.47,
+            "updatedAt": 1751240721.47,
+            "filename": "1751240721"
+        },
+        {
             "title": "Human-Computer Interaction",
             "link": "https://www.researchgate.net/publication/224927543_Human-Computer_Interaction",
             "media": "academic",
