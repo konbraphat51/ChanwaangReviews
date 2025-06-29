@@ -1913,6 +1913,23 @@
             "filename": "1720014653"
         },
         {
+            "title": "Advanced linear algebra",
+            "link": "https://arxiv.org/abs/2506.18666",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1751185643.503,
+            "updatedAt": 1751185643.503,
+            "filename": "1751185643"
+        },
+        {
             "title": "Git でデフォルトのリモートを変更する方法",
             "link": "https://gotohayato.com/content/114/",
             "media": "netpage",
