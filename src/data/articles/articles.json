@@ -2453,6 +2453,23 @@
             "filename": "1721495818"
         },
         {
+            "title": "How do Players and Developers of Citizen Science Games Conceptualize Skill Chains?",
+            "link": "https://dl.acm.org/doi/10.1145/3474671",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1751247815.286,
+            "updatedAt": 1751247815.286,
+            "filename": "1751247815"
+        },
+        {
             "title": "Active Preference-Based Learning of Reward Funct",
             "link": "https://people.eecs.berkeley.edu/~anca/papers/RSS17_comparisons.pdf",
             "media": "academic",
