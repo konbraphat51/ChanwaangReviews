@@ -491,6 +491,25 @@
             "filename": "1719312153"
         },
         {
+            "title": "論文内に秘密の命令文、AIに「高評価せよ」　日韓米など有力14大学で",
+            "link": "https://www.nikkei.com/article/DGXZQOUC13BCW0T10C25A6000000/",
+            "media": "netpage",
+            "tags": [
+                "prompt",
+                "academic",
+                "llm"
+            ],
+            "short": {
+                "en": "Prompt injection in academic papers",
+                "ja": "論文に査読対策プロンプトインジェクション"
+            },
+            "importance": 2,
+            "hasPage": false,
+            "createdAt": 1751244860.826,
+            "updatedAt": 1751244860.826,
+            "filename": "1751244860"
+        },
+        {
             "title": "「ピカチュウ」にこめられた感情",
             "link": "https://www.jstage.jst.go.jp/article/onseikenkyu/8/1/8_KJ00007631375/_pdf/-char/ja",
             "media": "academic",
