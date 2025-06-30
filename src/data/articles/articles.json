@@ -3648,6 +3648,25 @@
             "filename": "1744871301"
         },
         {
+            "title": "Integrating Intent Understanding and Optimal Behavior Planning for Behavior Tree Generation from Human Instructions",
+            "link": "https://arxiv.org/abs/2405.07474",
+            "media": "academic",
+            "tags": [
+                "behaviortree",
+                "llm",
+                "ai"
+            ],
+            "short": {
+                "en": "Earned optimal and reliable Behavior Tree (BT) generation from human instructions by a two-stage framework that integrates Large Language Models (LLMs) for intent understanding and the Optimal Behavior Tree Expansion Algorithm (OBTEA) for behavior planning.",
+                "ja": "LLMによる意図理解と最適ビヘイビアツリー拡張アルゴリズム(OBTEA)による行動計画を統合した2段階のフレームワークにより、人間の自然言語指示から最適かつ信頼性の高いビヘイビアツリーの生成を実現した論文。"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1751326706.111,
+            "updatedAt": 1751326706.111,
+            "filename": "1751326706"
+        },
+        {
             "title": "Curvy Digital Marketing Designs: Virtual Elements with Rounded Shapes Enhance Online Click-Through Rates",
             "link": "https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad078/7470747?redirectedFrom=fulltext",
             "media": "academic",
