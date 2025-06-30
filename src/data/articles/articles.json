@@ -4998,6 +4998,25 @@
             "filename": "1722060168"
         },
         {
+            "title": "LLM-MARS: Large Language Model for Behavior Tree Generation and NLP-enhanced Dialogue in Multi-Agent Robot Systems",
+            "link": "https://arxiv.org/abs/2312.09348",
+            "media": "academic",
+            "tags": [
+                "llm",
+                "behaviortree",
+                "ai"
+            ],
+            "short": {
+                "en": "Earned high task execution accuracy and human-like behavior generation by fine-tuning a Large Language Model (Falcon 7B) with LoRa adapters for Behavior Tree generation and question-answering.",
+                "ja": "大規模言語モデル（Falcon 7B）をLoRaアダプタを用いてファインチューニングし、ビヘイビアツリー生成と質疑応答を行うことで、高いタスク実行精度と人間らしい振る舞い生成能力を得た論文"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1751287184.696,
+            "updatedAt": 1751287184.696,
+            "filename": "1751287184"
+        },
+        {
             "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
             "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
             "media": "academic",
