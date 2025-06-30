@@ -713,6 +713,24 @@
             "filename": "1720923411"
         },
         {
+            "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+            "link": "https://arxiv.org/abs/2404.13208",
+            "media": "academic",
+            "tags": [
+                "llm",
+                "prompt"
+            ],
+            "short": {
+                "en": "Avoding prompt injection",
+                "ja": "プロンプトインジェクションを回避する"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1751243991.48,
+            "updatedAt": 1751243991.48,
+            "filename": "1751243991"
+        },
+        {
             "title": "「次世代医療基盤法」とは",
             "link": "https://www8.cao.go.jp/iryou/gaiyou/pdf/seidonogaiyou.pdf",
             "media": "netpage",
