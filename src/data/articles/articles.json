@@ -397,6 +397,25 @@
             "filename": "1720012012"
         },
         {
+            "title": "LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning",
+            "link": "https://arxiv.org/abs/2409.10444",
+            "media": "academic",
+            "tags": [
+                "llm",
+                "behaviortree",
+                "ai"
+            ],
+            "short": {
+                "en": "Earned by Enhanced Behavior Tree generation for robotic assembly by Leveraging Large Language Models (LLMs) with in-context learning and fine-tuning",
+                "ja": "大規模言語モデル(LLM)をコンテキスト内学習とファインチューニングで活用することにより、ロボット組立タスクにおけるビヘイビアツリー(BT)生成の能力向上を得た論文"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1751286279.49,
+            "updatedAt": 1751286279.49,
+            "filename": "1751286279"
+        },
+        {
             "title": "Leveraging Multi-Faceted User Preferences for Improving Click-Through Rate Predictions",
             "link": "https://dl.acm.org/doi/10.1145/3460231.3473899",
             "media": "academic",
