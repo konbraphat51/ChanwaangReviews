@@ -2075,6 +2075,25 @@
             "filename": "1720716711"
         },
         {
+            "title": "A Study on Training and Developing Large Language Models for Behavior Tree Generation",
+            "link": "https://arxiv.org/abs/2401.08089",
+            "media": "academic",
+            "tags": [
+                "behaviortree",
+                "ai",
+                "llm"
+            ],
+            "short": {
+                "en": "Earned a comprehensive framework for training and developing LLMs for BT generation by leveraging the representation and reasoning abilities of LLMs.",
+                "ja": "LLMの表現力と推論能力を活用した手法により、行動木（BT）生成のためのLLMの訓練と開発に関する包括的なフレームワークを得た論文"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1751325503.044,
+            "updatedAt": 1751325503.044,
+            "filename": "1751325503"
+        },
+        {
             "title": "The Effect of a Narrative Intervention Program for People Living With Dementia",
             "link": "http://dx.doi.org/10.1037/pne0000141",
             "media": "academic",
