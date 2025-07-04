@@ -2903,6 +2903,23 @@
             "filename": "1716811465"
         },
         {
+            "title": "Neri Oxman’s Krebs Cycle of Creativity",
+            "link": "https://betterworld.mit.edu/spectrum/issues/winter-2017/neri-oxmans-krebs-cycle-of-creativity/",
+            "media": "netpage",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1751594316.564,
+            "updatedAt": 1751594316.564,
+            "filename": "1751594316"
+        },
+        {
             "title": "Comparing three methods of computerised cognitive training for older adults with subclinical cognitive decline",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26674122/",
             "media": "academic",
