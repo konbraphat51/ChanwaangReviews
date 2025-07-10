@@ -677,6 +677,23 @@
             "filename": "1746879733"
         },
         {
+            "title": "Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata",
+            "link": "https://arxiv.org/abs/2507.07048",
+            "media": "academic",
+            "tags": [
+                "llm"
+            ],
+            "short": {
+                "en": "食事の写真とともに日時を添えると栄養推定精度が向上する",
+                "ja": "Nutritional estimation accuracy can be improved by adding the date and time of the meal along with a photo of the meal."
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1752159937.24,
+            "updatedAt": 1752159937.24,
+            "filename": "1752159937"
+        },
+        {
             "title": "GitHubのリポジトリがGoogle検索に引っかからないのでやったこと",
             "link": "https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65",
             "media": "netpage",
