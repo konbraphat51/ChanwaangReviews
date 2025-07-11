@@ -3510,6 +3510,25 @@
             "filename": "1722184113"
         },
         {
+            "title": "質的心理学とナラティヴ研究の基礎概念",
+            "link": "https://www.jstage.jst.go.jp/article/sjpr/49/3/49_436/_article/-char/ja/",
+            "media": "academic",
+            "tags": [
+                "qualitative",
+                "narrative",
+                "psychology"
+            ],
+            "short": {
+                "en": "handbook for qualitative psychology",
+                "ja": "質的心理学の基礎説明"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1752199582.499,
+            "updatedAt": 1752199582.499,
+            "filename": "1752199582"
+        },
+        {
             "title": "【注意喚起】Azure OpenAI Serviceのファインチューニングは、月$2,160かかる!",
             "link": "https://note.com/brave_quince241/n/n5f594619c3b7",
             "media": "netpage",
