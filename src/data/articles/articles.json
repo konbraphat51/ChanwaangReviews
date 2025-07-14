@@ -2542,6 +2542,23 @@
             "filename": "1717319233"
         },
         {
+            "title": "既に git 管理しているファイルをあえて無視したい",
+            "link": "https://qiita.com/usamik26/items/56d0d3ba7a1300625f92",
+            "media": "netpage",
+            "tags": [
+                "git"
+            ],
+            "short": {
+                "en": "git update-index --assume-unchanged: not leaving file diff",
+                "ja": "git update-index --assume-unchanged: 特定ファイルの差分を残さない"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1752490245.256,
+            "updatedAt": 1752490245.256,
+            "filename": "1752490245"
+        },
+        {
             "title": "Human Problem Solving: Sokoban Case Study",
             "link": "https://www.fi.muni.cz/adaptivelearning/documents/sokoban.pdf",
             "media": "academic",
