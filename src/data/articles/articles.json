@@ -1499,6 +1499,24 @@
             "filename": "1721695240"
         },
         {
+            "title": "The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
+            "link": "https://arxiv.org/pdf/2506.06941",
+            "media": "academic",
+            "tags": [
+                "lrm",
+                "llm"
+            ],
+            "short": {
+                "en": "LRM is pattern thinker",
+                "ja": "LRMはパターン思考に囚われている"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1752686176.274,
+            "updatedAt": 1752686176.274,
+            "filename": "1752686176"
+        },
+        {
             "title": "Universal Design Color Guidelines",
             "link": "https://www.city.hiroshima.lg.jp/uploaded/attachment/27656.pdf",
             "media": "netpage",
