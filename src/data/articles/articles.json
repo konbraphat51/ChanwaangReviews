@@ -2524,6 +2524,24 @@
             "filename": "1751121968"
         },
         {
+            "title": "The effect of dual-task conditions on postural control in adults with low back pain: a systematic review and meta-analysis",
+            "link": "https://josr-online.biomedcentral.com/articles/10.1186/s13018-023-04035-6",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "multitask"
+            ],
+            "short": {
+                "en": "language task and visual task available in the same time",
+                "ja": "言語野タスクと視覚野タスクは同時にできる"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1752683630.171,
+            "updatedAt": 1752683637.283,
+            "filename": "1752683637"
+        },
+        {
             "title": "研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ",
             "link": "https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md#presentation",
             "media": "repository",
