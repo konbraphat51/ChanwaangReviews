@@ -3118,6 +3118,24 @@
             "filename": "1721228378"
         },
         {
+            "title": "EXAMINING THE ALIGNMENT OF LARGE LANGUAGE MODELS THROUGH REPRESENTATIVE HEURISTICS: THE CASE OF POLITICAL STEREOTYPES",
+            "link": "https://arxiv.org/pdf/2501.14294",
+            "media": "academic",
+            "tags": [
+                "llm",
+                "heuristics"
+            ],
+            "short": {
+                "en": "Earned knowledge about LLMs' political stereotyping by applying the framework of representative heuristics",
+                "ja": "代表性ヒューリスティックの枠組みを適用し、LLMの政治的ステレオタイプが人間より強くなる知見を得た論文"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1752865624.789,
+            "updatedAt": 1752865624.789,
+            "filename": "1752865624"
+        },
+        {
             "title": "Multidimensional Thresholding for Individual-Level Preference Elicitation",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S1098301524000810",
             "media": "academic",
