@@ -5514,6 +5514,25 @@
             "filename": "1750204915"
         },
         {
+            "title": "Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning",
+            "link": "https://mindcraft-minecollab.github.io/index.html",
+            "media": "academic",
+            "tags": [
+                "gameai",
+                "minecraft",
+                "characterai"
+            ],
+            "short": {
+                "en": "Earned that current LLM agents are ill-optimized for multi-agent collaboration, especially in embodied scenarios, highlighted by a performance drop of up to 15% when required to communicate detailed plans by introducing MINDcraft, a multi-agent LLM platform for Minecraft, and MineCollab, a benchmark for embodied collaborative reasoning",
+                "ja": "Minecraft環境で現在のLLMエージェントは、特に身体性を伴うシナリオでの多エージェント協調に最適化されておらず、詳細な計画の伝達を要求されると性能が最大15%低下するという知見を得た論文"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1753095713.091,
+            "updatedAt": 1753095713.091,
+            "filename": "1753095713"
+        },
+        {
             "title": "Interactive Treemaps in News Recommender Systems",
             "link": "https://www.semanticscholar.org/paper/NewsViz%3A-Depicting-and-Controlling-Preference-Using-Kunkel-Schwenger/b91e40b1ac5fee5bb3fcdf9b29c6814ed4ad37dc",
             "media": "academic",
