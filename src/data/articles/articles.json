@@ -5071,6 +5071,24 @@
             "filename": "1725247643"
         },
         {
+            "title": "Unity-Technologies/game-programming-patterns-demo",
+            "link": "https://github.com/Unity-Technologies/game-programming-patterns-demo",
+            "media": "repository",
+            "tags": [
+                "unity",
+                "pattern"
+            ],
+            "short": {
+                "en": "Design pattern for Unity",
+                "ja": "Unityデザインパターン"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1753166450.786,
+            "updatedAt": 1753166450.786,
+            "filename": "1753166450"
+        },
+        {
             "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
             "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376723",
             "media": "academic",
