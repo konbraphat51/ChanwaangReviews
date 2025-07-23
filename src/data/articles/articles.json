@@ -608,6 +608,25 @@
             "filename": "1716870888"
         },
         {
+            "title": "Attention tasks",
+            "link": "https://www.labvanced.com/content/research/en/blog/2024-12-attention-tasks-in-psychology-research/",
+            "media": "netpage",
+            "tags": [
+                "psychology",
+                "experiment",
+                "tasks"
+            ],
+            "short": {
+                "en": "catalog of psychology attention experiment",
+                "ja": "注意力課題カタログ"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1753304746.26,
+            "updatedAt": 1753304746.26,
+            "filename": "1753304746"
+        },
+        {
             "title": "What Does That ?-Block Do? Learning Latent Causal Affordances from Mario Play Traces",
             "link": "https://cdn.aaai.org/ocs/ws/ws0315/15115-68462-1-PB.pdf",
             "media": "academic",
