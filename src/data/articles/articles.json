@@ -1954,6 +1954,26 @@
             "filename": "1745939769"
         },
         {
+            "title": "脳は難しさを楽しんでいる　チャレンジ精神の科学",
+            "link": "https://www.nikkei.com/article/DGXZQOSG2134U0R20C25A4000000/",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "motivation",
+                "fun",
+                "challenge"
+            ],
+            "short": {
+                "en": "Fun in extreme difficulty",
+                "ja": "理不尽な難易度でも楽しい"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1753316498.888,
+            "updatedAt": 1753316498.888,
+            "filename": "1753316498"
+        },
+        {
             "title": "【Python】2群間での統計検定手法まとめ",
             "link": "https://qiita.com/suaaa7/items/745ac1ca0a8d6753cf60",
             "media": "netpage",
