@@ -5406,6 +5406,26 @@
             "filename": "1721204233"
         },
         {
+            "title": "Farama-Foundation/Arcade-Learning-Environment",
+            "link": "https://github.com/Farama-Foundation/Arcade-Learning-Environment",
+            "media": "repository",
+            "tags": [
+                "game",
+                "benchmark",
+                "gameai",
+                "rl"
+            ],
+            "short": {
+                "en": "game AI bench mark sets",
+                "ja": "ゲームAIのベンチマーク集"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1753743792.849,
+            "updatedAt": 1753743792.849,
+            "filename": "1753743792"
+        },
+        {
             "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
             "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
             "media": "academic",
