@@ -1805,6 +1805,25 @@
             "filename": "1722060168"
         },
         {
+            "title": "Gymnasium Documentation",
+            "link": "https://gymnasium.farama.org/index.html",
+            "media": "netpage",
+            "tags": [
+                "gameai",
+                "rl",
+                "benchmark"
+            ],
+            "short": {
+                "en": "Standard RL benchmark",
+                "ja": "標準化強化学習ベンチマーク"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1753744543.245,
+            "updatedAt": 1753744543.245,
+            "filename": "1753744543"
+        },
+        {
             "title": "Active learning for adaptive surrogate model improvement in high-dimensional problems",
             "link": "https://link.springer.com/article/10.1007/s00158-024-03816-9",
             "media": "academic",
