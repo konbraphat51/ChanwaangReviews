@@ -4703,6 +4703,27 @@
             "filename": "1720922286"
         },
         {
+            "title": "Lmgame Bench",
+            "link": "https://lmgame.org/",
+            "media": "netpage",
+            "tags": [
+                "rl",
+                "game",
+                "gameai",
+                "benchmark",
+                "llm"
+            ],
+            "short": {
+                "en": "LLM gaming benchmark",
+                "ja": "LLMのゲームプレイベンチマーク"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1753744719.495,
+            "updatedAt": 1753744719.495,
+            "filename": "1753744719"
+        },
+        {
             "title": "An Interactive Estimation of the Distribution Algorithm Integrated with Surrogate-Assisted Fitness",
             "link": "https://www.mdpi.com/2073-8994/15/10/1852",
             "media": "academic",
