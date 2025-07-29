@@ -1640,6 +1640,24 @@
             "filename": "1721497841"
         },
         {
+            "title": "質的データ分析法として KJ 法を行う前に",
+            "link": "https://www.jstage.jst.go.jp/article/methodologysig/1/0/1_1.02/_pdf/-char/ja",
+            "media": "academic",
+            "tags": [
+                "kjmethod",
+                "affinity"
+            ],
+            "short": {
+                "en": "Afiinity diagram procedure",
+                "ja": "KJ法のやり方"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1753751708.337,
+            "updatedAt": 1753751708.337,
+            "filename": "1753751708"
+        },
+        {
             "title": "Motivated for near impossibility: How task type and reward modulate task enjoyment and the striatal activation for extremely difficult task",
             "link": "https://link.springer.com/article/10.3758/s13415-022-01046-4",
             "media": "academic",
