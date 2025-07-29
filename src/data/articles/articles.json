@@ -4276,6 +4276,25 @@
             "filename": "1717575625"
         },
         {
+            "title": "From Arksey and O'Malley and Beyond: Customizations to enhance a team-based, mixed approach to scoping review methodology",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8374523/pdf/main.pdf",
+            "media": "academic",
+            "tags": [
+                "scopingreview",
+                "coding",
+                "qualitative"
+            ],
+            "short": {
+                "en": "How to code in scoping review",
+                "ja": "スコーピングレビューでのコーディング方法"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1753752901.834,
+            "updatedAt": 1753752901.834,
+            "filename": "1753752901"
+        },
+        {
             "title": "LineRenderer",
             "link": "https://docs.unity3d.com/ScriptReference/LineRenderer.html",
             "media": "netpage",
