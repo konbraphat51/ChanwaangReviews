@@ -2210,6 +2210,23 @@
             "filename": "1716445032"
         },
         {
+            "title": "EngageMon: Multi-Modal Engagement Sensing for Mobile Games",
+            "link": "https://dl.acm.org/doi/10.1145/3191745",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1754054260.809,
+            "updatedAt": 1754054260.809,
+            "filename": "1754054260"
+        },
+        {
             "title": "Vite ってよく聞くけど何なんですか？ あれは",
             "link": "https://zenn.dev/comm_vue_nuxt/articles/what-is-vite",
             "media": "netpage",
