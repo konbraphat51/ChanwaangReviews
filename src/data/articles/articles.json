@@ -802,6 +802,24 @@
             "filename": "1746921925"
         },
         {
+            "title": "Hubel & Wiesel - Cortical Neuron - V1 - LGN - ...",
+            "link": "https://www.youtube.com/watch?v=8ZfO_awWGpc&t=598s",
+            "media": "netpage",
+            "tags": [
+                "neuroscience",
+                "brain"
+            ],
+            "short": {
+                "en": "Pop sound when cat's brain neuron activated",
+                "ja": "ネコの視覚野ニューロンが発火したときにバチバチ音を鳴らす動画"
+            },
+            "importance": 4,
+            "hasPage": false,
+            "createdAt": 1754184133.731,
+            "updatedAt": 1754184133.731,
+            "filename": "1754184133"
+        },
+        {
             "title": "【Unity】ダークソウルっぽいカメラワークを作る【Cinemachine + Input System】",
             "link": "https://raspberly.hateblo.jp/entry/UnityAdventCalendar2022_24",
             "media": "netpage",
