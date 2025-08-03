@@ -3717,6 +3717,23 @@
             "filename": "1724304963"
         },
         {
+            "title": "Persona Vectors: Monitoring and Controlling Character Traits in Language Models",
+            "link": "https://arxiv.org/abs/2507.21509",
+            "media": "academic",
+            "tags": [
+                "llm"
+            ],
+            "short": {
+                "en": "Persona vector in side LLM",
+                "ja": "LLMの中にペルソナベクトルが見られた"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1754208919.205,
+            "updatedAt": 1754208919.205,
+            "filename": "1754208919"
+        },
+        {
             "title": "Benefits of embedding custom fonts",
             "link": "https://support.microsoft.com/en-us/office/benefits-of-embedding-custom-fonts-cb3982aa-ea76-4323-b008-86670f222dbc",
             "media": "netpage",
