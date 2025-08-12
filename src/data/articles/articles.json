@@ -3052,6 +3052,25 @@
             "filename": "1744806862"
         },
         {
+            "title": "OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS",
+            "link": "https://openreview.net/pdf?id=OJd3ayDDoF",
+            "media": "academic",
+            "tags": [
+                "llm",
+                "codingai",
+                "agent"
+            ],
+            "short": {
+                "en": "Earned a platform for developing generalist AI agents that can perform software development by proposing a flexible architecture including an event stream, a sandboxed runtime, and an evaluation framework.",
+                "ja": "柔軟なアーキテクチャ（イベントストリーム、サンドボックス化されたランタイム、評価フレームワークなど）を提案することで、ソフトウェア開発を実行できる汎用AIエージェント開発のためのプラットフォームを構築した論文"
+            },
+            "importance": 4,
+            "hasPage": true,
+            "createdAt": 1755004762.345,
+            "updatedAt": 1755004762.345,
+            "filename": "1755004762"
+        },
+        {
             "title": "PythonでGUIアプリの作成",
             "link": "https://qiita.com/_dakc_/items/e69e2d240a00ff08d10e",
             "media": "netpage",
