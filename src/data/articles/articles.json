@@ -984,6 +984,26 @@
             "filename": "1751594316"
         },
         {
+            "title": "When people are defeated by artificial intelligence in a competition task requiring logical thinking, how do they make causal attribution?",
+            "link": "https://link.springer.com/article/10.1007/s12144-021-02559-w",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "game",
+                "context",
+                "motivation"
+            ],
+            "short": {
+                "en": "Earned that people attribute losing to an AI in a logical thinking game to stable factors (their own and their opponent's ability) by conducting three experiments where participants competed against an opponent they believed was either an AI or another human.",
+                "ja": "論理的思考を要する競争課題において、AIまたは人間と対戦すると信じさせられた参加者を用いた3つの実験により、人々はAIに敗北した原因を、相手がAIか人間かに関わらず、安定的要因（自身の能力と相手の能力）に帰属させることを明らかにした論文"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1759082708.32,
+            "updatedAt": 1759082708.32,
+            "filename": "1759082708"
+        },
+        {
             "title": "How Organisers Understand and Promote Participants’ Creativity in Game Jams",
             "link": "https://dl.acm.org/doi/10.1145/3472688.3472690",
             "media": "academic",
