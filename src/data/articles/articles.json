@@ -930,6 +930,23 @@
             "filename": "1718795206"
         },
         {
+            "title": "使うべきではない用語：ブラックリストとホワイトリスト",
+            "link": "https://www.splunk.com/ja_jp/blog/security/blacklist-whitelist-inclusivity.html",
+            "media": "netpage",
+            "tags": [
+                "words"
+            ],
+            "short": {
+                "en": "white / black -> allow / deny",
+                "ja": "white / black -> allow / deny"
+            },
+            "importance": 1,
+            "hasPage": false,
+            "createdAt": 1761886642.453,
+            "updatedAt": 1761886642.453,
+            "filename": "1761886642"
+        },
+        {
             "title": "『LEFT ALIVE』で採用されたHTNを用いたゲームAIとは？DeNA主催のGame Developers Meetingレポ 1枚目の写真・画像",
             "link": "https://www.gamebusiness.jp/article/2019/10/28/16360.html",
             "media": "netpage",
