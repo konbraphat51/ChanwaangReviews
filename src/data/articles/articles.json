@@ -1638,6 +1638,26 @@
             "filename": "1720016976"
         },
         {
+            "title": "Live demo: GitHub Copilot in Visual Studio Code",
+            "link": "https://www.youtube.com/watch?v=dSbv-1KGu2U&t=12s",
+            "media": "presentation",
+            "tags": [
+                "ai",
+                "coding",
+                "llm",
+                "vscode"
+            ],
+            "short": {
+                "en": "start of vive coding by agentic llm",
+                "ja": "バイブコーディングの始まり"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1762301010.308,
+            "updatedAt": 1762301010.308,
+            "filename": "1762301010"
+        },
+        {
             "title": "NICGAR: A Niching Genetic Algorithm to mine a diverse set of interesting quantitative association rules",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0020025516302146?via%3Dihub",
             "media": "academic",
