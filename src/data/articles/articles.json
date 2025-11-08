@@ -3959,6 +3959,25 @@
             "filename": "1726210281"
         },
         {
+            "title": "How generic language shapes the development of social thought",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1364661324002559",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "socialpsychology",
+                "education"
+            ],
+            "short": {
+                "en": "Poor generalization leads to poor thoughts",
+                "ja": "大きい主語は子供の偏見的思考を誘発する"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1762572510.336,
+            "updatedAt": 1762572540.774,
+            "filename": "1762572540"
+        },
+        {
             "title": "OpenAI 新API：Responses API と Agent SDK",
             "link": "https://qiita.com/syukan3/items/b9f3db74fe2a33ed3a2f",
             "media": "netpage",
