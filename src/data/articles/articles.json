@@ -4203,6 +4203,24 @@
             "filename": "1731743938"
         },
         {
+            "title": "エディター拡張の基礎",
+            "link": "https://zenn.dev/kumas/books/325ed71592f6f5/viewer/231409",
+            "media": "netpage",
+            "tags": [
+                "unity",
+                "unityeditor"
+            ],
+            "short": {
+                "en": "Basics of Unity Editor Scripting",
+                "ja": "Unityエディタコーディング"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1763622614.059,
+            "updatedAt": 1763622614.059,
+            "filename": "1763622614"
+        },
+        {
             "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
             "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
             "media": "netpage",
