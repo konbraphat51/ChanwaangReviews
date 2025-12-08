@@ -2181,6 +2181,23 @@
             "filename": "1740021708"
         },
         {
+            "title": "PerttuHamalainen/LLMCode",
+            "link": "https://github.com/PerttuHamalainen/LLMCode",
+            "media": "repository",
+            "tags": [
+                "qualitative"
+            ],
+            "short": {
+                "en": "simple qualitative LLM ",
+                "ja": "LLMによるシンプルな質的分析"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1765183460.965,
+            "updatedAt": 1765183471.261,
+            "filename": "1765183471"
+        },
+        {
             "title": "基礎から学ぶ推薦システム - 情報技術で嗜好を予測する -",
             "link": "https://www.coronasha.co.jp/np/isbn/9784339029284/",
             "media": "book",
