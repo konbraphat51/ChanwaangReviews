@@ -5340,6 +5340,25 @@
             "filename": "1723598306"
         },
         {
+            "title": "Spatial Presence and Emotions during Video Game Playing",
+            "link": "http://hypermedia468.pbworks.com/w/file/fetch/80687384/presence%20and%20emtions.pdf",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "aicontext"
+            ],
+            "short": {
+                "en": "Earned insights on how the nature of the opponent (computer, friend, stranger) influences Spatial Presence, emotional responses, and physiological arousal by using self-report ratings and cardiac interbeat intervals (IBIs).",
+                "ja": "自己報告評価と心拍間隔（IBI）の測定により、対戦相手の性質（コンピュータ、友人、見知らぬ人）が空間的プレゼンス、感情反応、および生理的覚醒にどのように影響するかという知見を得た論文"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768140388.659,
+            "updatedAt": 1768140388.659,
+            "filename": "1768140388"
+        },
+        {
             "title": "床井研究室 2009年08月21日 [OpenGL][GLSL][ゼミ] 第１回 レンダリングパイプライン",
             "link": "https://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20090821",
             "media": "netpage",
