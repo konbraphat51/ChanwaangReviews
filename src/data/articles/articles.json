@@ -819,6 +819,25 @@
             "filename": "1747383797"
         },
         {
+            "title": "Playing online games against computer- vs. human-controlled opponents: Effects on presence, flow, and enjoyment",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563207001641",
+            "media": "academic",
+            "tags": [
+                "game",
+                "psychology",
+                "aicontext"
+            ],
+            "short": {
+                "en": "Earned empirical evidence that perceiving an opponent as human significantly enhances presence, flow, and enjoyment compared to perceiving an opponent as a computer, by conducting a deceptive experiment using an online game.",
+                "ja": "オンラインゲームを用いた実験において、対戦相手が「コンピュータ」ではなく「人間」であると信じ込ませる欺瞞手法を用いることで、相手を人間だと認識することがプレゼンス（実在感）、フロー体験、および楽しさを有意に向上させるという実証的証拠を得た論文。  "
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1768139632.933,
+            "updatedAt": 1768139632.933,
+            "filename": "1768139632"
+        },
+        {
             "title": "JavaScriptで再現性のある乱数を生成する + 指定した範囲の乱数を生成する",
             "link": "https://sbfl.net/blog/2017/06/01/javascript-reproducible-random/",
             "media": "netpage",
