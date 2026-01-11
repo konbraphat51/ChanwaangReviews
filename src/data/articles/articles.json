@@ -4756,7 +4756,8 @@
                 "game",
                 "psychology",
                 "mri",
-                "context"
+                "context",
+                "aicontext"
             ],
             "short": {
                 "en": "Earned evidence of elevated reward circuit activation when winning against a human opponent compared to a computer opponent by fMRI during a competitive video game.",
@@ -4765,7 +4766,7 @@
             "importance": 5,
             "hasPage": true,
             "createdAt": 1759078891.239,
-            "updatedAt": 1768139217.557,
+            "updatedAt": 1768139651.549,
             "filename": "1759078891"
         },
         {
