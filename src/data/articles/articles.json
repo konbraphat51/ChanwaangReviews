@@ -1189,6 +1189,25 @@
             "filename": "1724372289"
         },
         {
+            "title": "How Many Participants? How Many Trials? Maximizing the Power of Reaction Time Studies",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10991062/pdf/13428_2023_Article_2155.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "experiment",
+                "experimentdesign"
+            ],
+            "short": {
+                "en": "This study simulates virtual experiments using large datasets to demonstrate that, for a fixed total number of trials, statistical power in reaction time studies is generally maximized by testing a large number of participants with relatively few trials each, rather than the reverse, largely due to practice effects.",
+                "ja": "大規模な既存データセットを用いた仮想実験シミュレーションにより、反応時間研究において総試行数（コスト）が固定されている場合、統計的検定力は一般に「少数の参加者に多数の試行」を行わせるよりも、「多数の参加者に少数の条件あたり試行」を行わせることで最大化されることを、練習効果による効果量の変動を含めて実証したものである。"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1768332345.374,
+            "updatedAt": 1768332345.374,
+            "filename": "1768332345"
+        },
+        {
             "title": "Three-dimensional digital enviroments and computer graphics influencing K-12 individuals' digital literacy development and interdisciplinary lifelong learning",
             "link": "https://dl.acm.org/doi/10.1145/1666611.1666626",
             "media": "academic",
