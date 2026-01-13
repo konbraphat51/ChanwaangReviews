@@ -1288,43 +1288,43 @@ export default Vue.defineComponent({
 	line-height: 1;
 }
 
-.markdown-body alertalert-note {
+.markdown-body alert.alert-note {
 	border-left-color: var(--borderColor-accent-emphasis);
 }
 
-.markdown-body alertalert-note alert-title {
+.markdown-body alert.alert-note alert-title {
 	color: var(--fgColor-accent);
 }
 
-.markdown-body alertalert-important {
+.markdown-body alert.alert-important {
 	border-left-color: var(--borderColor-done-emphasis);
 }
 
-.markdown-body alertalert-important alert-title {
+.markdown-body alert.alert-important alert-title {
 	color: var(--fgColor-done);
 }
 
-.markdown-body alertalert-warning {
+.markdown-body alert.alert-warning {
 	border-left-color: var(--borderColor-attention-emphasis);
 }
 
-.markdown-body alertalert-warning alert-title {
+.markdown-body alert.alert-warning alert-title {
 	color: var(--fgColor-attention);
 }
 
-.markdown-body alertalert-tip {
+.markdown-body alert.alert-tip {
 	border-left-color: var(--borderColor-success-emphasis);
 }
 
-.markdown-body alertalert-tip alert-title {
+.markdown-body alert.alert-tip alert-title {
 	color: var(--fgColor-success);
 }
 
-.markdown-body alertalert-caution {
+.markdown-body alert.alert-caution {
 	border-left-color: var(--borderColor-danger-emphasis);
 }
 
-.markdown-body alertalert-caution alert-title {
+.markdown-body alert.alert-caution alert-title {
 	color: var(--fgColor-danger);
 }
 
