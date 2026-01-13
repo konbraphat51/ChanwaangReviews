@@ -1754,6 +1754,26 @@
             "filename": "1762380067"
         },
         {
+            "title": "Power Contours: Optimising Sample Size and Precision in Experimental Psychology and Human Neuroscience",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8329985/pdf/met_26_3_295.pdf",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "experiment",
+                "experimentdesign",
+                "statistics"
+            ],
+            "short": {
+                "ja": "本研究は、実験心理学や神経科学において、統計的検出力（パワー）が参加者数（サンプルサイズ）だけでなく各参加者の試行数によっても大きく変化することを示し、この二つの変数の組み合わせによる検出力の変化を可視化する「パワー・コンター（等高線）」手法を提案・実証したものである",
+                "en": "This study demonstrates that statistical power in experimental psychology and neuroscience depends significantly on the number of trials per participant as well as sample size, and proposes \"power contours\" to visualize and optimize the trade-off between these two variables."
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1768333678.913,
+            "updatedAt": 1768333678.913,
+            "filename": "1768333678"
+        },
+        {
             "title": "Getで始まる名前を関数につける前に読む記事",
             "link": "https://zenn.dev/blue_jam/articles/2a347b36b43d59",
             "media": "netpage",
