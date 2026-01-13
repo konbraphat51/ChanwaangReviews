@@ -4257,6 +4257,24 @@
             "filename": "1763622614"
         },
         {
+            "title": "Prompt Repetition Improves Non-Reasoning LLMs",
+            "link": "https://arxiv.org/abs/2512.14982",
+            "media": "academic",
+            "tags": [
+                "llm",
+                "prompt"
+            ],
+            "short": {
+                "en": "same prompt twice leads better response",
+                "ja": "二重プロンプトで精度向上"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1768277526.092,
+            "updatedAt": 1768277526.092,
+            "filename": "1768277526"
+        },
+        {
             "title": "画面外のターゲットへの方向が画面端に表示されるアレ（Offscreen Indicator）を作る",
             "link": "https://qiita.com/o8que/items/46e486f62bdf05c29559",
             "media": "netpage",
