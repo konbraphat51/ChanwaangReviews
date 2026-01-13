@@ -2809,6 +2809,25 @@
             "filename": "1720928786"
         },
         {
+            "title": "Sample Size Justification",
+            "link": "https://watermark02.silverchair.com/collabra_2022_8_1_33267.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1swggNXBgkqhkiG9w0BBwagggNIMIIDRAIBADCCAz0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiCxTT3l2ooh83oXJAgEQgIIDDl-dNbRRhDJL_5ukTsGOty4-Wtcw3cpSux4i7BGVLQjX7gze41n2jaUrTZgpinVfEp9KlzGZpNy3s1Vji6al7p7-dylASIFpOMkH5hSeC_g1tmOb0qRi0WbacGqKgmlK1ockIcvl3I2eNSihi-MJ_WmGJXZNvtaO8QMVH-PLEaCpRd-CQ4pmoRVyZ6niTHQPBLFOykEIoRMjuT7UZiqBxtRuAIgQXW5HxJp695-Srh9NsxApVNXLPFAFlPfyWfLnMsb-zebh-XOp9VCnFTvC8c-mV55WLPDE-4OmxWr21YF0ehMiJFWSbz-s9vba4pkK5VNltFOYZkhU_zcsNWHFrKiXw0gHB9ikS52s_y5LrSDsGCNKO3nhVI9QXHXWQjg2WZZYvSD9K6Zt5ldMnVp55l9Xq2HHEjtKuVEaqKPc5cvs0MraTl8zsFfMwc-UM5pp2sMDeRFNY-YDB0Rhf53BhVSiUvLV0fMFqGAwzt3b9a345bdWPuU5SXfERZdiH4v2WohGA8Q42zf96L9ggQtgzTPW3BIK7RwL70crrO3dNisAg0A-mmXksEnTa15MXSN7Nlnp6MfVGZYyxb6dIMbfkZ4pP7CZxNMkIg-lifLgkpGA2ux6B5Tyb4p6Afq3krsYcSy9PKXHiB6lSBziZQfS5jKzfh9bUmhVcRmUd6VJ-Oy529vT7Fod6jbvELfyBgN99ZCc5ga117omeo1mMa9sJq56L0eaK2fmxir9RwXCMD_cZD9mKmtjOsfZomVsFkhnGlzM4qg3YMyBGTUWtVXUDcMlOxgakrfb5heCTTH3XBuBjqdraH8KpQg6J4faJEYFpfxE-Kdj7u5ZTWv_iLfOrOWyzeUU1XlvFy5bsk2bro5rKXna8fkSky5_9lsWmgP37hjNXdyr3hX48yoKqRoe_A1958GiIIrZE8U1v1ENxI3uPRuMQClTvh6wy-I66WQUu_XBrRp_o9xpmsKWk5yduaXPaL1J30_PhJYhFOJbldxfyOu3ftLJt58Oz28311z8qjj16WLkxZipf2ncl5nh",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "experiment",
+                "experimentdesign"
+            ],
+            "short": {
+                "en": "This overview article discusses six approaches to justify sample size in quantitative empirical studies and provides guidelines for evaluating the informational value of data based on inferential goals",
+                "ja": "本論文は、量的実証研究におけるサンプルサイズ（標本サイズ）を正当化するための6つのアプローチを体系的に解説し、研究者が自身の推論目標に照らして収集データの「情報の価値」を最大化・評価するための包括的なガイドラインを提供するものである。"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1768331024.409,
+            "updatedAt": 1768331024.409,
+            "filename": "1768331024"
+        },
+        {
             "title": "Exploring game design approaches through conversations with designers",
             "link": "https://www.sciencedirect.com/science/article/pii/S0142694X24000164",
             "media": "academic",
