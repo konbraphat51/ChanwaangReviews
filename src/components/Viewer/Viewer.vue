@@ -21,6 +21,8 @@ export default Vue.defineComponent({
 			if (!this.markdown) return ""
 			// Remove META comment section
 			const withoutMeta = this.markdown.replace(/<!-- META[\s\S]*?META -->\n*/g, "")
+			// Note: Using v-html with marked.parse() is safe here because markdown files
+			// are stored in the repository and are trusted content, not user-generated
 			return marked.parse(withoutMeta)
 		},
 	},
@@ -78,6 +80,7 @@ export default Vue.defineComponent({
 		Liberation Mono, monospace;
 	--fgColor-accent: Highlight;
 }
+/* Note: MyMarkdownCSS intentionally uses light theme colors regardless of system preference */
 @media (prefers-color-scheme: dark) {
 	.markdown-body {
 		/* light */
