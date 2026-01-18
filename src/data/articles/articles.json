@@ -143,6 +143,23 @@
             "filename": "1720756464"
         },
         {
+            "title": "Collecting Qualitative Data at Scale with Large Language Models: A Case Study",
+            "link": "https://arxiv.org/pdf/2309.10187#page=24.43",
+            "media": "academic",
+            "tags": [
+                "aiinterviewer"
+            ],
+            "short": {
+                "ja": "大規模言語モデル（LLM）を用いたチャットボットによる定性データ収集の有効性を、399名の参加者を対象とした大規模なユーザー調査を通じて検証した結果、チャットボットは従来のアンケートと比較して参加者の満足度や回答の質（関連性や具体性）を高めることには成功したが、参加者の動機や個人的な経験といった社会的文脈の深層を捉える「豊かさ（richness）」に関しては、人間のインタビュアーの水準には達していないことを明らかにした研究",
+                "en": "This study evaluates the efficacy of collecting qualitative data at scale using LLM-based chatbots through a user study with 399 participants, finding that while chatbots improved user satisfaction and response quality (relevance, specificity) compared to surveys, they failed to capture the \"richness\" of social context—such as personal motives and lived experiences—characteristic of effective human interviewing."
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768774600.42,
+            "updatedAt": 1768774600.42,
+            "filename": "1768774600"
+        },
+        {
             "title": "【記事更新】私のブックマーク「Affective Computing（感情計算論）」",
             "link": "https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol40-no2/",
             "media": "netpage",
