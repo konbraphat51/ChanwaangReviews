@@ -37,6 +37,23 @@
             "filename": "1725072957"
         },
         {
+            "title": "Conversations at Scale with Robust AI-led Interviews",
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974382",
+            "media": "academic",
+            "tags": [
+                "aiinterviewer"
+            ],
+            "short": {
+                "ja": "本研究は、大規模言語モデル（LLM）を用いることで、数千人規模の回答者に対して質の高い定性的インタビューを低コストで実施可能にし、その対話品質が人間の専門家に匹敵することを実証した上で、主観的な幸福感、政治的選好、意思決定要因、メンタルモデルの解明に応用したものである",
+                "en": "This paper develops a robust approach for conducting AI-led qualitative interviews at scale, demonstrating through expert evaluation that LLMs can achieve performance comparable to human experts, and applies this method to elicit subjective well-being, political views, decision-making factors, and mental models."
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768773821.802,
+            "updatedAt": 1768773821.802,
+            "filename": "1768773821"
+        },
+        {
             "title": "Emotion in Human–Computer Interaction",
             "link": "https://www.researchgate.net/publication/242107189_Emotion_in_Human-Computer_Interaction",
             "media": "academic",
@@ -124,6 +141,23 @@
             "createdAt": 1720756464.725,
             "updatedAt": 1720756464.725,
             "filename": "1720756464"
+        },
+        {
+            "title": "Collecting Qualitative Data at Scale with Large Language Models: A Case Study",
+            "link": "https://arxiv.org/pdf/2309.10187#page=24.43",
+            "media": "academic",
+            "tags": [
+                "aiinterviewer"
+            ],
+            "short": {
+                "ja": "大規模言語モデル（LLM）を用いたチャットボットによる定性データ収集の有効性を、399名の参加者を対象とした大規模なユーザー調査を通じて検証した結果、チャットボットは従来のアンケートと比較して参加者の満足度や回答の質（関連性や具体性）を高めることには成功したが、参加者の動機や個人的な経験といった社会的文脈の深層を捉える「豊かさ（richness）」に関しては、人間のインタビュアーの水準には達していないことを明らかにした研究",
+                "en": "This study evaluates the efficacy of collecting qualitative data at scale using LLM-based chatbots through a user study with 399 participants, finding that while chatbots improved user satisfaction and response quality (relevance, specificity) compared to surveys, they failed to capture the \"richness\" of social context—such as personal motives and lived experiences—characteristic of effective human interviewing."
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768774600.42,
+            "updatedAt": 1768774600.42,
+            "filename": "1768774600"
         },
         {
             "title": "【記事更新】私のブックマーク「Affective Computing（感情計算論）」",
@@ -357,6 +391,24 @@
             "createdAt": 1752683630.171,
             "updatedAt": 1752683637.283,
             "filename": "1752683637"
+        },
+        {
+            "title": "All of StatisticsA Concise Course in Statistical Inference",
+            "link": "https://www.taylorfrancis.com/books/mono/10.4324/9780203807002/understanding-new-statistics-geoff-cumming",
+            "media": "book",
+            "tags": [
+                "statistics",
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1768647872.397,
+            "updatedAt": 1768647872.397,
+            "filename": "1768647872"
         },
         {
             "title": "Material UI",
@@ -892,6 +944,23 @@
             "createdAt": 1719823613.29,
             "updatedAt": 1719823613.29,
             "filename": "1719823613"
+        },
+        {
+            "title": "Tell Me About Yourself: Using an AI-Powered Chatbot to Conduct Conversational Surveys with Open-ended Questions ",
+            "link": "https://dl.acm.org/doi/epdf/10.1145/3381804",
+            "media": "academic",
+            "tags": [
+                "aiinterviewer"
+            ],
+            "short": {
+                "ja": "約600名の参加者を対象とした実証実験において、AI搭載チャットボットを用いた会話型アンケートは、従来のフォーム形式のWebアンケートと比較して、参加者のエンゲージメントを大幅に高め、自由記述回答の質（関連性、具体性、明瞭性）を有意に向上させることが明らかになった",
+                "en": "A field study involving about 600 participants revealed that an AI-powered chatbot survey drove a significantly higher level of participant engagement and elicited significantly better quality open-ended responses in terms of relevance, specificity, and clarity compared to a traditional online survey"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768774015.903,
+            "updatedAt": 1768774015.903,
+            "filename": "1768774015"
         },
         {
             "title": "GUI の確立にみる「ディスプレイ行為」の形成過程",
@@ -4051,6 +4120,24 @@
             "filename": "1745881425"
         },
         {
+            "title": "Understanding The New Statistics Effect Sizes, Confidence Intervals, and Meta-Analysis",
+            "link": "https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf",
+            "media": "book",
+            "tags": [
+                "statistics",
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1768647819.624,
+            "updatedAt": 1768647819.624,
+            "filename": "1768647819"
+        },
+        {
             "title": "Chakra UI",
             "link": "https://chakra-ui.com/",
             "media": "netpage",
@@ -4767,6 +4854,23 @@
             "createdAt": 1716446715.223,
             "updatedAt": 1716446715.223,
             "filename": "1716446715"
+        },
+        {
+            "title": "AI Conversational Interviewing: Transforming Surveys with LLMs as Adaptive Interviewers",
+            "link": "https://arxiv.org/pdf/2410.01824",
+            "media": "academic",
+            "tags": [
+                "aiinterviewer"
+            ],
+            "short": {
+                "en": "This study explores the viability of \"AI Conversational Interviewing\" using LLMs, demonstrating that it yields data quality comparable to human interviewers, while identifying specific implementation strategies and challenges.",
+                "ja": "本研究は、大規模言語モデル（LLM）を用いた「AI会話型インタビュー」の有効性を検証し、従来の人間のインタビュアーと比較しても遜色のないデータ品質が得られることを実証するとともに、その実装における具体的なプロンプト設計や課題を明らかにしたもの"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768773503.28,
+            "updatedAt": 1768773503.28,
+            "filename": "1768773503"
         },
         {
             "title": "ヘルスデータサイエンス入門 ―医療・健康データの活用を目指して―",
