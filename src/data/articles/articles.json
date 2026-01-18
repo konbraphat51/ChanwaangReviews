@@ -393,6 +393,23 @@
             "filename": "1752683637"
         },
         {
+            "title": "Chatbots for Data Collection in Surveys: A Comparison of Four Theory-Based Interview Probes",
+            "link": "https://dl.acm.org/doi/epdf/10.1145/3706598.3714128",
+            "media": "academic",
+            "tags": [
+                "aiinterviewer"
+            ],
+            "short": {
+                "ja": "本研究は、HCI研究におけるオンラインアンケートの質的データ収集を強化するために、4つの理論に基づくインタビュープローブ（深掘り質問）を搭載したLLMチャットボットを開発・比較し、特定の研究段階（探索・要件・評価）において、特に「個別の具体的な記憶」を問うプローブ（Idiographic）が回答の質を著しく向上させることを実証した。",
+                "en": "This study investigates the potential of LLM-based chatbots equipped with four theory-based interview probes to enhance qualitative data collection in online surveys, finding that idiographic probes specifically improve response quality across different stages of HCI research (exploration, requirements, and evaluation)."
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1768775788.94,
+            "updatedAt": 1768775788.94,
+            "filename": "1768775788"
+        },
+        {
             "title": "All of StatisticsA Concise Course in Statistical Inference",
             "link": "https://www.taylorfrancis.com/books/mono/10.4324/9780203807002/understanding-new-statistics-geoff-cumming",
             "media": "book",
