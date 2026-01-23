@@ -1611,6 +1611,23 @@
             "filename": "1753095713"
         },
         {
+            "title": "AmadeusGPT: a natural language interface for interactive animal behavioral analysis",
+            "link": "https://arxiv.org/abs/2307.04858",
+            "media": "academic",
+            "tags": [
+                "r"
+            ],
+            "short": {
+                "en": "r",
+                "ja": "r"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1769129160.795,
+            "updatedAt": 1769129160.795,
+            "filename": "1769129160"
+        },
+        {
             "title": "HTMLの静的サイトでもマークダウンで記事を書きたい",
             "link": "https://zenn.dev/yurukei20/articles/",
             "media": "book",
