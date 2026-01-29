@@ -3729,6 +3729,24 @@
             "filename": "1725261105"
         },
         {
+            "title": "How Much Is Lost in Using Single Items?",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3475825/",
+            "media": "academic",
+            "tags": [
+                "psychology",
+                "scale"
+            ],
+            "short": {
+                "en": "when the scale aims narrow concepts, fewer items accrutate",
+                "ja": "狭い概念を測定したい場合、項目数は少なくとも性格"
+            },
+            "importance": 5,
+            "hasPage": true,
+            "createdAt": 1769647323.931,
+            "updatedAt": 1769647323.931,
+            "filename": "1769647323"
+        },
+        {
             "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
             "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
             "media": "academic",
