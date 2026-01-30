@@ -3208,6 +3208,23 @@
             "filename": "1720006853"
         },
         {
+            "title": "CSSアニメーション解説",
+            "link": "https://yui540.com/css-animation-ch",
+            "media": "netpage",
+            "tags": [
+                "css"
+            ],
+            "short": {
+                "en": "css animation",
+                "ja": "cssアニメーション"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1769794034.276,
+            "updatedAt": 1769794034.276,
+            "filename": "1769794034"
+        },
+        {
             "title": "A Study on Training and Developing Large Language Models for Behavior Tree Generation",
             "link": "https://arxiv.org/abs/2401.08089",
             "media": "academic",
