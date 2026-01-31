@@ -4784,6 +4784,25 @@
             "filename": "1728544915"
         },
         {
+            "title": "How to Use t-SNE Effectively",
+            "link": "https://distill.pub/2016/misread-tsne/",
+            "media": "netpage",
+            "tags": [
+                "clustering",
+                "ml",
+                "tsne"
+            ],
+            "short": {
+                "en": "interpret t-sne",
+                "ja": "t-sneの解釈"
+            },
+            "importance": 3,
+            "hasPage": false,
+            "createdAt": 1769838467.617,
+            "updatedAt": 1769838467.617,
+            "filename": "1769838467"
+        },
+        {
             "title": "【OpenAI】o1が\"意図的にユーザーを騙す\"ことがあるという報告について",
             "link": "https://qiita.com/ikeda_yasuhiro/items/917f0c3c13f0120e87da",
             "media": "netpage",
