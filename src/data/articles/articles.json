@@ -942,6 +942,26 @@
             "filename": "1749733573"
         },
         {
+            "title": "Reward Bases: A simple mechanism for adaptive acquisition of multiple reward types",
+            "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012580",
+            "media": "academic",
+            "tags": [
+                "brain",
+                "neural",
+                "rl",
+                "reward"
+            ],
+            "short": {
+                "ja": "動物が空腹や口渇などの生理的状態に応じて瞬時に報酬の好みを変化させる能力を、複数の報酬次元ごとに独立した価値を学習し、現在の生理的欲求に応じてそれらを動的に重み付けするシンプルな強化学習モデル「Reward Bases」によって説明した研究",
+                "en": "This study explains animals' ability to instantly adapt reward preferences based on physiological states using a simple reinforcement learning model called \"Reward Bases,\" which learns separate values for multiple reward dimensions and weights them according to current physiological needs"
+            },
+            "importance": 5,
+            "hasPage": false,
+            "createdAt": 1772491612.119,
+            "updatedAt": 1772491612.119,
+            "filename": "1772491612"
+        },
+        {
             "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
             "link": "https://programs.sigchi.org/chi/2024/program/content/147815",
             "media": "academic",
