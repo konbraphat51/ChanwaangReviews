@@ -6659,6 +6659,24 @@
             "createdAt": 1716453618.354,
             "updatedAt": 1716453618.354,
             "filename": "1716453618"
+        },
+        {
+            "title": "BeSimulator: A Large Language Model Powered Text-based Behavior Simulator",
+            "link": "https://arxiv.org/html/2409.15865v1",
+            "media": "academic",
+            "tags": [
+                "robot",
+                "simulation"
+            ],
+            "short": {
+                "en": "This research proposes \"BeSimulator,\" a novel LLM-powered framework that evaluates and simulates robot behavior logic in text-based environments to reduce the high computational costs associated with traditional physical modeling",
+                "ja": "従来の物理モデリングによる高い計算コストを削減するため、大規模言語モデル（LLM）を活用してテキストベースの環境でロボットの行動ロジックを検証・シミュレーションする新しいフレームワーク「BeSimulator」を提案した研究です"
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1774316808.429,
+            "updatedAt": 1774316808.429,
+            "filename": "1774316808"
         }
     ]
 }
