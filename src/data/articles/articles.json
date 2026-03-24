@@ -3901,6 +3901,24 @@
             "filename": "1728544841"
         },
         {
+            "title": "Code-BT: A Code-Driven Approach to Behavior Tree Generation for Robot Tasks Planning with Large Language Models",
+            "link": "https://www.ijcai.org/proceedings/2025/0980.pdf",
+            "media": "academic",
+            "tags": [
+                "bt",
+                "ai"
+            ],
+            "short": {
+                "en": "This paper proposes Code-BT, a novel framework that leverages the advanced code generation capabilities of Large Language Models (LLMs) to automatically and precisely construct Behavior Trees (BTs) for robot task planning by generating rule-constrained Python code and utilizing syntax tree parsing.",
+                "ja": "大規模言語モデル（LLM）の高度なコード生成能力を活用し、ルールに基づいたPythonコードの生成と構文解析を経由することで、ロボットのタスク計画に不可欠なビヘイビアツリー（BT）を自動的かつ精緻に構築する新しいフレームワーク「Code-BT」を提案している"
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1774316469.646,
+            "updatedAt": 1774316469.646,
+            "filename": "1774316469"
+        },
+        {
             "title": "ARMORED CORE Vの対戦AIにおける階層型ゴール指向プランニングと機体制御",
             "link": "https://cedil.cesa.or.jp/cedil_sessions/view/591",
             "media": "netpage",
