@@ -2814,6 +2814,24 @@
             "filename": "1716882783"
         },
         {
+            "title": "Calculating and reporting effect sizes to facilitate cumulative science: a practical primer",
+            "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00863/full",
+            "media": "academic",
+            "tags": [
+                "experiment",
+                "samplesize"
+            ],
+            "short": {
+                "ja": "本論文は、心理学等の実証研究において累積的科学を推進するために、t検定および分散分析（ANOVA）における適切な効果量の計算・報告方法と、被験者間・被験者内計画での扱いの違いについて解説した実践的入門書である。",
+                "en": "This article provides a practical primer on calculating and reporting effect sizes for t-tests and ANOVAs, highlighting the differences between between-subjects and within-subjects designs, to facilitate cumulative science."
+            },
+            "importance": 3,
+            "hasPage": true,
+            "createdAt": 1777520609.366,
+            "updatedAt": 1777520609.366,
+            "filename": "1777520609"
+        },
+        {
             "title": "ゲームを用いたバイオフィードバックによる覚醒水準制御の検討",
             "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Q5OS19b02/_pdf/-char/ja",
             "media": "academic",
