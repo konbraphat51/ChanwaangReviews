@@ -3491,6 +3491,23 @@
             "filename": "1720923411"
         },
         {
+            "title": "A high-dimensional model of social impressions",
+            "link": "https://pdf.sciencedirectassets.com/271877/1-s2.0-S1364661324X00108/1-s2.0-S136466132500110X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDg5Vu8Eml5PSE6mBiMpNif4sA7Ptqvj7PkcI4ZR92ScQIgegZZKEIIaJiRuHuSsWgkZsc8vaktIUF8rsiJft%2FyOD0qvAUIuf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKkfZYSck%2FOPTqsYRSqQBQWo%2Fd7gJHgIodjF5OsgLGV0M1L6wcxT9bPp7Qx9rKx2uN%2Fzhu1LS6YnekRuqaJ1tkr5M2dIJvU8tg9WqtY399PmRxGlymh%2FFvJmQmyWkVJU9vqBqE5ecMEfFyyUfPcj2zLFLc4N%2B%2F4K30Fwv0yRNvh2j%2Fn2zbD9dPPqJhOC4t8ZqmRTBI1Qt01z%2FLJsmsXKyNsiMfCGtL1KT7deR0daZaRH8jVqP3jIojoV5%2FWuWdd0%2BFLPPNyZDzSDbXdI%2Bre2C9lgNw%2FW%2FwLle0Nuoc%2Fwoblezq%2BIdoJ4lF9AshlFxLxonQGBblbQIq8T7lpBcyuLSdE1tX3O%2FIrwXxuPeQ091xFZcoh6Ifce3GTl%2Fk%2FS8Ewgy%2BgN9hrIW3bNZ48RcT1pRLWWZOWSOTOA%2F3hzuvQQnekRkirpmvscHNkROwXMn%2FnyB6TvbWx3XDTpW3Ut4XawIKylbu1sSt6m5m8yujTlX4AovsTt9%2Bc4BJ2H1kchbIWyezxh3h3SZT2%2BhpBgOIddE9FS4FAxRU85G9YQe9uc76awb4sGCqsIXdyeKqJtKQ6wlMfNEyozVcp6cIUD6Igl5bQ4kYLfc%2Bde6JwozLy9tQ3iw2TSSDby%2FrepCfV5rFgk52DDBWNHPq3Ceuul85qHZ%2Fby6nUk5V7gDXDXy87V%2BDOuLFUN18OkdpMZ%2BMYzi%2FZjitYjg4cOtoydm2Alq01riTUKKD3kK74ir%2FEQfEbu7JvaPCgr0vJkYuQZ%2FMQy715TTzPE8NNUaWH92ha1KDU9oYvDD7trVz7HDTJ6YyGA%2BAfZvyEhYjkWK6sm7xnmj0IdKsu%2Fx%2FGCebqbQDUK2uwGdZ7UOApZAxv%2FCpq9Wm8RZXMGAHMYD1vF4y%2BuhgEZzfNOMNfd8s8GOrEBNp73BK1%2BQazSLv5fKepXq91vFEOBcqroO078D71wh%2B1JpczW1s5amU4WuQ61hYg87jhn%2FpHo%2FIeOuUgo6sncn6wiGbwVxoDDyKDQ8cVMUlfAdWFHqvEjNzBKG%2BOr2goZAW2JRPsMjRKKlJTX3p5HfmR7PUiOYdkSVn8N2LGHgLOqAOkRSANnLu4xRb8q1LqBezq8E3i2jqvr1w9KjaLFP%2FfSslwmOoFjp8pJTKR3SgL6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260507T162235Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVT7G46NS%2F20260507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dd76e136420ebc532422e8bd9a08fb2fdb14f57385be8ea4731a77b291e3225e&hash=0589f76356a9756fde41c3c3d5712fc60b652158175d4eea949348463b21dbe8&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S136466132500110X&tid=spdf-3f44888a-b811-497d-beff-533cb353e632&sid=343872d63a8509421b3949670dd63544c4e3gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnV0b2t5by5pZG0ub2NsYy5vcmc%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnV0b2t5by5pZG0ub2NsYy5vcmc%3D&ua=0f165d035f515a5453&rr=9f819076dfdf3779&cc=au",
+            "media": "academic",
+            "tags": [
+                "socialpsychology"
+            ],
+            "short": {
+                "ja": "顔から形成される社会的印象は、少数の固定次元（信頼性・支配性など）によって説明できるとする従来の低次元モデルは不完全であり、印象はアトラクタ神経ネットワークモデルに基づく高次元ニューラル状態空間における動的な軌跡として生じるという新たな理論的枠組みを提唱する。",
+                "en": "The authors argue that social impressions from faces are not reducible to a fixed set of low-dimensional constructs but instead emerge as dynamic trajectories through a high-dimensional neural-state space shaped by visual features, conceptual associations, and top-down social cognitive processes, drawing on attractor neural-network models."
+            },
+            "importance": 2,
+            "hasPage": true,
+            "createdAt": 1778171765.577,
+            "updatedAt": 1778171765.577,
+            "filename": "1778171765"
+        },
+        {
             "title": "Scientists rise up against statistical significance",
             "link": "https://www-nature-com.utokyo.idm.oclc.org/articles/d41586-019-00857-9",
             "media": "academic",
